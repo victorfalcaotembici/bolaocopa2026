@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-05-28T00:00:00Z",
+  "updatedAt": "2026-05-28T13:32:24.691218Z",
   "finishedMatchesCount": 0,
-  "standings": [],
-  "unmatchedHandles": []
+  "standings": [
+    {
+      "rank": 1,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "vgfalcao",
+      "displayName": "victor.falcao",
+      "praca": "Outros",
+      "pais": "Outros"
+    },
+    {
+      "rank": 2,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "erikajesus",
+      "displayName": "erika.jesus",
+      "praca": "Outros",
+      "pais": "Outros"
+    }
+  ],
+  "unmatchedHandles": [
+    "vgfalcao",
+    "erikajesus"
+  ]
 }
