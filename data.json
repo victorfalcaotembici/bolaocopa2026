@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T17:34:35.993694Z",
+  "updatedAt": "2026-05-28T20:24:09.966892Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -13,7 +13,9 @@
       "handle": "vgfalcao",
       "displayName": "victor.falcao",
       "praca": "Outros",
-      "pais": "Outros"
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 2,
@@ -26,11 +28,109 @@
       "handle": "erikajesus",
       "displayName": "erika.jesus",
       "praca": "Outros",
-      "pais": "Outros"
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 3,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "lailaslavutzky",
+      "displayName": "laila.slavutzky",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 4,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "gleicyoliveira",
+      "displayName": "gleicy.oliveira",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 5,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "gabriellefaria",
+      "displayName": "gabrielle.faria",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 6,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "kevinpineda",
+      "displayName": "kevin.pineda",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 7,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "thalytasilva",
+      "displayName": "Thalyta.silva",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 8,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "andresamador",
+      "displayName": "andres.amador",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     }
   ],
   "unmatchedHandles": [
     "vgfalcao",
-    "erikajesus"
+    "erikajesus",
+    "lailaslavutzky",
+    "gleicyoliveira",
+    "gabriellefaria",
+    "kevinpineda",
+    "thalytasilva",
+    "andresamador"
   ]
 }
