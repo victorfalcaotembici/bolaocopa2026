@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T20:24:09.966892Z",
+  "updatedAt": "2026-05-28T22:41:34.729619Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -70,6 +70,21 @@
       "predictionsCount": 0,
       "exactScoreCount": 0,
       "correctWinnerCount": 0,
+      "handle": "josesilva",
+      "displayName": "jose.silva",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 6,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
       "handle": "gabriellefaria",
       "displayName": "gabrielle.faria",
       "praca": "Outros",
@@ -78,7 +93,7 @@
       "adm_corp": "Outros"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -93,7 +108,7 @@
       "adm_corp": "Outros"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -108,7 +123,7 @@
       "adm_corp": "Outros"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -121,6 +136,36 @@
       "pais": "Outros",
       "diretoria": "Outros",
       "adm_corp": "Outros"
+    },
+    {
+      "rank": 10,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "emersonsoares",
+      "displayName": "emerson.soares",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 11,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "victorjorge",
+      "displayName": "Victor.jorge",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     }
   ],
   "unmatchedHandles": [
@@ -128,9 +173,12 @@
     "erikajesus",
     "lailaslavutzky",
     "gleicyoliveira",
+    "josesilva",
     "gabriellefaria",
     "kevinpineda",
     "thalytasilva",
-    "andresamador"
+    "andresamador",
+    "emersonsoares",
+    "victorjorge"
   ]
 }
