@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T19:31:44.079533Z",
+  "updatedAt": "2026-05-29T21:52:24.686224Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -250,6 +250,21 @@
       "predictionsCount": 0,
       "exactScoreCount": 0,
       "correctWinnerCount": 0,
+      "handle": "andrebifulco",
+      "displayName": "andre.bifulco",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 18,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
       "handle": "alexsouza",
       "displayName": "alex.souza",
       "praca": "BikeSampa",
@@ -258,7 +273,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -273,7 +288,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -286,10 +301,41 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 21,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "henriquetembici",
+      "displayName": "roberto.paula",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 22,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "paulofreitas",
+      "displayName": "paulo.freitas",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
     "vgfalcao",
-    "jeanlira"
+    "jeanlira",
+    "henriquetembici"
   ]
 }
