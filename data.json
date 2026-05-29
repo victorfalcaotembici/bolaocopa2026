@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T09:55:25.490171Z",
+  "updatedAt": "2026-05-29T11:31:12.581766Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -196,6 +196,36 @@
       "pais": "Outros",
       "diretoria": "Outros",
       "adm_corp": "Outros"
+    },
+    {
+      "rank": 14,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "rafaellacerda",
+      "displayName": "rafael.lacerda",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 15,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "jeanlira",
+      "displayName": "jean.lira",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     }
   ],
   "unmatchedHandles": [
@@ -211,6 +241,8 @@
     "emersonsoares",
     "victorjorge",
     "angiereina",
-    "andersonbarreto"
+    "andersonbarreto",
+    "rafaellacerda",
+    "jeanlira"
   ]
 }
