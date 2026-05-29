@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T16:42:16.625840Z",
+  "updatedAt": "2026-05-29T19:31:44.079533Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -237,6 +237,51 @@
       "correctWinnerCount": 0,
       "handle": "sabrinacastro",
       "displayName": "sabrina.castro",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 17,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "alexsouza",
+      "displayName": "alex.souza",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 18,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "marcosbarreto",
+      "displayName": "marcos.barreto",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 19,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "williansilva",
+      "displayName": "willian.silva",
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CBO",
