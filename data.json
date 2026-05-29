@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T11:37:49.398870Z",
+  "updatedAt": "2026-05-29T12:15:15.929752Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -87,10 +87,10 @@
       "correctWinnerCount": 0,
       "handle": "gabriellefaria",
       "displayName": "gabrielle.faria",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 7,
@@ -117,10 +117,10 @@
       "correctWinnerCount": 0,
       "handle": "thalytasilva",
       "displayName": "Thalyta.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 9,
@@ -162,10 +162,10 @@
       "correctWinnerCount": 0,
       "handle": "victorjorge",
       "displayName": "Victor.jorge",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 12,
@@ -192,10 +192,10 @@
       "correctWinnerCount": 0,
       "handle": "andersonbarreto",
       "displayName": "anderson.barreto",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 14,
@@ -207,10 +207,10 @@
       "correctWinnerCount": 0,
       "handle": "rafaellacerda",
       "displayName": "rafael.lacerda",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 15,
@@ -230,11 +230,6 @@
   ],
   "unmatchedHandles": [
     "vgfalcao",
-    "gabriellefaria",
-    "thalytasilva",
-    "victorjorge",
-    "andersonbarreto",
-    "rafaellacerda",
     "jeanlira"
   ]
 }
