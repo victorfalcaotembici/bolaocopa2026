@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T12:15:15.929752Z",
+  "updatedAt": "2026-05-29T12:47:48.914582Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -226,6 +226,21 @@
       "pais": "Outros",
       "diretoria": "Outros",
       "adm_corp": "Outros"
+    },
+    {
+      "rank": 16,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "sabrinacastro",
+      "displayName": "sabrina.castro",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
