@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T22:41:34.729619Z",
+  "updatedAt": "2026-05-29T05:13:39.713997Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -166,6 +166,36 @@
       "pais": "Outros",
       "diretoria": "Outros",
       "adm_corp": "Outros"
+    },
+    {
+      "rank": 12,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "angiereina",
+      "displayName": "angie.reina",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 13,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "andersonbarreto",
+      "displayName": "anderson.barreto",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     }
   ],
   "unmatchedHandles": [
@@ -179,6 +209,8 @@
     "thalytasilva",
     "andresamador",
     "emersonsoares",
-    "victorjorge"
+    "victorjorge",
+    "angiereina",
+    "andersonbarreto"
   ]
 }
