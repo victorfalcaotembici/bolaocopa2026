@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T11:31:12.581766Z",
+  "updatedAt": "2026-05-29T11:37:49.398870Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -27,10 +27,10 @@
       "correctWinnerCount": 0,
       "handle": "erikajesus",
       "displayName": "erika.jesus",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 3,
@@ -42,10 +42,10 @@
       "correctWinnerCount": 0,
       "handle": "lailaslavutzky",
       "displayName": "laila.slavutzky",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 4,
@@ -57,10 +57,10 @@
       "correctWinnerCount": 0,
       "handle": "gleicyoliveira",
       "displayName": "gleicy.oliveira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 5,
@@ -72,10 +72,10 @@
       "correctWinnerCount": 0,
       "handle": "josesilva",
       "displayName": "jose.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 6,
@@ -102,10 +102,10 @@
       "correctWinnerCount": 0,
       "handle": "kevinpineda",
       "displayName": "kevin.pineda",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "RELGOV",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 8,
@@ -132,10 +132,10 @@
       "correctWinnerCount": 0,
       "handle": "andresamador",
       "displayName": "andres.amador",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 10,
@@ -147,10 +147,10 @@
       "correctWinnerCount": 0,
       "handle": "emersonsoares",
       "displayName": "emerson.soares",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 11,
@@ -177,10 +177,10 @@
       "correctWinnerCount": 0,
       "handle": "angiereina",
       "displayName": "angie.reina",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 13,
@@ -230,17 +230,9 @@
   ],
   "unmatchedHandles": [
     "vgfalcao",
-    "erikajesus",
-    "lailaslavutzky",
-    "gleicyoliveira",
-    "josesilva",
     "gabriellefaria",
-    "kevinpineda",
     "thalytasilva",
-    "andresamador",
-    "emersonsoares",
     "victorjorge",
-    "angiereina",
     "andersonbarreto",
     "rafaellacerda",
     "jeanlira"
