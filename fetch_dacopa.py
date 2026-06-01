@@ -53,11 +53,21 @@ def build_output(raw, users_map):
     enriched, unmatched = [], []
     for e in standings:
         u = e.get("user", {})
+        
+        # Tenta primeiro com handle
         handle = (u.get("handle") or "").strip().lower()
         info = users_map.get(handle)
+        
+        # Se não encontrar, tenta com displayName
         if not info:
-            unmatched.append(handle)
+            display_name = (u.get("displayName") or "").strip().lower().replace(".", "")
+            info = users_map.get(display_name)
+        
+        # Se ainda não encontrar, marca como unmatched
+        if not info:
+            unmatched.append(handle or u.get("displayName", "unknown"))
             info = {"praca":"Outros","pais":"Outros","diretoria":"Outros","adm_corp":"Outros"}
+        
         enriched.append({
             "rank":             e.get("rank"),
             "totalPoints":      e.get("totalPoints", 0),
