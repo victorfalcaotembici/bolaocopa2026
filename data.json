@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T22:00:11.765698Z",
+  "updatedAt": "2026-06-01T00:06:33.198897Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -190,6 +190,21 @@
       "predictionsCount": 0,
       "exactScoreCount": 0,
       "correctWinnerCount": 0,
+      "handle": "alanferreira",
+      "displayName": "alan.conceicao",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 14,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
       "handle": "andersonbarreto",
       "displayName": "anderson.barreto",
       "praca": "BikeSSA",
@@ -198,7 +213,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -213,7 +228,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -228,7 +243,7 @@
       "adm_corp": "Outros"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -243,7 +258,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -258,7 +273,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -273,7 +288,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -288,7 +303,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -303,7 +318,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -318,7 +333,7 @@
       "adm_corp": "Outros"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -331,11 +346,105 @@
       "pais": "Brasil",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 24,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "joaoreis",
+      "displayName": "joao.reis",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 25,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "eduardosebastiao",
+      "displayName": "eduardo.sebastiao",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 26,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "brenomaciel",
+      "displayName": "breno.maciel",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 27,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "thiagomohr",
+      "displayName": "thiago.mohr",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 28,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "alynesilva",
+      "displayName": "alyne.silva",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 29,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "italosilva",
+      "displayName": "italo.silva",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     }
   ],
   "unmatchedHandles": [
     "vgfalcao",
+    "alanferreira",
     "jeanlira",
-    "henriquetembici"
+    "henriquetembici",
+    "brenomaciel",
+    "alynesilva",
+    "italosilva"
   ]
 }
