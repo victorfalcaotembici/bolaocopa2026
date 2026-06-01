@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T12:37:54.233866Z",
+  "updatedAt": "2026-06-01T18:38:11.129840Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -436,6 +436,81 @@
       "pais": "Outros",
       "diretoria": "Outros",
       "adm_corp": "Outros"
+    },
+    {
+      "rank": 30,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "antoniofelipe",
+      "displayName": "antonio.felipe",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 31,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "anacagnotto",
+      "displayName": "ana.cagnotto",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 32,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "gabizinho",
+      "displayName": "Gabriel.nascimento",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
+    },
+    {
+      "rank": 33,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "luisgonzalez",
+      "displayName": "luis.gonzalez",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 34,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "thiagoboufelli",
+      "displayName": "thiago.boufelli",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
@@ -445,6 +520,7 @@
     "henriquetembici",
     "brenomaciel",
     "alynesilva",
-    "italosilva"
+    "italosilva",
+    "gabizinho"
   ]
 }
