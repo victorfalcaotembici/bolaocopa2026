@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T18:51:09.313954Z",
+  "updatedAt": "2026-06-01T19:42:39.637086Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -12,10 +12,10 @@
       "correctWinnerCount": 0,
       "handle": "vgfalcao",
       "displayName": "victor.falcao",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 2,
@@ -192,10 +192,10 @@
       "correctWinnerCount": 0,
       "handle": "alanferreira",
       "displayName": "alan.conceicao",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 14,
@@ -327,10 +327,10 @@
       "correctWinnerCount": 0,
       "handle": "henriquetembici",
       "displayName": "roberto.paula",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 23,
@@ -477,10 +477,10 @@
       "correctWinnerCount": 0,
       "handle": "gabizinho",
       "displayName": "Gabriel.nascimento",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 33,
@@ -514,13 +514,9 @@
     }
   ],
   "unmatchedHandles": [
-    "vgfalcao",
-    "alanferreira",
     "jeanlira",
-    "henriquetembici",
     "brenomaciel",
     "alynesilva",
-    "italosilva",
-    "gabizinho"
+    "italosilva"
   ]
 }
