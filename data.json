@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T14:53:18.816529Z",
+  "updatedAt": "2026-06-02T18:39:37.817578Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -556,6 +556,36 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 38,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "cingrispo",
+      "displayName": "Cintia.Grispo",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 39,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "jesicaferrer",
+      "displayName": "Jesica.ferrer",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
