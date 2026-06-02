@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T10:24:29.595398Z",
+  "updatedAt": "2026-06-02T14:53:18.816529Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -522,6 +522,36 @@
       "correctWinnerCount": 0,
       "handle": "keilasantos",
       "displayName": "keila.Santos",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 36,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "lucasp",
+      "displayName": "lucas.pereira",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 37,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "robertfernandes",
+      "displayName": "robert.fernandes",
       "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
