@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T21:48:02.658551Z",
+  "updatedAt": "2026-06-02T23:45:47.123175Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -600,6 +600,21 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 41,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "emersonsouza",
+      "displayName": "emerson.souza",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
       "adm_corp": "Corporativo"
     }
   ],
