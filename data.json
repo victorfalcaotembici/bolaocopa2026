@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T18:39:37.817578Z",
+  "updatedAt": "2026-06-02T21:48:02.658551Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -585,6 +585,21 @@
       "praca": "BAEcobici",
       "pais": "Argentina",
       "diretoria": "CBO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 40,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "wesleymarcelino",
+      "displayName": "wesley.marcelino",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
       "adm_corp": "Corporativo"
     }
   ],
