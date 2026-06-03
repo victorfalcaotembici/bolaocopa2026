@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T17:08:41.303116Z",
+  "updatedAt": "2026-06-03T18:44:05.944394Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -625,6 +625,21 @@
       "predictionsCount": 0,
       "exactScoreCount": 0,
       "correctWinnerCount": 0,
+      "handle": "luisarestrepo",
+      "displayName": "Luisa.restrepo",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 43,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
       "handle": "wesleymarcelino",
       "displayName": "wesley.marcelino",
       "praca": "Corporativo",
@@ -633,7 +648,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -648,7 +663,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -663,7 +678,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -678,7 +693,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -693,7 +708,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -708,7 +723,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -723,7 +738,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -738,7 +753,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -753,7 +768,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -768,7 +783,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -778,6 +793,66 @@
       "handle": "wellingtonrc7",
       "displayName": "wellington.cavalcante",
       "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 54,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "matheushenrique",
+      "displayName": "Matheus.vieira",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 55,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "gabrielsvieira",
+      "displayName": "gabriel.svieira",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 56,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "gustavohenrique",
+      "displayName": "gustavo.mendes",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 57,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "tiagoalmeida",
+      "displayName": "Tiago.Almeida",
+      "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
