@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T18:44:05.944394Z",
+  "updatedAt": "2026-06-03T21:49:42.586481Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -856,6 +856,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 58,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "paulafergui",
+      "displayName": "paula.oliveira",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
