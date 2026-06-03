@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T21:49:42.586481Z",
+  "updatedAt": "2026-06-03T23:43:59.184231Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -206,7 +206,7 @@
       "exactScoreCount": 0,
       "correctWinnerCount": 0,
       "handle": "andersonbarreto",
-      "displayName": "anderson.barreto",
+      "displayName": "Anderson Barreto de Jesus",
       "praca": "BikeSSA",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -871,12 +871,28 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 59,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "fernandasilva",
+      "displayName": "fernanda.silva",
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     }
   ],
   "unmatchedHandles": [
     "jeanlira",
     "brenomaciel",
     "alynesilva",
-    "italosilva"
+    "italosilva",
+    "fernandasilva"
   ]
 }
