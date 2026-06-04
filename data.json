@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T20:56:19.561247Z",
+  "updatedAt": "2026-06-04T22:23:16.491192Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1004,6 +1004,36 @@
       "displayName": "castano.rodriguez",
       "praca": "BAEcobici",
       "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 68,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "eduardocunha",
+      "displayName": "eduardo.cunha",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 69,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "douglasjunior",
+      "displayName": "douglas.junior",
+      "praca": "BikePE",
+      "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
     }
