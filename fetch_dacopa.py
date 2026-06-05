@@ -40,6 +40,7 @@ def load_users_from_xlsx():
         if praca_val.lower() == "riviera":
             praca_val = "BikeSampa"
         users[key] = {
+            "email": str(email).strip() if email else "",
             "praca": praca_val,
             "pais": str(pais).strip() if pais else "Brasil",
             "diretoria": str(diretoria).strip() if diretoria else "CBO",
@@ -51,23 +52,21 @@ def build_output(raw, users_map):
     standings = raw.get("standings", [])
     finished  = raw.get("finishedMatches", [])
     enriched, unmatched = [], []
+
+    # Build set of handles that are enrolled (present in leaderboard)
+    enrolled_handles = set()
     for e in standings:
         u = e.get("user", {})
-        
-        # Tenta primeiro com handle
+        handle = (u.get("handle") or "").strip().lower()
+        enrolled_handles.add(handle)
+
+    for e in standings:
+        u = e.get("user", {})
         handle = (u.get("handle") or "").strip().lower()
         info = users_map.get(handle)
-        
-        # Se não encontrar, tenta com displayName
         if not info:
-            display_name = (u.get("displayName") or "").strip().lower().replace(".", "")
-            info = users_map.get(display_name)
-        
-        # Se ainda não encontrar, marca como unmatched
-        if not info:
-            unmatched.append(handle or u.get("displayName", "unknown"))
-            info = {"praca":"Outros","pais":"Outros","diretoria":"Outros","adm_corp":"Outros"}
-        
+            unmatched.append(handle)
+            info = {"praca":"Outros","pais":"Outros","diretoria":"Outros","adm_corp":"Outros","email":""}
         enriched.append({
             "rank":             e.get("rank"),
             "totalPoints":      e.get("totalPoints", 0),
@@ -83,11 +82,28 @@ def build_output(raw, users_map):
             "diretoria":   info["diretoria"],
             "adm_corp":    info["adm_corp"],
         })
+
+    # Build enrollment list: every person in the Excel base with their status
+    enrollment = []
+    for handle, info in users_map.items():
+        enrollment.append({
+            "handle":   handle,
+            "email":    info.get("email", ""),
+            "praca":    info["praca"],
+            "pais":     info["pais"],
+            "diretoria": info["diretoria"],
+            "adm_corp": info["adm_corp"],
+            "inscrito": handle in enrolled_handles,
+        })
+    # Sort: praça asc, then uninscribed first, then handle
+    enrollment.sort(key=lambda x: (x["praca"], not x["inscrito"], x["handle"]))
+
     return {
         "updatedAt": datetime.utcnow().isoformat() + "Z",
         "finishedMatchesCount": len(finished),
         "standings": enriched,
-        "unmatchedHandles": unmatched
+        "unmatchedHandles": unmatched,
+        "enrollment": enrollment,
     }
 
 if __name__ == "__main__":
@@ -104,6 +120,9 @@ if __name__ == "__main__":
         json.dump(output, f, ensure_ascii=False, indent=2)
     n = len(output["standings"])
     j = output["finishedMatchesCount"]
-    print(f"OK — {n} participantes, {j} jogos encerrados")
+    e = len(output["enrollment"])
+    ins = sum(1 for x in output["enrollment"] if x["inscrito"])
+    print(f"OK — {n} no ranking, {j} jogos encerrados")
+    print(f"Inscrições: {ins}/{e} ({100*ins//e if e else 0}%)")
     if output["unmatchedHandles"]:
         print(f"Sem match ({len(output['unmatchedHandles'])}): {output['unmatchedHandles'][:10]}")
