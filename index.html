@@ -168,6 +168,7 @@ body{background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI
       <button class="tb" onclick="showTab('dir',this)" id="tb2">🏢 Diretoria</button>
       <button class="tb" onclick="showTab('corp',this)" id="tb3">⚙️ Corp vs Op</button>
       <button class="tb" onclick="showTab('enr',this)" id="tb4">📋 Inscrições</button>
+      <button class="tb" onclick="showTab('erros',this)" id="tb5">⚠️ Erros</button>
     </div>
 
     <div id="sec-geral" class="sec on">
@@ -194,6 +195,10 @@ body{background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI
       <div class="enr-filter" id="enr-filter"></div>
       <div class="enr-grid" id="enr-cards"></div>
     </div>
+
+    <div id="sec-erros" class="sec">
+      <div id="erros-wrap"></div>
+    </div>
   </div>
 
 </div>
@@ -204,15 +209,17 @@ const MEDALS=["🥇","🥈","🥉"];
 
 const I18N={
   pt:{title:"Bolão Copa 2026",sub:"Tembici · Copa 2026™",loading:"Carregando...",err:"Erro ao carregar",
-      t0:"🏆 Geral",t1:"📍 Praças",t2:"🏢 Diretoria",t3:"⚙️ Corp vs Op",t4:"📋 Inscrições",
+      t0:"🏆 Geral",t1:"📍 Praças",t2:"🏢 Diretoria",t3:"⚙️ Corp vs Op",t4:"📋 Inscrições",t5:"⚠️ Erros",
       geral:"Ranking Geral",top5:"Top 5",top3:"Top 3",jogos:"jogos",atualizado:"Atualizado",pts:"pts",part:"part.",
       corp:"Corporativo",op:"Operação",
+      erros_title:"Handles sem match",erros_sub:"cadastrados no Dacopa mas não encontrados na base Excel",erros_none:"✅ Nenhum erro! Todos os handles têm match na base.",
       enr_title:"Status de Inscrição por Praça",enr_total:"na base",enr_in:"inscritos",enr_out:"pendentes",
       enr_all:"Todas",enr_only_out:"Só pendentes",tag_in:"inscrito",tag_out:"pendente"},
   es:{title:"Quiniela Copa 2026",sub:"Tembici · Copa 2026™",loading:"Cargando...",err:"Error al cargar",
-      t0:"🏆 General",t1:"📍 Ciudades",t2:"🏢 Dirección",t3:"⚙️ Corp vs Op",t4:"📋 Inscripciones",
+      t0:"🏆 General",t1:"📍 Ciudades",t2:"🏢 Dirección",t3:"⚙️ Corp vs Op",t4:"📋 Inscripciones",t5:"⚠️ Errores",
       geral:"Clasificación General",top5:"Top 5",top3:"Top 3",jogos:"partidos",atualizado:"Actualizado",pts:"pts",part:"part.",
       corp:"Corporativo",op:"Operaciones",
+      erros_title:"Handles sin match",erros_sub:"registrados en Dacopa pero no encontrados en la base Excel",erros_none:"✅ ¡Sin errores! Todos los handles tienen match en la base.",
       enr_title:"Estado de Inscripción por Ciudad",enr_total:"en la base",enr_in:"inscritos",enr_out:"pendientes",
       enr_all:"Todos",enr_only_out:"Solo pendientes",tag_in:"inscrito",tag_out:"pendiente"}
 };
@@ -317,7 +324,7 @@ function renderAll(){
   document.getElementById("upd-t").textContent=fmtT(DATA.updatedAt);
   document.getElementById("upd-j").textContent=DATA.finishedMatchesCount+" "+t("jogos");
   document.getElementById("loading-txt").textContent=t("loading");
-  ["tb0","tb1","tb2","tb3","tb4"].forEach((id,i)=>{
+  ["tb0","tb1","tb2","tb3","tb4","tb5"].forEach((id,i)=>{
     const el=document.getElementById(id);
     if(el)el.textContent=t("t"+i);
   });
@@ -346,6 +353,7 @@ function renderAll(){
   },5,true);
 
   renderEnrollment();
+  renderErros();
 }
 
 let ENR_FILTER="all"; // "all" | "pending"

@@ -67,7 +67,7 @@ def build_output(raw, users_map):
         info = users_map.get(display_key) or users_map.get(handle)
         if not info:
             unmatched.append(handle)
-            info = {"praca":"Outros","pais":"Outros","diretoria":"Outros","adm_corp":"Outros","email":""}
+            continue  # não aloca em nenhuma categoria
         enriched.append({
             "rank":             e.get("rank"),
             "totalPoints":      e.get("totalPoints", 0),
