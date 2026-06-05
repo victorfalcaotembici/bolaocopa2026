@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T17:12:10.130361Z",
+  "updatedAt": "2026-06-05T17:32:23.253940Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -198,21 +198,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 14,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "andersonbarreto",
-      "displayName": "Anderson Barreto de Jesus",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 15,
       "totalPoints": 0,
       "prevPosition": 0,
@@ -226,21 +211,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 16,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "jeanlira",
-      "displayName": "jean.lira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 17,
@@ -363,21 +333,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 25,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "matheusbarbosa",
-      "displayName": "Matheus Barbosa",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 26,
       "totalPoints": 0,
       "prevPosition": 0,
@@ -408,21 +363,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 28,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "brenomaciel",
-      "displayName": "breno.maciel",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 29,
       "totalPoints": 0,
       "prevPosition": 0,
@@ -436,36 +376,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 30,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "alynesilva",
-      "displayName": "alyne.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 31,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "italosilva",
-      "displayName": "italo.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 32,
@@ -888,21 +798,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 60,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "fernandasilva",
-      "displayName": "fernanda.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 61,
       "totalPoints": 0,
       "prevPosition": 0,
@@ -946,21 +841,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 64,
-      "totalPoints": 0,
-      "prevPosition": 0,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "matiasbarros",
-      "displayName": "Matías.barros",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 65,
