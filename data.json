@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T12:38:09.325465Z",
+  "updatedAt": "2026-06-05T14:10:01.282483Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -12,10 +12,10 @@
       "correctWinnerCount": 0,
       "handle": "vgfalcao",
       "displayName": "victor.falcao",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 2,
@@ -192,10 +192,10 @@
       "correctWinnerCount": 0,
       "handle": "alanferreira",
       "displayName": "alan.conceicao",
-      "praca": "BikeSSA",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 14,
@@ -327,10 +327,10 @@
       "correctWinnerCount": 0,
       "handle": "valdez",
       "displayName": "Bruno.Valdez",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 23,
@@ -342,10 +342,10 @@
       "correctWinnerCount": 0,
       "handle": "henriquetembici",
       "displayName": "roberto.paula",
-      "praca": "BikeFloripa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 24,
@@ -507,10 +507,10 @@
       "correctWinnerCount": 0,
       "handle": "gabizinho",
       "displayName": "Gabriel.nascimento",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 35,
@@ -567,10 +567,10 @@
       "correctWinnerCount": 0,
       "handle": "lucasp",
       "displayName": "lucas.pereira",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 39,
@@ -597,10 +597,10 @@
       "correctWinnerCount": 0,
       "handle": "cingrispo",
       "displayName": "Cintia.Grispo",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 41,
@@ -657,10 +657,10 @@
       "correctWinnerCount": 0,
       "handle": "fercarvalho",
       "displayName": "fernando.carvalho",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 45,
@@ -687,10 +687,10 @@
       "correctWinnerCount": 0,
       "handle": "thiagordz",
       "displayName": "thiago.rodriguez",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 47,
@@ -702,10 +702,10 @@
       "correctWinnerCount": 0,
       "handle": "tembicicom",
       "displayName": "Anderson.oliveira",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 48,
@@ -807,10 +807,10 @@
       "correctWinnerCount": 0,
       "handle": "wellingtonrc7",
       "displayName": "wellington.cavalcante",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 55,
@@ -822,10 +822,10 @@
       "correctWinnerCount": 0,
       "handle": "matheushenrique",
       "displayName": "Matheus.vieira",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 56,
@@ -852,10 +852,10 @@
       "correctWinnerCount": 0,
       "handle": "gustavohenrique",
       "displayName": "gustavo.mendes",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 58,
@@ -882,10 +882,10 @@
       "correctWinnerCount": 0,
       "handle": "paulafergui",
       "displayName": "paula.oliveira",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 60,
@@ -1039,10 +1039,6749 @@
     }
   ],
   "unmatchedHandles": [
+    "vgfalcao",
+    "alanferreira",
     "jeanlira",
+    "valdez",
+    "henriquetembici",
     "brenomaciel",
     "alynesilva",
     "italosilva",
+    "gabizinho",
+    "lucasp",
+    "cingrispo",
+    "fercarvalho",
+    "thiagordz",
+    "tembicicom",
+    "wellingtonrc7",
+    "matheushenrique",
+    "gustavohenrique",
+    "paulafergui",
     "fernandasilva"
+  ],
+  "enrollment": [
+    {
+      "handle": "castanorodriguez",
+      "email": "castano.rodriguez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "jesicaferrer",
+      "email": "jesica.ferrer@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "lailaslavutzky",
+      "email": "laila.slavutzky@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "nataliaronchi",
+      "email": "natalia.ronchi@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "sabrinaortellado",
+      "email": "sabrina.ortellado@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "alanquinas",
+      "email": "alan.quinas@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "aldanabuendia",
+      "email": "aldana.buendia@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alejandrocastillo",
+      "email": "alejandro.castillo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andrescardozo",
+      "email": "andres.cardozo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "anthonystivens",
+      "email": "anthony.stivens@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "antonioezequiel",
+      "email": "antonio.ezequiel@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "armandoarias",
+      "email": "armando.arias@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "asaelfederico",
+      "email": "asael.federico@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "barbarafagnani",
+      "email": "barbara.fagnani@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "braianvassia",
+      "email": "braian.vassia@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brianvicenzo",
+      "email": "brian.vicenzo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "castillomaximiliano",
+      "email": "castillo.maximiliano@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "celestepersuh",
+      "email": "celeste.persuh@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cintiagrispo",
+      "email": "cintia.grispo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "claudioarguello",
+      "email": "claudio.arguello@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cristiancordova",
+      "email": "cristian.cordova@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diegoalvarenque",
+      "email": "diego.alvarenque@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diegoiluchko",
+      "email": "diego.iluchko@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diegomoreno",
+      "email": "diego.moreno@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diegoparedes",
+      "email": "diego.paredes@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diegotello",
+      "email": "diego.tello@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "edgaraguero",
+      "email": "edgar.aguero@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "edsoncalle",
+      "email": "edson.calle@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardoguzman",
+      "email": "eduardo.guzman@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "emanuelperez",
+      "email": "emanuel.perez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "erickmarcano",
+      "email": "erick.marcano@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ezequielescalante",
+      "email": "ezequiel.escalante@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "francoespejo",
+      "email": "franco.espejo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "francogirard",
+      "email": "franco.girard@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "francogonzalez",
+      "email": "franco.gonzalez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielpino",
+      "email": "gabriel.pino@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielsorace",
+      "email": "gabriel.sorace@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "godoysegundo",
+      "email": "godoy.segundo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gonzaloferreyra",
+      "email": "gonzalo.ferreyra@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gonzalorisso",
+      "email": "gonzalo.risso@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hectorquiroga",
+      "email": "hector.quiroga@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hectorzeballos",
+      "email": "hector.zeballos@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "henrygisbert",
+      "email": "henry.gisbert@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "iagoriveiro",
+      "email": "iago.riveiro@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ibanesemanuel",
+      "email": "ibanes.emanuel@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ignacioherrera",
+      "email": "ignacio.herrera@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ignacioromero",
+      "email": "ignacio.romero@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "javierorellano",
+      "email": "javier.orellano@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jesicazanabria",
+      "email": "jesica.zanabria@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "jessicasuarez",
+      "email": "jessica.suarez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joamgalea",
+      "email": "joam.galea@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joaquinbenitez",
+      "email": "Joaquin.benitez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonatanbarrientos",
+      "email": "jonatan.barrientos@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonatancarabajal",
+      "email": "jonatan.carabajal@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonathangonzalez",
+      "email": "jonathan.gonzalez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josemartinez",
+      "email": "jose.martinez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josemolina",
+      "email": "jose.molina@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josesanchez",
+      "email": "jose.sanchez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juangavilan",
+      "email": "juan.gavilan@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juliancevey",
+      "email": "julian.cevey@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juliangonzalez",
+      "email": "julian.gonzalez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "julianprado",
+      "email": "julian.prado@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "julietarey",
+      "email": "julieta.rey@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "juliocarabajal",
+      "email": "julio.carabajal@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardodominguez",
+      "email": "leonardo.dominguez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardokowalczuk",
+      "email": "leonardo.kowalczuk@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leticiatorres",
+      "email": "leticia.torres@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ligottiadrian",
+      "email": "ligotti.adrian@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucascaceres",
+      "email": "lucas.caceres@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasgodoy",
+      "email": "lucas.godoy@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasomil",
+      "email": "lucas.omil@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucaspollet",
+      "email": "lucas.pollet@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucianoescalante",
+      "email": "luciano.escalante@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucianovarela",
+      "email": "Luciano.varela@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "manuelmansilla",
+      "email": "manuel.mansilla@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcosfernandez",
+      "email": "marcos.fernandez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mariandapueto",
+      "email": "marian.dapueto@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mariorojas",
+      "email": "mario.rojas@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marioromeo",
+      "email": "mario.romeo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "martindiaz",
+      "email": "martin.diaz@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mauriciosilvero",
+      "email": "mauricio.silvero@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mayerdamian",
+      "email": "mayer.damian@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "micaelacastano",
+      "email": "micaela.castano@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "milenaoviedo",
+      "email": "milena.oviedo@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "miltonvelardes",
+      "email": "milton.velardes@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "nahueldi",
+      "email": "nahuel.di@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "natalyrodriguez",
+      "email": "nataly.rodriguez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "nicolasleiva",
+      "email": "nicolas.leiva@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "nicolasyanicelli",
+      "email": "nicolas.yanicelli@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pabloboyer",
+      "email": "pablo.boyer@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pablolopez",
+      "email": "pablo.lopez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "richarriveros",
+      "email": "richar.riveros@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "robertomedori",
+      "email": "roberto.medori@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "romanmarek",
+      "email": "roman.marek@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "romualdotoconas",
+      "email": "romualdo.toconas@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rubengonzalez",
+      "email": "ruben.gonzalez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sebastianfrattura",
+      "email": "sebastian.frattura@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "silvanajaimez",
+      "email": "silvana.jaimez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sofiasimiele",
+      "email": "sofia.simiele@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "tamaraszydlowski",
+      "email": "tamara.szydlowski@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagoquiroz",
+      "email": "thiago.quiroz@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagorodriguez",
+      "email": "thiago.rodriguez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "valentinaalmentero",
+      "email": "valentina.almentero@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "waltersorella",
+      "email": "walter.sorella@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "yonatansales",
+      "email": "yonatan.sales@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "zoteloagustin",
+      "email": "zotelo.agustin@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardosebastiao",
+      "email": "eduardo.sebastiao@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "joaocintra",
+      "email": "joao.cintra@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "alanalves",
+      "email": "alan.alves@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunocampos",
+      "email": "bruno.campos@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "caiquesantos",
+      "email": "caique.santos@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "danielssilva",
+      "email": "daniel.ssilva@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "darciojunior",
+      "email": "darcio.junior@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "edgardias",
+      "email": "edgar.dias@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "emersonsantos",
+      "email": "emerson.santos@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juliocampos",
+      "email": "julio.campos@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juniohypolito",
+      "email": "junio.hypolito@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucascabral",
+      "email": "lucas.cabral@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizaalmeida",
+      "email": "luiza.almeida@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "messiassilva",
+      "email": "messias.silva@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "paulolopes",
+      "email": "paulo.lopes@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pedromiranda",
+      "email": "pedro.miranda@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "saviocaldeira",
+      "email": "savio.caldeira@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "washingtonfelix",
+      "email": "washington.felix@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rafaellacerda",
+      "email": "rafael.lacerda@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "brendoalcantara",
+      "email": "brendo.alcantara@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cesarmarquez",
+      "email": "cesar.marquez@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "darlianysouza",
+      "email": "darliany.souza@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "felipercarvalho",
+      "email": "felipe.rcarvalho@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joseanesilva",
+      "email": "joseane.silva@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizpereira",
+      "email": "luiz.pereira@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcialucena",
+      "email": "marcia.lucena@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "paulosousa",
+      "email": "paulo.sousa@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raphaelcavalcante",
+      "email": "raphael.cavalcante@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raphaellacerda",
+      "email": "raphael.lacerda@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ronieloliveira",
+      "email": "roniel.oliveira@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wandersongarcia",
+      "email": "wanderson.garcia@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andresamador",
+      "email": "andres.amador@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "angiereina",
+      "email": "angie.reina@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "kevinpineda",
+      "email": "kevin.pineda@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "RELGOV",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "luisarestrepo",
+      "email": "luisa.restrepo@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "camilaacosta",
+      "email": "camila.acosta@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "carolinarodriguez",
+      "email": "carolina.rodriguez@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "dianaaranda",
+      "email": "diana.aranda@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "jannergarcia",
+      "email": "janner.garcia@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jeisonreyes",
+      "email": "jeison.reyes@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhoanhurtado",
+      "email": "jhoan.hurtado@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juanortiz",
+      "email": "juan.ortiz@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "julyvelasco",
+      "email": "july.velasco@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "lauravasquez",
+      "email": "laura.vasquez@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leidytorres",
+      "email": "leidy.torres@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "lizussa",
+      "email": "liz.ussa@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "oscarrodriguez",
+      "email": "oscar.rodriguez@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "oscarrojas",
+      "email": "oscar.rojas@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "paolaladino",
+      "email": "paola.ladino@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagomohr",
+      "email": "thiago.mohr@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "alexsandroweretycki",
+      "email": "alexsandro.weretycki@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andreprestes",
+      "email": "andre.prestes@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "dionatanpremibida",
+      "email": "dionatan.premibida@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "douglaspereira",
+      "email": "douglas.pereira@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "edercosta",
+      "email": "eder.costa@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "higorcouto",
+      "email": "higor.couto@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hiolitamattiuzzi",
+      "email": "hiolita.mattiuzzi@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josedeguchi",
+      "email": "jose.deguchi@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "kauekrum",
+      "email": "kaue.krum@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucaskozowiski",
+      "email": "lucas.kozowiski@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizvelozo",
+      "email": "luiz.velozo@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "samirafranco",
+      "email": "samira.franco@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sidneyjunior",
+      "email": "sidney.junior@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtonlopes",
+      "email": "wellington.lopes@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alineoliveira",
+      "email": "aline.oliveira@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunoassis",
+      "email": "bruno.assis@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "deborahdiniz",
+      "email": "deborah.diniz@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardoandrade",
+      "email": "eduardo.andrade@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ericooliveira",
+      "email": "erico.oliveira@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "giovannicastelletti",
+      "email": "giovanni.castelletti@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jacsonfernandes",
+      "email": "jacson.fernandes@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joaomiguel",
+      "email": "joao.miguel@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leandropires",
+      "email": "leandro.pires@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasssouza",
+      "email": "lucas.ssouza@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasvalenca",
+      "email": "lucas.valenca@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mairaneisenger",
+      "email": "maira.neisenger@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "omaraguilera",
+      "email": "omar.aguilera@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "robertopaula",
+      "email": "roberto.paula@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "samirmacedo",
+      "email": "samir.macedo@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wagnermachado",
+      "email": "wagner.machado@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "douglasjunior",
+      "email": "douglas.junior@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "eduardocunha",
+      "email": "eduardo.cunha@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "thalytasilva",
+      "email": "thalyta.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "akaciosantos",
+      "email": "akacio.santos@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alanjesus",
+      "email": "alan.jesus@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "antoniorodrigues",
+      "email": "antonio.rodrigues@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "arthurbsilva",
+      "email": "arthur.bsilva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "assuerosantos",
+      "email": "assuero.santos@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunooliveira",
+      "email": "bruno.oliveira@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carloshenrique",
+      "email": "carlos.henrique@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cassiojunior",
+      "email": "cassio.junior@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "daniellesilva",
+      "email": "danielle.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "demosthenesjunior",
+      "email": "demosthenes.junior@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "elielcosta",
+      "email": "eliel.costa@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "elvessilva",
+      "email": "elves.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jaciarasilva",
+      "email": "jaciara.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "janainaalbuquerque",
+      "email": "janaina.albuquerque@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "janiosilva",
+      "email": "janio.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josebezerra",
+      "email": "jose.bezerra@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joseferreira",
+      "email": "jose.ferreira@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juarezsilva",
+      "email": "juarez.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "linoandrade",
+      "email": "lino.andrade@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcelsilva",
+      "email": "marcel.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mariasantos",
+      "email": "maria.santos@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pedrohsilva",
+      "email": "pedro.hsilva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigohenrique",
+      "email": "rodrigo.henrique@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "samuelbezerra",
+      "email": "samuel.bezerra@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sergiooliveira",
+      "email": "sergio.oliveira@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sergiosilva",
+      "email": "sergio.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wesleysantos",
+      "email": "wesley.santos@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "arturvargas",
+      "email": "artur.vargas@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brayanyanez",
+      "email": "brayan.yanez@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosfreitas",
+      "email": "carlos.freitas@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "chaeanetaisses",
+      "email": "chaeane.taisses@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "charlesrosa",
+      "email": "charles.rosa@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardooliveira",
+      "email": "eduardo.oliveira@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "felippemachado",
+      "email": "felippe.machado@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandarosa",
+      "email": "fernanda.rosa@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielsiqueira",
+      "email": "gabriel.siqueira@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "guilhermevaz",
+      "email": "guilherme.vaz@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ismaelsilva",
+      "email": "ismael.silva@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jeansilva",
+      "email": "jean.silva@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "julianolinhares",
+      "email": "juliano.linhares@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "kenyacosta",
+      "email": "kenya.costa@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "laosrosa",
+      "email": "laos.rosa@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardobpereira",
+      "email": "leonardo.bpereira@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardomendes",
+      "email": "leonardo.mendes@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardomezetti",
+      "email": "leonardo.mezetti@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasnunes",
+      "email": "lucas.nunes@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marciowasen",
+      "email": "marcio.wasen@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "patrickmoro",
+      "email": "patrick.moro@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pedrokronitzky",
+      "email": "pedro.kronitzky@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "regissilva",
+      "email": "regis.silva@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagoosantos",
+      "email": "thiago.osantos@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wagnerkrauspenhar",
+      "email": "wagner.krauspenhar@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellersonvalandro",
+      "email": "wellerson.valandro@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joaoreis",
+      "email": "joao.reis@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "keilasantos",
+      "email": "keila.santos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "robertfernandes",
+      "email": "robert.fernandes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "tiagoalmeida",
+      "email": "tiago.almeida@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "victorjorge",
+      "email": "victor.jorge@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "adamsilva",
+      "email": "adam.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alefalves",
+      "email": "alef.alves@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexanderpinheiro",
+      "email": "alexander.pinheiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandersoares",
+      "email": "alexander.soares@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandrefonseca",
+      "email": "alexandre.fonseca@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandrenascimento",
+      "email": "alexandre.nascimento@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexiabezerra",
+      "email": "alexia.bezerra@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexoliveira",
+      "email": "alex.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexseveriano",
+      "email": "alex.severiano@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "anacampiglia",
+      "email": "ana.campiglia@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "anataliosantos",
+      "email": "anatalio.santos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonaraujo",
+      "email": "anderson.araujo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonoliveira",
+      "email": "anderson.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonpaulo",
+      "email": "anderson.paulo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonverissimo",
+      "email": "anderson.verissimo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andreamoreno",
+      "email": "andrea.moreno@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andreasilva",
+      "email": "andrea.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "angeloalmeida",
+      "email": "angelo.almeida@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "antonioatanasio",
+      "email": "antonio.atanasio@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunapinheiro",
+      "email": "bruna.pinheiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunocolivera",
+      "email": "bruno.colivera@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunoguilherme",
+      "email": "bruno.guilherme@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunomachado",
+      "email": "bruno.machado@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunopereira",
+      "email": "bruno.pereira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunovaldez",
+      "email": "bruno.valdez@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlabezerra",
+      "email": "carla.bezerra@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carloseduardo",
+      "email": "carlos.eduardo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlospeche",
+      "email": "carlos.peche@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosrodrigues",
+      "email": "carlos.rodrigues@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carolinanilo",
+      "email": "carolina.nilo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cassiosouza",
+      "email": "cassio.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cayogarcia",
+      "email": "cayo.garcia@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cesarsouza",
+      "email": "cesar.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "christianestanga",
+      "email": "christian.estanga@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cleytonsilva",
+      "email": "cleyton.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "danielmartins",
+      "email": "daniel.martins@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "danilofarias",
+      "email": "danilo.farias@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "davibarbosa",
+      "email": "davi.barbosa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "davidsonfilho",
+      "email": "davidson.filho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "denissilva",
+      "email": "denis.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "derickborges",
+      "email": "derick.borges@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diogocosta",
+      "email": "diogo.costa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diorgenessouza",
+      "email": "diorgenes.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "douglasasilva",
+      "email": "douglas.asilva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "douglasfreitas",
+      "email": "douglas.freitas@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardoteixeira",
+      "email": "eduardo.teixeira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eliassantos",
+      "email": "elias.santos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eltonfernandes",
+      "email": "elton.fernandes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "emersoncosta",
+      "email": "emerson.costa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "emersonjesus",
+      "email": "emerson.jesus@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "emersonpereira",
+      "email": "emerson.pereira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ericaprudencio",
+      "email": "erica.prudencio@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "evaldolima",
+      "email": "evaldo.lima@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "evandrosousa",
+      "email": "evandro.sousa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fabiocruz",
+      "email": "fabio.cruz@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fabiofranca",
+      "email": "fabio.franca@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fabiosilva",
+      "email": "fabio.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fabioteixeira",
+      "email": "fabio.teixeira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fagneroliveira",
+      "email": "fagner.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "felipecruver",
+      "email": "felipe.cruver@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "felipescosta",
+      "email": "felipe.scosta@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandaaguiar",
+      "email": "fernanda.aguiar@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandocarvalho",
+      "email": "fernando.carvalho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandomonteiro",
+      "email": "fernando.monteiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "flaviagomes",
+      "email": "flavia.gomes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "franciliosilva",
+      "email": "francilio.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "franciscofilho",
+      "email": "francisco.filho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "franciscojunior",
+      "email": "francisco.junior@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielsouza",
+      "email": "gabriel.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "georgemagalhaes",
+      "email": "george.magalhaes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gersoncabral",
+      "email": "gerson.cabral@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gilmarjunior",
+      "email": "gilmar.junior@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gleysonsousa",
+      "email": "gleyson.sousa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "guilhermeosilva",
+      "email": "guilherme.osilva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavofranca",
+      "email": "gustavo.franca@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavomendes",
+      "email": "gustavo.mendes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hildebertolima",
+      "email": "hildeberto.lima@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hildebrandovieira",
+      "email": "hildebrando.vieira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ibsonallendes",
+      "email": "ibson.allendes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "isabeladuarte",
+      "email": "isabela.duarte@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ivanalbuquerque",
+      "email": "ivan.albuquerque@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jairosouza",
+      "email": "jairo.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "janilsoribeiro",
+      "email": "janilso.ribeiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jeissongordillo",
+      "email": "jeisson.gordillo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhonatancosta",
+      "email": "jhonatan.costa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhonicoelho",
+      "email": "jhoni.coelho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhonnatanbonfim",
+      "email": "jhonnatan.bonfim@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joaocardoso",
+      "email": "joao.cardoso@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joaocastelo",
+      "email": "joao.castelo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonathanavelino",
+      "email": "jonathan.avelino@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonathanlins",
+      "email": "jonathan.lins@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josuealmeida",
+      "email": "josue.almeida@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juliapires",
+      "email": "julia.pires@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juliogoivaes",
+      "email": "julio.goivaes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "katrielsilva",
+      "email": "katriel.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "kethlenfaria",
+      "email": "kethlen.faria@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "kiakunkunga",
+      "email": "kiaku.nkunga@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "larissamattos",
+      "email": "larissa.mattos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "larissasoares",
+      "email": "larissa.soares@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leandrolucio",
+      "email": "leandro.lucio@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leandrosouza",
+      "email": "leandro.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leoneirmartins",
+      "email": "leoneir.martins@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lincolnfernandes",
+      "email": "lincoln.fernandes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lorestinsouza",
+      "email": "lorestin.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luanmoura",
+      "email": "luan.moura@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucascardoso",
+      "email": "lucas.cardoso@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucascosta",
+      "email": "lucas.costa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasgteixeira",
+      "email": "lucas.gteixeira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucaspereira",
+      "email": "lucas.pereira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luisgomes",
+      "email": "luis.gomes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizeduardo",
+      "email": "luiz.eduardo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizmarques",
+      "email": "luiz.marques@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizsantana",
+      "email": "luiz.santana@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luizsbarros",
+      "email": "luiz.sbarros@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "macielbezerra",
+      "email": "maciel.bezerra@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "magnumbispo",
+      "email": "magnum.bispo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "maiconmesquita",
+      "email": "maicon.mesquita@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcelogomes",
+      "email": "marcelo.gomes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcelolima",
+      "email": "marcelo.lima@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcelosousa",
+      "email": "marcelo.sousa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marceloteixeira",
+      "email": "marcelo.teixeira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marciocarvalho",
+      "email": "marcio.carvalho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marciofernandes",
+      "email": "marcio.fernandes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marciosilva",
+      "email": "marcio.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcobraz",
+      "email": "marco.braz@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcondeus",
+      "email": "marcon.deus@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcosmedeiros",
+      "email": "marcos.medeiros@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcosoliveira",
+      "email": "marcos.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marianasousa",
+      "email": "mariana.sousa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mariasilva",
+      "email": "maria.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mariasiqueira",
+      "email": "maria.siqueira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheusrocha",
+      "email": "matheus.rocha@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheussouza",
+      "email": "matheus.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "michaelalves",
+      "email": "michael.alves@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "moacirjunior",
+      "email": "moacir.junior@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "moisesgomes",
+      "email": "moises.gomes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "nilsonsodre",
+      "email": "nilson.sodre@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "omarmartinez",
+      "email": "omar.martinez@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "paulolima",
+      "email": "paulo.lima@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pedroalmeida",
+      "email": "pedro.almeida@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pedromoehleck",
+      "email": "pedro.moehleck@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rafaelmendonca",
+      "email": "rafael.mendonca@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ramonoliveira",
+      "email": "ramon.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raphaelcarvalho",
+      "email": "raphael.carvalho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raphaelmancebo",
+      "email": "raphael.mancebo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ravelsilva",
+      "email": "ravel.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "regiveltonsilva",
+      "email": "regivelton.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "renanandrade",
+      "email": "renan.andrade@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rennanqueiroz1",
+      "email": "rennan.queiroz1@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rianbasilio",
+      "email": "rian.basilio@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ricardoteixeira",
+      "email": "ricardo.teixeira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigoaguiar",
+      "email": "rodrigo.aguiar@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigoeskenazi",
+      "email": "rodrigo.eskenazi@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigomonteiro",
+      "email": "rodrigo.monteiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rogersilva",
+      "email": "roger.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "roniellecarvalho",
+      "email": "ronielle.carvalho@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rosabarbosa",
+      "email": "rosa.barbosa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sarahsilva",
+      "email": "sarah.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sergiogomes",
+      "email": "sergio.gomes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "silvanosilva",
+      "email": "silvano.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "simoneoliveira",
+      "email": "simone.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "terezamorais",
+      "email": "tereza.morais@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thallessilva",
+      "email": "thalles.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thassioleite",
+      "email": "thassio.leite@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagooliveira",
+      "email": "thiago.oliveira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagosantos",
+      "email": "thiago.santos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "tiagoosilva",
+      "email": "tiago.osilva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "uoshingtonsilva",
+      "email": "uoshington.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "urvelisrodriguez",
+      "email": "urvelis.rodriguez@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "vagneraraujo",
+      "email": "vagner.araujo@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "vagnersilva",
+      "email": "vagner.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "vandersouza",
+      "email": "vander.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "victormiranda",
+      "email": "victor.miranda@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "victorteixeira",
+      "email": "victor.teixeira@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusbasilio",
+      "email": "vinicius.basilio@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciuschalef",
+      "email": "vinicius.chalef@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusfernandes",
+      "email": "vinicius.fernandes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusnascimento",
+      "email": "vinicius.nascimento@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusqsilva",
+      "email": "vinicius.qsilva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusribeiro",
+      "email": "vinicius.ribeiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "vitoriasafadi",
+      "email": "vitoria.safadi@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wagnersilva",
+      "email": "wagner.silva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wandersonfelinto",
+      "email": "wanderson.felinto@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "welbertsouza",
+      "email": "welbert.souza@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtoncunha",
+      "email": "wellington.cunha@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtonsgoncalves",
+      "email": "wellington.sgoncalves@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wilianjunior",
+      "email": "wilian.junior@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "yanbarbosa",
+      "email": "yan.barbosa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ygorsantos",
+      "email": "ygor.santos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "yoswualserrano",
+      "email": "yoswual.serrano@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonbarreto",
+      "email": "anderson.barreto@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "italonuno",
+      "email": "italo.nuno@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "alanconceicao",
+      "email": "alan.conceicao@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexsandrosilva",
+      "email": "alexsandro.silva@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonanjos",
+      "email": "anderson.anjos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersonrodrigues",
+      "email": "anderson.rodrigues@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andremendes",
+      "email": "andre.mendes@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunasantos",
+      "email": "bruna.santos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunobrito",
+      "email": "bruno.brito@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "caiquealmeida",
+      "email": "caique.almeida@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosbezerra",
+      "email": "carlos.bezerra@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "charlesxavier",
+      "email": "charles.xavier@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "edimeiajesus",
+      "email": "edimeia.jesus@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardolourenco",
+      "email": "eduardo.lourenco@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandaaraujo",
+      "email": "fernanda.araujo@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandonovais",
+      "email": "fernando.novais@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "filipemedrado",
+      "email": "filipe.medrado@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielpessoa",
+      "email": "gabriel.pessoa@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gilsonribeiro",
+      "email": "gilson.ribeiro@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "humbertolopes",
+      "email": "humberto.lopes@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "icaroizabel",
+      "email": "icaro.izabel@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "israelfilho",
+      "email": "israel.filho@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jocielpereira",
+      "email": "jociel.pereira@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joseasantos",
+      "email": "jose.asantos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josefonseca",
+      "email": "jose.fonseca@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lazarosantos",
+      "email": "lazaro.santos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasgoes",
+      "email": "lucas.goes@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucassoares",
+      "email": "lucas.soares@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luissantos",
+      "email": "luis.santos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mauriciomaximo",
+      "email": "mauricio.maximo@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pauloalmeida",
+      "email": "paulo.almeida@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "paulosergio",
+      "email": "paulo.sergio@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ricardosodre",
+      "email": "ricardo.sodre@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rosenildohora",
+      "email": "rosenildo.hora@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thiagosteixeira",
+      "email": "thiago.steixeira@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wallassantos",
+      "email": "wallas.santos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtonpaim",
+      "email": "wellington.paim@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexsouza",
+      "email": "alex.souza@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "gabrielsvieira",
+      "email": "gabriel.svieira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "josesilva",
+      "email": "jose.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "matheusbarbosa",
+      "email": "matheus.barbosa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "afonsofelippe",
+      "email": "afonso.felippe@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandreoliveira",
+      "email": "alexandre.oliveira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandropereda",
+      "email": "alexandro.pereda@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexsandergoes",
+      "email": "alexsander.goes@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alvarosantos",
+      "email": "alvaro.santos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "amandaleite",
+      "email": "amanda.leite@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "andersomfontoura",
+      "email": "andersom.fontoura@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "angelasilva",
+      "email": "angela.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "angelodourado",
+      "email": "angelo.dourado@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "barbarasousa",
+      "email": "barbara.sousa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "biancaandrade",
+      "email": "bianca.andrade@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "brunobezerra",
+      "email": "bruno.bezerra@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "caiolima",
+      "email": "caio.lima@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "caiosantos",
+      "email": "caio.santos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosgonzaga",
+      "email": "carlos.gonzaga@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlospereira",
+      "email": "carlos.pereira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosroldan",
+      "email": "carlos.roldan@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosspereira",
+      "email": "carlos.spereira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cinthiaramos",
+      "email": "cinthia.ramos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cleristonsantos",
+      "email": "cleriston.santos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cristovaopereira",
+      "email": "cristovao.pereira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "danielaquino",
+      "email": "daniel.aquino@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diogocsilva",
+      "email": "diogo.csilva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardogoncalves",
+      "email": "eduardo.goncalves@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardolima",
+      "email": "eduardo.lima@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "elaynearmas",
+      "email": "elayne.armas@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eliasrodriguez",
+      "email": "elias.rodriguez@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "elisangelacorticeiro",
+      "email": "elisangela.corticeiro@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fabiopereira",
+      "email": "fabio.pereira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "felipeasantos",
+      "email": "felipe.asantos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "feliperodrigues",
+      "email": "felipe.rodrigues@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrieldacome",
+      "email": "gabriel.dacome@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gersonjunior",
+      "email": "gerson.junior@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gislandiacardoso",
+      "email": "gislandia.cardoso@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavoalves",
+      "email": "gustavo.alves@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavonascimento",
+      "email": "gustavo.nascimento@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hernanisilva",
+      "email": "hernani.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "higorcarvalho",
+      "email": "higor.carvalho@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "icarouchoa",
+      "email": "icaro.uchoa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "igormonteiro",
+      "email": "igor.monteiro@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "irisnunes",
+      "email": "iris.nunes@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jedielsilva",
+      "email": "jediel.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhonattanfrancisco",
+      "email": "jhonattan.francisco@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joaopecin",
+      "email": "joao.pecin@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "johnnycana",
+      "email": "johnny.cana@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josuesombra",
+      "email": "josue.sombra@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joycyfernandes",
+      "email": "joycy.fernandes@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juanlima",
+      "email": "juan.lima@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "julianamiranda",
+      "email": "juliana.miranda@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "karolinejesus",
+      "email": "karoline.jesus@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "kelvisrojas",
+      "email": "kelvis.rojas@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardobraga",
+      "email": "leonardo.braga@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardoluz",
+      "email": "leonardo.luz@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasandrade",
+      "email": "lucas.andrade@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasbarbosa",
+      "email": "lucas.barbosa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "lucassnascimento",
+      "email": "lucas.snascimento@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcoscardoso",
+      "email": "marcos.cardoso@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marcospaulo",
+      "email": "marcos.paulo@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "marjoriemorais",
+      "email": "marjorie.morais@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheusalves",
+      "email": "matheus.alves@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheusferreira",
+      "email": "matheus.ferreira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheusvieira",
+      "email": "matheus.vieira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "maurorodrigues",
+      "email": "mauro.rodrigues@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "michellesilva",
+      "email": "michelle.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pauloandrade",
+      "email": "paulo.andrade@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "paulomartins",
+      "email": "paulo.martins@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "pedrofebronio",
+      "email": "pedro.febronio@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rafaelbento",
+      "email": "rafael.bento@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rafaelmelo",
+      "email": "rafael.melo@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raulsousa",
+      "email": "raul.sousa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "richardciriaco",
+      "email": "richard.ciriaco@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sandrosantos",
+      "email": "sandro.santos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "stephaneoliveira",
+      "email": "stephane.oliveira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "tadeujunior",
+      "email": "tadeu.junior@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "tatianesilva",
+      "email": "tatiane.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "thyalisonsantos",
+      "email": "thyalison.santos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "victorneto",
+      "email": "victor.neto@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "victorprado",
+      "email": "victor.prado@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusarruda",
+      "email": "vinicius.arruda@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciuscassimiro",
+      "email": "vinicius.cassimiro@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciusfigueiredo",
+      "email": "vinicius.figueiredo@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "waldomirofeitosa",
+      "email": "waldomiro.feitosa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtoncavalcante",
+      "email": "wellington.cavalcante@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtonconceicao",
+      "email": "wellington.conceicao@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "xaienesilva",
+      "email": "xaiene.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "yeanrodriguez",
+      "email": "yean.rodriguez@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "luisgonzalez",
+      "email": "luis.gonzalez@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "matiasbarros",
+      "email": "matias.barros@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "alejandradonoso",
+      "email": "alejandra.donoso@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexanderacosta",
+      "email": "alexander.acosta@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexanderbustos",
+      "email": "alexander.bustos@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandervalderrama",
+      "email": "alexander.valderrama@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "allanloyola",
+      "email": "allan.loyola@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "bastiancaceres",
+      "email": "bastian.caceres@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carlosregular",
+      "email": "carlos.regular@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "christiancerda",
+      "email": "christian.cerda@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "christopherlineros",
+      "email": "christopher.lineros@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "claudiatoro",
+      "email": "claudia.toro@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "cristiansoto",
+      "email": "cristian.soto@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cristobalcastillo",
+      "email": "cristobal.castillo@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "danielaizquierdo",
+      "email": "daniela.izquierdo@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "danielnavarrete",
+      "email": "daniel.navarrete@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ednailtonsouza",
+      "email": "ednailton.souza@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardocaceres",
+      "email": "eduardo.caceres@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "enmanuelgarcia",
+      "email": "enmanuel.garcia@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "feliperuiz",
+      "email": "felipe.ruiz@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "felipesalazar",
+      "email": "felipe.salazar@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandoherrera",
+      "email": "fernando.herrera@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "intiflores",
+      "email": "inti.flores@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "javierapinto",
+      "email": "javiera.pinto@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "joaquingonzalez",
+      "email": "joaquin.gonzalez@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonathannunez",
+      "email": "jonathan.nunez@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jorgeescobar",
+      "email": "jorge.escobar@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jorgeferraro",
+      "email": "jorge.ferraro@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "joseespinoza",
+      "email": "jose.espinoza@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "joshuaperez",
+      "email": "joshua.perez@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardopinilla",
+      "email": "leonardo.pinilla@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matiasfigueroa",
+      "email": "matias.figueroa@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matteovergara",
+      "email": "matteo.vergara@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mauriciohenriquez",
+      "email": "mauricio.henriquez@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "michellsoriano",
+      "email": "michell.soriano@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "miguelmonroy",
+      "email": "miguel.monroy@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raulreyes",
+      "email": "raul.reyes@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rebecaparedes",
+      "email": "rebeca.paredes@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "victoriapericana",
+      "email": "victoria.pericana@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ximenabarrera",
+      "email": "ximena.barrera@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "yohananavarro",
+      "email": "yohana.navarro@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "anamartins",
+      "email": "ana.martins@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "cesarsiso",
+      "email": "cesar.siso@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "damiaosantana",
+      "email": "damiao.santana@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "evertondias",
+      "email": "everton.dias@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "hectorbolivar",
+      "email": "hector.bolivar@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leiagrecco",
+      "email": "leia.grecco@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "mauriliojunior",
+      "email": "maurilio.junior@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wesleyherculano",
+      "email": "wesley.herculano@tembici.com",
+      "praca": "CDExtrema",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "anacagnotto",
+      "email": "ana.cagnotto@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "andrebifulco",
+      "email": "andre.bifulco@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "andremarasco",
+      "email": "andre.marasco@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "andressasouza",
+      "email": "andressa.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "antoniofelipe",
+      "email": "antonio.felipe@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "biatrizruas",
+      "email": "biatriz.ruas@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "emersonsoares",
+      "email": "emerson.soares@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "emersonsouza",
+      "email": "emerson.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "erikajesus",
+      "email": "erika.jesus@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "gabriellefaria",
+      "email": "gabrielle.faria@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "gleicyoliveira",
+      "email": "gleicy.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "guilhermebaldissera",
+      "email": "guilherme.baldissera@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "marcosbarreto",
+      "email": "marcos.barreto@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "paulofreitas",
+      "email": "paulo.freitas@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "sabrinacastro",
+      "email": "sabrina.castro@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "shirleidemartins",
+      "email": "shirleide.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "thiagoboufelli",
+      "email": "thiago.boufelli@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "thiagoroque",
+      "email": "thiago.roque@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "victordantas",
+      "email": "victor.dantas@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "wesleymarcelino",
+      "email": "wesley.marcelino@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "williansilva",
+      "email": "willian.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "alanpereira",
+      "email": "alan.pereira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "aldocaterina",
+      "email": "aldo.caterina@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandrerosa",
+      "email": "alexandre.rosa@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "alicewaquil",
+      "email": "alice.waquil@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "alinemenezes",
+      "email": "aline.menezes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "amandadias",
+      "email": "amanda.dias@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "anaegito",
+      "email": "ana.egito@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "anamenezes",
+      "email": "ana.menezes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "andrezasilva",
+      "email": "andreza.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "antonioferreira",
+      "email": "antonio.ferreira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "arianepina",
+      "email": "ariane.pina@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "barbarafortesa",
+      "email": "barbara.fortesa@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "beatrizmartins",
+      "email": "beatriz.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "beatrizsilva",
+      "email": "beatriz.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "biancaoliveira",
+      "email": "bianca.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "biancarodrigues",
+      "email": "bianca.rodrigues@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "brunocarvalho",
+      "email": "bruno.carvalho@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "brunomartins",
+      "email": "bruno.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "camilaluz",
+      "email": "camila.luz@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "carolinavilla",
+      "email": "carolina.villa@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "carolinenascimento",
+      "email": "caroline.nascimento@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "charlesbarreto",
+      "email": "charles.barreto@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "danielsilva",
+      "email": "daniel.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "deborahmedeiros",
+      "email": "deborah.medeiros@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "RELGOV",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "deboraoliveira",
+      "email": "debora.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "dyegofranciscato",
+      "email": "dyego.franciscato@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardaoliveira",
+      "email": "eduarda.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "elainesilva",
+      "email": "elaine.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "elisangelasampaio",
+      "email": "elisangela.sampaio@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "eloisetripodi",
+      "email": "eloise.tripodi@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "evertonsilva",
+      "email": "everton.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "felipefernandes",
+      "email": "felipe.fernandes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandamarques",
+      "email": "fernanda.marques@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "fernandofernandes",
+      "email": "fernando.fernandes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "filipefaleiro",
+      "email": "filipe.faleiro@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "flaviopangracio",
+      "email": "flavio.pangracio@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielagomes",
+      "email": "gabriela.gomes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielasilva",
+      "email": "gabriela.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielbraz",
+      "email": "gabriel.braz@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabriellopes",
+      "email": "gabriel.lopes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielnascimento",
+      "email": "gabriel.nascimento@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavoguedez",
+      "email": "gustavo.guedez@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavotorquato",
+      "email": "gustavo.torquato@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "heitorpiovesan",
+      "email": "heitor.piovesan@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "henriquemaitan",
+      "email": "henrique.maitan@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "italobarros",
+      "email": "italo.barros@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "izaquescomparim",
+      "email": "izaque.scomparim@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "jadesilva",
+      "email": "jade.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "jhenifersilva",
+      "email": "jhenifer.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "joaourzedo",
+      "email": "joao.urzedo@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "josienesouza",
+      "email": "josiene.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "joycevasconcelos",
+      "email": "joyce.vasconcelos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "juliajesus",
+      "email": "julia.jesus@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "julialira",
+      "email": "julia.lira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "julyasilva",
+      "email": "julya.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "kathleensilva",
+      "email": "kathleen.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "larissasouza",
+      "email": "larissa.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "layrranexavier",
+      "email": "layrrane.xavier@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardohohne",
+      "email": "leonardo.hohne@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "lizandralacerda",
+      "email": "lizandra.lacerda@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "luanasilva",
+      "email": "luana.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "lucasmessa",
+      "email": "lucas.messa@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "luizalopes",
+      "email": "luiza.lopes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marcossantos",
+      "email": "marcos.santos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marcossilva",
+      "email": "marcos.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marianacardoso",
+      "email": "mariana.cardoso@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marianapontel",
+      "email": "mariana.pontel@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "mariasouza",
+      "email": "maria.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marinabrondani",
+      "email": "marina.brondani@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marioaraujo",
+      "email": "mario.araujo@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "mauriciovillar",
+      "email": "mauricio.villar@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "mayramarquete",
+      "email": "mayra.marquete@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "nataliacunha",
+      "email": "natalia.cunha@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "nataliagiordani",
+      "email": "natalia.giordani@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "nathaliapaes",
+      "email": "nathalia.paes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "newtonsozza",
+      "email": "newton.sozza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "oliviamitne",
+      "email": "olivia.mitne@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "pablonascimento",
+      "email": "pablo.nascimento@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "palomasantos",
+      "email": "paloma.santos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "palomasilva",
+      "email": "paloma.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "paulaoliveira",
+      "email": "paula.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "priscilapascoal",
+      "email": "priscila.pascoal@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "rafaellasilbermann",
+      "email": "rafaella.silbermann@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "robertajorge",
+      "email": "roberta.jorge@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "robertodias",
+      "email": "roberto.dias@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigocanola",
+      "email": "rodrigo.canola@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigocruz",
+      "email": "rodrigo.cruz@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigosantos",
+      "email": "rodrigo.santos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "ruisouza",
+      "email": "rui.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sabrinasilva",
+      "email": "sabrina.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sheilabarbosa",
+      "email": "sheila.barbosa@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sirleidepaz",
+      "email": "sirleide.paz@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sthefanysimioni",
+      "email": "sthefany.simioni@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "RELGOV",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "suelinascimento",
+      "email": "sueli.nascimento@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "tallitamarques",
+      "email": "tallita.marques@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "tanyferoliveira",
+      "email": "tanyfer.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "thailanesacerdote",
+      "email": "thailane.sacerdote@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "tiagosoares",
+      "email": "tiago.soares@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "tiagotomita",
+      "email": "tiago.tomita@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "tomasmartins",
+      "email": "tomas.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "ulissesoliveira",
+      "email": "ulisses.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "valquiriasilva",
+      "email": "valquiria.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "vanessasantos",
+      "email": "vanessa.santos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "victorfalcao",
+      "email": "victor.falcao@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciuspaula",
+      "email": "vinicius.paula@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "viniciuspires",
+      "email": "vinicius.pires@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "vitormonteiro",
+      "email": "vitor.monteiro@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "vitoryasantos",
+      "email": "vitorya.santos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "wallacecarneiro",
+      "email": "wallace.carneiro@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "wellingtonsoares",
+      "email": "wellington.soares@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "yagocaetano",
+      "email": "yago.caetano@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "yasmimleao",
+      "email": "yasmim.leao@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "yasmingoncalves",
+      "email": "yasmin.goncalves@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    }
   ]
 }
