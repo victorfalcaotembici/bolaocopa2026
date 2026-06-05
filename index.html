@@ -440,6 +440,35 @@ function renderEnrollment(){
     }).join("");
 }
 
+function renderErros(){
+  const unmatched = DATA.unmatchedHandles || [];
+  const wrap = document.getElementById("erros-wrap");
+  if(!unmatched.length){
+    wrap.innerHTML=`<div class="card" style="padding:24px;text-align:center;font-size:13px;color:var(--green)">${t("erros_none")}</div>`;
+    return;
+  }
+  const rows = unmatched.map((h,i)=>{
+    const[bg,fg]=ac(i);
+    return`<div class="row">
+      <span class="rank-num">${i+1}</span>
+      <div class="av" style="background:${bg};color:${fg}">${ini(h)}</div>
+      <div class="info">
+        <div class="pname">${h}</div>
+        <div class="phandle">${LANG==="es"?"no encontrado en la base Excel":"não encontrado na base Excel"}</div>
+      </div>
+      <span style="font-size:16px">⚠️</span>
+    </div>`;
+  }).join("");
+  wrap.innerHTML=`<div class="card acc-relgov">
+    <div class="card-hdr">
+      <div class="card-icon">⚠️</div>
+      <div class="card-title">${t("erros_title")}</div>
+      <div class="card-sub">${unmatched.length} ${t("part")} — ${t("erros_sub")}</div>
+    </div>
+    <div class="card-body">${rows}</div>
+  </div>`;
+}
+
 window.setEnrFilter=function(f){
   ENR_FILTER=f;
   renderEnrollment();
