@@ -53,12 +53,12 @@ def build_output(raw, users_map):
     finished  = raw.get("finishedMatches", [])
     enriched, unmatched = [], []
 
-    # Build set of handles that are enrolled (present in leaderboard)
-    enrolled_handles = set()
+    # Build set of displayNames that are enrolled (present in leaderboard)
+    enrolled_names = set()
     for e in standings:
         u = e.get("user", {})
-        handle = (u.get("handle") or "").strip().lower()
-        enrolled_handles.add(handle)
+        display_key = (u.get("displayName") or "").strip().lower()
+        enrolled_names.add(display_key)
 
     for e in standings:
         u = e.get("user", {})
@@ -94,7 +94,7 @@ def build_output(raw, users_map):
             "pais":     info["pais"],
             "diretoria": info["diretoria"],
             "adm_corp": info["adm_corp"],
-            "inscrito": handle in enrolled_handles,
+            "inscrito": handle in enrolled_names,
         })
     # Sort: praça asc, then uninscribed first, then handle
     enrollment.sort(key=lambda x: (x["praca"], not x["inscrito"], x["handle"]))
