@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T15:54:23.735039Z",
+  "updatedAt": "2026-06-05T17:03:26.133098Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -12,10 +12,10 @@
       "correctWinnerCount": 0,
       "handle": "vgfalcao",
       "displayName": "victor.falcao",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 2,
@@ -192,10 +192,10 @@
       "correctWinnerCount": 0,
       "handle": "alanferreira",
       "displayName": "alan.conceicao",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 14,
@@ -207,10 +207,10 @@
       "correctWinnerCount": 0,
       "handle": "andersonbarreto",
       "displayName": "Anderson Barreto de Jesus",
-      "praca": "BikeSSA",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 15,
@@ -327,10 +327,10 @@
       "correctWinnerCount": 0,
       "handle": "valdez",
       "displayName": "Bruno.Valdez",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 23,
@@ -342,10 +342,10 @@
       "correctWinnerCount": 0,
       "handle": "henriquetembici",
       "displayName": "roberto.paula",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 24,
@@ -372,10 +372,10 @@
       "correctWinnerCount": 0,
       "handle": "matheusbarbosa",
       "displayName": "Matheus Barbosa",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 26,
@@ -507,10 +507,10 @@
       "correctWinnerCount": 0,
       "handle": "gabizinho",
       "displayName": "Gabriel.nascimento",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 35,
@@ -567,10 +567,10 @@
       "correctWinnerCount": 0,
       "handle": "lucasp",
       "displayName": "lucas.pereira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 39,
@@ -597,10 +597,10 @@
       "correctWinnerCount": 0,
       "handle": "cingrispo",
       "displayName": "Cintia.Grispo",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 41,
@@ -657,10 +657,10 @@
       "correctWinnerCount": 0,
       "handle": "fercarvalho",
       "displayName": "fernando.carvalho",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 45,
@@ -687,10 +687,10 @@
       "correctWinnerCount": 0,
       "handle": "thiagordz",
       "displayName": "thiago.rodriguez",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 47,
@@ -702,10 +702,10 @@
       "correctWinnerCount": 0,
       "handle": "tembicicom",
       "displayName": "Anderson.oliveira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 48,
@@ -807,10 +807,10 @@
       "correctWinnerCount": 0,
       "handle": "wellingtonrc7",
       "displayName": "wellington.cavalcante",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 55,
@@ -822,10 +822,10 @@
       "correctWinnerCount": 0,
       "handle": "matheushenrique",
       "displayName": "Matheus.vieira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 56,
@@ -852,10 +852,10 @@
       "correctWinnerCount": 0,
       "handle": "gustavohenrique",
       "displayName": "gustavo.mendes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 58,
@@ -882,10 +882,10 @@
       "correctWinnerCount": 0,
       "handle": "paulafergui",
       "displayName": "paula.oliveira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     },
     {
       "rank": 60,
@@ -957,10 +957,10 @@
       "correctWinnerCount": 0,
       "handle": "matiasbarros",
       "displayName": "Matías.barros",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação"
+      "praca": "Outros",
+      "pais": "Outros",
+      "diretoria": "Outros",
+      "adm_corp": "Outros"
     },
     {
       "rank": 65,
@@ -1039,74 +1039,18 @@
     }
   ],
   "unmatchedHandles": [
-    "vgfalcao",
-    "alanferreira",
+    "andersonbarreto",
     "jeanlira",
-    "valdez",
-    "henriquetembici",
+    "matheusbarbosa",
     "brenomaciel",
     "alynesilva",
     "italosilva",
-    "gabizinho",
-    "lucasp",
-    "cingrispo",
-    "fercarvalho",
-    "thiagordz",
-    "tembicicom",
-    "wellingtonrc7",
-    "matheushenrique",
-    "gustavohenrique",
-    "paulafergui",
-    "fernandasilva"
+    "fernandasilva",
+    "matiasbarros"
   ],
   "enrollment": [
     {
-      "handle": "castanorodriguez",
-      "email": "castano.rodriguez@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "jesicaferrer",
-      "email": "jesica.ferrer@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "lailaslavutzky",
-      "email": "laila.slavutzky@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "nataliaronchi",
-      "email": "natalia.ronchi@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "B2B",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "sabrinaortellado",
-      "email": "sabrina.ortellado@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "alanquinas",
+      "handle": "alan.quinas",
       "email": "alan.quinas@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1115,7 +1059,7 @@
       "inscrito": false
     },
     {
-      "handle": "aldanabuendia",
+      "handle": "aldana.buendia",
       "email": "aldana.buendia@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1124,7 +1068,7 @@
       "inscrito": false
     },
     {
-      "handle": "alejandrocastillo",
+      "handle": "alejandro.castillo",
       "email": "alejandro.castillo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1133,7 +1077,7 @@
       "inscrito": false
     },
     {
-      "handle": "andrescardozo",
+      "handle": "andres.cardozo",
       "email": "andres.cardozo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1142,7 +1086,7 @@
       "inscrito": false
     },
     {
-      "handle": "anthonystivens",
+      "handle": "anthony.stivens",
       "email": "anthony.stivens@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1151,7 +1095,7 @@
       "inscrito": false
     },
     {
-      "handle": "antonioezequiel",
+      "handle": "antonio.ezequiel",
       "email": "antonio.ezequiel@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1160,7 +1104,7 @@
       "inscrito": false
     },
     {
-      "handle": "armandoarias",
+      "handle": "armando.arias",
       "email": "armando.arias@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1169,7 +1113,7 @@
       "inscrito": false
     },
     {
-      "handle": "asaelfederico",
+      "handle": "asael.federico",
       "email": "asael.federico@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1178,7 +1122,7 @@
       "inscrito": false
     },
     {
-      "handle": "barbarafagnani",
+      "handle": "barbara.fagnani",
       "email": "barbara.fagnani@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1187,7 +1131,7 @@
       "inscrito": false
     },
     {
-      "handle": "braianvassia",
+      "handle": "braian.vassia",
       "email": "braian.vassia@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1196,7 +1140,7 @@
       "inscrito": false
     },
     {
-      "handle": "brianvicenzo",
+      "handle": "brian.vicenzo",
       "email": "brian.vicenzo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1205,7 +1149,16 @@
       "inscrito": false
     },
     {
-      "handle": "castillomaximiliano",
+      "handle": "castano.rodriguez",
+      "email": "castano.rodriguez@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "castillo.maximiliano",
       "email": "castillo.maximiliano@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1214,7 +1167,7 @@
       "inscrito": false
     },
     {
-      "handle": "celestepersuh",
+      "handle": "celeste.persuh",
       "email": "celeste.persuh@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1223,7 +1176,7 @@
       "inscrito": false
     },
     {
-      "handle": "cintiagrispo",
+      "handle": "cintia.grispo",
       "email": "cintia.grispo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1232,7 +1185,7 @@
       "inscrito": false
     },
     {
-      "handle": "claudioarguello",
+      "handle": "claudio.arguello",
       "email": "claudio.arguello@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1241,7 +1194,7 @@
       "inscrito": false
     },
     {
-      "handle": "cristiancordova",
+      "handle": "cristian.cordova",
       "email": "cristian.cordova@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1250,7 +1203,7 @@
       "inscrito": false
     },
     {
-      "handle": "diegoalvarenque",
+      "handle": "diego.alvarenque",
       "email": "diego.alvarenque@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1259,7 +1212,7 @@
       "inscrito": false
     },
     {
-      "handle": "diegoiluchko",
+      "handle": "diego.iluchko",
       "email": "diego.iluchko@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1268,7 +1221,7 @@
       "inscrito": false
     },
     {
-      "handle": "diegomoreno",
+      "handle": "diego.moreno",
       "email": "diego.moreno@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1277,7 +1230,7 @@
       "inscrito": false
     },
     {
-      "handle": "diegoparedes",
+      "handle": "diego.paredes",
       "email": "diego.paredes@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1286,7 +1239,7 @@
       "inscrito": false
     },
     {
-      "handle": "diegotello",
+      "handle": "diego.tello",
       "email": "diego.tello@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1295,7 +1248,7 @@
       "inscrito": false
     },
     {
-      "handle": "edgaraguero",
+      "handle": "edgar.aguero",
       "email": "edgar.aguero@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1304,7 +1257,7 @@
       "inscrito": false
     },
     {
-      "handle": "edsoncalle",
+      "handle": "edson.calle",
       "email": "edson.calle@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1313,7 +1266,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardoguzman",
+      "handle": "eduardo.guzman",
       "email": "eduardo.guzman@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1322,7 +1275,7 @@
       "inscrito": false
     },
     {
-      "handle": "emanuelperez",
+      "handle": "emanuel.perez",
       "email": "emanuel.perez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1331,7 +1284,7 @@
       "inscrito": false
     },
     {
-      "handle": "erickmarcano",
+      "handle": "erick.marcano",
       "email": "erick.marcano@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1340,7 +1293,7 @@
       "inscrito": false
     },
     {
-      "handle": "ezequielescalante",
+      "handle": "ezequiel.escalante",
       "email": "ezequiel.escalante@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1349,7 +1302,7 @@
       "inscrito": false
     },
     {
-      "handle": "francoespejo",
+      "handle": "franco.espejo",
       "email": "franco.espejo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1358,7 +1311,7 @@
       "inscrito": false
     },
     {
-      "handle": "francogirard",
+      "handle": "franco.girard",
       "email": "franco.girard@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1367,7 +1320,7 @@
       "inscrito": false
     },
     {
-      "handle": "francogonzalez",
+      "handle": "franco.gonzalez",
       "email": "franco.gonzalez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1376,7 +1329,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielpino",
+      "handle": "gabriel.pino",
       "email": "gabriel.pino@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1385,7 +1338,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielsorace",
+      "handle": "gabriel.sorace",
       "email": "gabriel.sorace@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1394,7 +1347,7 @@
       "inscrito": false
     },
     {
-      "handle": "godoysegundo",
+      "handle": "godoy.segundo",
       "email": "godoy.segundo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1403,7 +1356,7 @@
       "inscrito": false
     },
     {
-      "handle": "gonzaloferreyra",
+      "handle": "gonzalo.ferreyra",
       "email": "gonzalo.ferreyra@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1412,7 +1365,7 @@
       "inscrito": false
     },
     {
-      "handle": "gonzalorisso",
+      "handle": "gonzalo.risso",
       "email": "gonzalo.risso@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1421,7 +1374,7 @@
       "inscrito": false
     },
     {
-      "handle": "hectorquiroga",
+      "handle": "hector.quiroga",
       "email": "hector.quiroga@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1430,7 +1383,7 @@
       "inscrito": false
     },
     {
-      "handle": "hectorzeballos",
+      "handle": "hector.zeballos",
       "email": "hector.zeballos@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1439,7 +1392,7 @@
       "inscrito": false
     },
     {
-      "handle": "henrygisbert",
+      "handle": "henry.gisbert",
       "email": "henry.gisbert@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1448,7 +1401,7 @@
       "inscrito": false
     },
     {
-      "handle": "iagoriveiro",
+      "handle": "iago.riveiro",
       "email": "iago.riveiro@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1457,7 +1410,7 @@
       "inscrito": false
     },
     {
-      "handle": "ibanesemanuel",
+      "handle": "ibanes.emanuel",
       "email": "ibanes.emanuel@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1466,7 +1419,7 @@
       "inscrito": false
     },
     {
-      "handle": "ignacioherrera",
+      "handle": "ignacio.herrera",
       "email": "ignacio.herrera@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1475,7 +1428,7 @@
       "inscrito": false
     },
     {
-      "handle": "ignacioromero",
+      "handle": "ignacio.romero",
       "email": "ignacio.romero@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1484,7 +1437,7 @@
       "inscrito": false
     },
     {
-      "handle": "javierorellano",
+      "handle": "javier.orellano",
       "email": "javier.orellano@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1493,7 +1446,16 @@
       "inscrito": false
     },
     {
-      "handle": "jesicazanabria",
+      "handle": "jesica.ferrer",
+      "email": "jesica.ferrer@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "jesica.zanabria",
       "email": "jesica.zanabria@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1502,7 +1464,7 @@
       "inscrito": false
     },
     {
-      "handle": "jessicasuarez",
+      "handle": "jessica.suarez",
       "email": "jessica.suarez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1511,7 +1473,7 @@
       "inscrito": false
     },
     {
-      "handle": "joamgalea",
+      "handle": "joam.galea",
       "email": "joam.galea@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1520,7 +1482,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaquinbenitez",
+      "handle": "joaquin.benitez",
       "email": "Joaquin.benitez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1529,7 +1491,7 @@
       "inscrito": false
     },
     {
-      "handle": "jonatanbarrientos",
+      "handle": "jonatan.barrientos",
       "email": "jonatan.barrientos@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1538,7 +1500,7 @@
       "inscrito": false
     },
     {
-      "handle": "jonatancarabajal",
+      "handle": "jonatan.carabajal",
       "email": "jonatan.carabajal@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1547,7 +1509,7 @@
       "inscrito": false
     },
     {
-      "handle": "jonathangonzalez",
+      "handle": "jonathan.gonzalez",
       "email": "jonathan.gonzalez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1556,7 +1518,7 @@
       "inscrito": false
     },
     {
-      "handle": "josemartinez",
+      "handle": "jose.martinez",
       "email": "jose.martinez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1565,7 +1527,7 @@
       "inscrito": false
     },
     {
-      "handle": "josemolina",
+      "handle": "jose.molina",
       "email": "jose.molina@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1574,7 +1536,7 @@
       "inscrito": false
     },
     {
-      "handle": "josesanchez",
+      "handle": "jose.sanchez",
       "email": "jose.sanchez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1583,7 +1545,7 @@
       "inscrito": false
     },
     {
-      "handle": "juangavilan",
+      "handle": "juan.gavilan",
       "email": "juan.gavilan@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1592,7 +1554,7 @@
       "inscrito": false
     },
     {
-      "handle": "juliancevey",
+      "handle": "julian.cevey",
       "email": "julian.cevey@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1601,7 +1563,7 @@
       "inscrito": false
     },
     {
-      "handle": "juliangonzalez",
+      "handle": "julian.gonzalez",
       "email": "julian.gonzalez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1610,7 +1572,7 @@
       "inscrito": false
     },
     {
-      "handle": "julianprado",
+      "handle": "julian.prado",
       "email": "julian.prado@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1619,7 +1581,7 @@
       "inscrito": false
     },
     {
-      "handle": "julietarey",
+      "handle": "julieta.rey",
       "email": "julieta.rey@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1628,7 +1590,7 @@
       "inscrito": false
     },
     {
-      "handle": "juliocarabajal",
+      "handle": "julio.carabajal",
       "email": "julio.carabajal@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1637,7 +1599,16 @@
       "inscrito": false
     },
     {
-      "handle": "leonardodominguez",
+      "handle": "laila.slavutzky",
+      "email": "laila.slavutzky@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leonardo.dominguez",
       "email": "leonardo.dominguez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1646,7 +1617,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardokowalczuk",
+      "handle": "leonardo.kowalczuk",
       "email": "leonardo.kowalczuk@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1655,7 +1626,7 @@
       "inscrito": false
     },
     {
-      "handle": "leticiatorres",
+      "handle": "leticia.torres",
       "email": "leticia.torres@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1664,7 +1635,7 @@
       "inscrito": false
     },
     {
-      "handle": "ligottiadrian",
+      "handle": "ligotti.adrian",
       "email": "ligotti.adrian@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1673,7 +1644,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucascaceres",
+      "handle": "lucas.caceres",
       "email": "lucas.caceres@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1682,7 +1653,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasgodoy",
+      "handle": "lucas.godoy",
       "email": "lucas.godoy@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1691,7 +1662,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasomil",
+      "handle": "lucas.omil",
       "email": "lucas.omil@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1700,7 +1671,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucaspollet",
+      "handle": "lucas.pollet",
       "email": "lucas.pollet@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1709,7 +1680,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucianoescalante",
+      "handle": "luciano.escalante",
       "email": "luciano.escalante@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1718,7 +1689,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucianovarela",
+      "handle": "luciano.varela",
       "email": "Luciano.varela@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1727,7 +1698,7 @@
       "inscrito": false
     },
     {
-      "handle": "manuelmansilla",
+      "handle": "manuel.mansilla",
       "email": "manuel.mansilla@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1736,7 +1707,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcosfernandez",
+      "handle": "marcos.fernandez",
       "email": "marcos.fernandez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1745,7 +1716,7 @@
       "inscrito": false
     },
     {
-      "handle": "mariandapueto",
+      "handle": "marian.dapueto",
       "email": "marian.dapueto@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1754,7 +1725,7 @@
       "inscrito": false
     },
     {
-      "handle": "mariorojas",
+      "handle": "mario.rojas",
       "email": "mario.rojas@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1763,7 +1734,7 @@
       "inscrito": false
     },
     {
-      "handle": "marioromeo",
+      "handle": "mario.romeo",
       "email": "mario.romeo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1772,7 +1743,7 @@
       "inscrito": false
     },
     {
-      "handle": "martindiaz",
+      "handle": "martin.diaz",
       "email": "martin.diaz@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1781,7 +1752,7 @@
       "inscrito": false
     },
     {
-      "handle": "mauriciosilvero",
+      "handle": "mauricio.silvero",
       "email": "mauricio.silvero@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1790,7 +1761,7 @@
       "inscrito": false
     },
     {
-      "handle": "mayerdamian",
+      "handle": "mayer.damian",
       "email": "mayer.damian@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1799,7 +1770,7 @@
       "inscrito": false
     },
     {
-      "handle": "micaelacastano",
+      "handle": "micaela.castano",
       "email": "micaela.castano@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1808,7 +1779,7 @@
       "inscrito": false
     },
     {
-      "handle": "milenaoviedo",
+      "handle": "milena.oviedo",
       "email": "milena.oviedo@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1817,7 +1788,7 @@
       "inscrito": false
     },
     {
-      "handle": "miltonvelardes",
+      "handle": "milton.velardes",
       "email": "milton.velardes@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1826,7 +1797,7 @@
       "inscrito": false
     },
     {
-      "handle": "nahueldi",
+      "handle": "nahuel.di",
       "email": "nahuel.di@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1835,7 +1806,16 @@
       "inscrito": false
     },
     {
-      "handle": "natalyrodriguez",
+      "handle": "natalia.ronchi",
+      "email": "natalia.ronchi@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "nataly.rodriguez",
       "email": "nataly.rodriguez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1844,7 +1824,7 @@
       "inscrito": false
     },
     {
-      "handle": "nicolasleiva",
+      "handle": "nicolas.leiva",
       "email": "nicolas.leiva@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1853,7 +1833,7 @@
       "inscrito": false
     },
     {
-      "handle": "nicolasyanicelli",
+      "handle": "nicolas.yanicelli",
       "email": "nicolas.yanicelli@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1862,7 +1842,7 @@
       "inscrito": false
     },
     {
-      "handle": "pabloboyer",
+      "handle": "pablo.boyer",
       "email": "pablo.boyer@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1871,7 +1851,7 @@
       "inscrito": false
     },
     {
-      "handle": "pablolopez",
+      "handle": "pablo.lopez",
       "email": "pablo.lopez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1880,7 +1860,7 @@
       "inscrito": false
     },
     {
-      "handle": "richarriveros",
+      "handle": "richar.riveros",
       "email": "richar.riveros@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1889,7 +1869,7 @@
       "inscrito": false
     },
     {
-      "handle": "robertomedori",
+      "handle": "roberto.medori",
       "email": "roberto.medori@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1898,7 +1878,7 @@
       "inscrito": false
     },
     {
-      "handle": "romanmarek",
+      "handle": "roman.marek",
       "email": "roman.marek@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1907,7 +1887,7 @@
       "inscrito": false
     },
     {
-      "handle": "romualdotoconas",
+      "handle": "romualdo.toconas",
       "email": "romualdo.toconas@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1916,7 +1896,7 @@
       "inscrito": false
     },
     {
-      "handle": "rubengonzalez",
+      "handle": "ruben.gonzalez",
       "email": "ruben.gonzalez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1925,7 +1905,16 @@
       "inscrito": false
     },
     {
-      "handle": "sebastianfrattura",
+      "handle": "sabrina.ortellado",
+      "email": "sabrina.ortellado@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "sebastian.frattura",
       "email": "sebastian.frattura@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1934,7 +1923,7 @@
       "inscrito": false
     },
     {
-      "handle": "silvanajaimez",
+      "handle": "silvana.jaimez",
       "email": "silvana.jaimez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1943,7 +1932,7 @@
       "inscrito": false
     },
     {
-      "handle": "sofiasimiele",
+      "handle": "sofia.simiele",
       "email": "sofia.simiele@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1952,7 +1941,7 @@
       "inscrito": false
     },
     {
-      "handle": "tamaraszydlowski",
+      "handle": "tamara.szydlowski",
       "email": "tamara.szydlowski@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1961,7 +1950,7 @@
       "inscrito": false
     },
     {
-      "handle": "thiagoquiroz",
+      "handle": "thiago.quiroz",
       "email": "thiago.quiroz@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1970,7 +1959,7 @@
       "inscrito": false
     },
     {
-      "handle": "thiagorodriguez",
+      "handle": "thiago.rodriguez",
       "email": "thiago.rodriguez@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1979,7 +1968,7 @@
       "inscrito": false
     },
     {
-      "handle": "valentinaalmentero",
+      "handle": "valentina.almentero",
       "email": "valentina.almentero@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1988,7 +1977,7 @@
       "inscrito": false
     },
     {
-      "handle": "waltersorella",
+      "handle": "walter.sorella",
       "email": "walter.sorella@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -1997,7 +1986,7 @@
       "inscrito": false
     },
     {
-      "handle": "yonatansales",
+      "handle": "yonatan.sales",
       "email": "yonatan.sales@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -2006,7 +1995,7 @@
       "inscrito": false
     },
     {
-      "handle": "zoteloagustin",
+      "handle": "zotelo.agustin",
       "email": "zotelo.agustin@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
@@ -2015,25 +2004,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardosebastiao",
-      "email": "eduardo.sebastiao@tembici.com",
-      "praca": "BikeBH",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "joaocintra",
-      "email": "joao.cintra@tembici.com",
-      "praca": "BikeBH",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "alanalves",
+      "handle": "alan.alves",
       "email": "alan.alves@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2042,7 +2013,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunocampos",
+      "handle": "bruno.campos",
       "email": "bruno.campos@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2051,7 +2022,7 @@
       "inscrito": false
     },
     {
-      "handle": "caiquesantos",
+      "handle": "caique.santos",
       "email": "caique.santos@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2060,7 +2031,7 @@
       "inscrito": false
     },
     {
-      "handle": "danielssilva",
+      "handle": "daniel.ssilva",
       "email": "daniel.ssilva@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2069,7 +2040,7 @@
       "inscrito": false
     },
     {
-      "handle": "darciojunior",
+      "handle": "darcio.junior",
       "email": "darcio.junior@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2078,7 +2049,7 @@
       "inscrito": false
     },
     {
-      "handle": "edgardias",
+      "handle": "edgar.dias",
       "email": "edgar.dias@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2087,7 +2058,16 @@
       "inscrito": false
     },
     {
-      "handle": "emersonsantos",
+      "handle": "eduardo.sebastiao",
+      "email": "eduardo.sebastiao@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "emerson.santos",
       "email": "emerson.santos@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2096,7 +2076,16 @@
       "inscrito": false
     },
     {
-      "handle": "juliocampos",
+      "handle": "joao.cintra",
+      "email": "joao.cintra@tembici.com",
+      "praca": "BikeBH",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "julio.campos",
       "email": "julio.campos@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2105,7 +2094,7 @@
       "inscrito": false
     },
     {
-      "handle": "juniohypolito",
+      "handle": "junio.hypolito",
       "email": "junio.hypolito@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2114,7 +2103,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucascabral",
+      "handle": "lucas.cabral",
       "email": "lucas.cabral@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2123,7 +2112,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizaalmeida",
+      "handle": "luiza.almeida",
       "email": "luiza.almeida@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2132,7 +2121,7 @@
       "inscrito": false
     },
     {
-      "handle": "messiassilva",
+      "handle": "messias.silva",
       "email": "messias.silva@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2141,7 +2130,7 @@
       "inscrito": false
     },
     {
-      "handle": "paulolopes",
+      "handle": "paulo.lopes",
       "email": "paulo.lopes@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2150,7 +2139,7 @@
       "inscrito": false
     },
     {
-      "handle": "pedromiranda",
+      "handle": "pedro.miranda",
       "email": "pedro.miranda@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2159,7 +2148,7 @@
       "inscrito": false
     },
     {
-      "handle": "saviocaldeira",
+      "handle": "savio.caldeira",
       "email": "savio.caldeira@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2168,7 +2157,7 @@
       "inscrito": false
     },
     {
-      "handle": "washingtonfelix",
+      "handle": "washington.felix",
       "email": "washington.felix@tembici.com",
       "praca": "BikeBH",
       "pais": "Brasil",
@@ -2177,16 +2166,7 @@
       "inscrito": false
     },
     {
-      "handle": "rafaellacerda",
-      "email": "rafael.lacerda@tembici.com",
-      "praca": "BikeBSB",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "brendoalcantara",
+      "handle": "brendo.alcantara",
       "email": "brendo.alcantara@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2195,7 +2175,7 @@
       "inscrito": false
     },
     {
-      "handle": "cesarmarquez",
+      "handle": "cesar.marquez",
       "email": "cesar.marquez@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2204,7 +2184,7 @@
       "inscrito": false
     },
     {
-      "handle": "darlianysouza",
+      "handle": "darliany.souza",
       "email": "darliany.souza@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2213,7 +2193,7 @@
       "inscrito": false
     },
     {
-      "handle": "felipercarvalho",
+      "handle": "felipe.rcarvalho",
       "email": "felipe.rcarvalho@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2222,7 +2202,7 @@
       "inscrito": false
     },
     {
-      "handle": "joseanesilva",
+      "handle": "joseane.silva",
       "email": "joseane.silva@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2231,7 +2211,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizpereira",
+      "handle": "luiz.pereira",
       "email": "luiz.pereira@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2240,7 +2220,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcialucena",
+      "handle": "marcia.lucena",
       "email": "marcia.lucena@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2249,7 +2229,7 @@
       "inscrito": false
     },
     {
-      "handle": "paulosousa",
+      "handle": "paulo.sousa",
       "email": "paulo.sousa@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2258,7 +2238,16 @@
       "inscrito": false
     },
     {
-      "handle": "raphaelcavalcante",
+      "handle": "rafael.lacerda",
+      "email": "rafael.lacerda@tembici.com",
+      "praca": "BikeBSB",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "raphael.cavalcante",
       "email": "raphael.cavalcante@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2267,7 +2256,7 @@
       "inscrito": false
     },
     {
-      "handle": "raphaellacerda",
+      "handle": "raphael.lacerda",
       "email": "raphael.lacerda@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2276,7 +2265,7 @@
       "inscrito": false
     },
     {
-      "handle": "ronieloliveira",
+      "handle": "roniel.oliveira",
       "email": "roniel.oliveira@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2285,7 +2274,7 @@
       "inscrito": false
     },
     {
-      "handle": "wandersongarcia",
+      "handle": "wanderson.garcia",
       "email": "wanderson.garcia@tembici.com",
       "praca": "BikeBSB",
       "pais": "Brasil",
@@ -2294,43 +2283,34 @@
       "inscrito": false
     },
     {
-      "handle": "andresamador",
+      "handle": "andres.amador",
       "email": "andres.amador@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
       "diretoria": "CBO",
       "adm_corp": "Operação",
-      "inscrito": true
+      "inscrito": false
     },
     {
-      "handle": "angiereina",
+      "handle": "angie.reina",
       "email": "angie.reina@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
       "diretoria": "CBO",
       "adm_corp": "Operação",
-      "inscrito": true
+      "inscrito": false
     },
     {
-      "handle": "kevinpineda",
-      "email": "kevin.pineda@tembici.com",
-      "praca": "BikeBogota",
-      "pais": "Colômbia",
-      "diretoria": "RELGOV",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "luisarestrepo",
-      "email": "luisa.restrepo@tembici.com",
+      "handle": "brayan.castro",
+      "email": "brayan.castro.gigroup@tembici-consult.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
       "diretoria": "CBO",
       "adm_corp": "Operação",
-      "inscrito": true
+      "inscrito": false
     },
     {
-      "handle": "camilaacosta",
+      "handle": "camila.acosta",
       "email": "camila.acosta@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2339,7 +2319,34 @@
       "inscrito": false
     },
     {
-      "handle": "carolinarodriguez",
+      "handle": "camilo.montoya",
+      "email": "camilo.montoya.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "camilo.patacon",
+      "email": "camilo.patacon.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "camilo.polania@tembici-consult.com",
+      "email": "camilo.polania@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "carolina.rodriguez",
       "email": "carolina.rodriguez@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2348,7 +2355,16 @@
       "inscrito": false
     },
     {
-      "handle": "dianaaranda",
+      "handle": "cristhian.labrador",
+      "email": "cristhian.labrador.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "diana.aranda",
       "email": "diana.aranda@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2357,7 +2373,52 @@
       "inscrito": false
     },
     {
-      "handle": "jannergarcia",
+      "handle": "diego.garcia",
+      "email": "diego.garcia.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "elsy.fuentes",
+      "email": "elsy.fuentes.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "esther.moran",
+      "email": "esther.moran.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ever.quiroga",
+      "email": "ever.quiroga.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jaime.leon",
+      "email": "jaime.leon.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "janner.garcia",
       "email": "janner.garcia@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2366,7 +2427,34 @@
       "inscrito": false
     },
     {
-      "handle": "jeisonreyes",
+      "handle": "jarol.barragan",
+      "email": "jarol.barragan.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jazmin.valdes",
+      "email": "jazmin.valdes.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jefrid.grajales",
+      "email": "jefrid.grajales.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jeison.reyes",
       "email": "jeison.reyes@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2375,7 +2463,7 @@
       "inscrito": false
     },
     {
-      "handle": "jhoanhurtado",
+      "handle": "jhoan.hurtado",
       "email": "jhoan.hurtado@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2384,7 +2472,61 @@
       "inscrito": false
     },
     {
-      "handle": "juanortiz",
+      "handle": "jhon.rodriguez",
+      "email": "jhon.rodriguez.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhonatan.carrasco",
+      "email": "jhonatan.carrasco.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jhonatan.zorro",
+      "email": "jhonatan.zorro.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jimmy.pardo",
+      "email": "jimmy.pardo.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juan.caicedo",
+      "email": "juan.caicedo.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juan.guevara",
+      "email": "juan.guevara.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "juan.ortiz",
       "email": "juan.ortiz@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2393,7 +2535,7 @@
       "inscrito": false
     },
     {
-      "handle": "julyvelasco",
+      "handle": "july.velasco",
       "email": "july.velasco@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2402,7 +2544,25 @@
       "inscrito": false
     },
     {
-      "handle": "lauravasquez",
+      "handle": "kevin.pineda",
+      "email": "kevin.pineda@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "RELGOV",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "kevin.tovar",
+      "email": "kevin.tovar.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "laura.vasquez",
       "email": "laura.vasquez@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2411,7 +2571,16 @@
       "inscrito": false
     },
     {
-      "handle": "leidytorres",
+      "handle": "leidy.quitian",
+      "email": "leidy.quitian.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "leidy.torres",
       "email": "leidy.torres@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2420,7 +2589,7 @@
       "inscrito": false
     },
     {
-      "handle": "lizussa",
+      "handle": "liz.ussa",
       "email": "liz.ussa@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2429,7 +2598,25 @@
       "inscrito": false
     },
     {
-      "handle": "oscarrodriguez",
+      "handle": "luisa.restrepo",
+      "email": "luisa.restrepo@tembici.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "oscar.florez",
+      "email": "oscar.florez.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "oscar.rodriguez",
       "email": "oscar.rodriguez@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2438,7 +2625,7 @@
       "inscrito": false
     },
     {
-      "handle": "oscarrojas",
+      "handle": "oscar.rojas",
       "email": "oscar.rojas@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2447,7 +2634,7 @@
       "inscrito": false
     },
     {
-      "handle": "paolaladino",
+      "handle": "paola.ladino",
       "email": "paola.ladino@tembici.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -2456,16 +2643,34 @@
       "inscrito": false
     },
     {
-      "handle": "thiagomohr",
-      "email": "thiago.mohr@tembici.com",
-      "praca": "BikeCuritiba",
-      "pais": "Brasil",
+      "handle": "walter.zamora",
+      "email": "walter.zamora.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
       "diretoria": "CBO",
       "adm_corp": "Operação",
-      "inscrito": true
+      "inscrito": false
     },
     {
-      "handle": "alexsandroweretycki",
+      "handle": "wilson.claros",
+      "email": "wilson.claros.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "yeison.montes",
+      "email": "yeison.montes.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexsandro.weretycki",
       "email": "alexsandro.weretycki@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2474,7 +2679,7 @@
       "inscrito": false
     },
     {
-      "handle": "andreprestes",
+      "handle": "andre.prestes",
       "email": "andre.prestes@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2483,7 +2688,7 @@
       "inscrito": false
     },
     {
-      "handle": "dionatanpremibida",
+      "handle": "dionatan.premibida",
       "email": "dionatan.premibida@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2492,7 +2697,7 @@
       "inscrito": false
     },
     {
-      "handle": "douglaspereira",
+      "handle": "douglas.pereira",
       "email": "douglas.pereira@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2501,7 +2706,7 @@
       "inscrito": false
     },
     {
-      "handle": "edercosta",
+      "handle": "eder.costa",
       "email": "eder.costa@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2510,7 +2715,7 @@
       "inscrito": false
     },
     {
-      "handle": "higorcouto",
+      "handle": "higor.couto",
       "email": "higor.couto@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2519,7 +2724,7 @@
       "inscrito": false
     },
     {
-      "handle": "hiolitamattiuzzi",
+      "handle": "hiolita.mattiuzzi",
       "email": "hiolita.mattiuzzi@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2528,7 +2733,7 @@
       "inscrito": false
     },
     {
-      "handle": "josedeguchi",
+      "handle": "jose.deguchi",
       "email": "jose.deguchi@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2537,7 +2742,7 @@
       "inscrito": false
     },
     {
-      "handle": "kauekrum",
+      "handle": "kaue.krum",
       "email": "kaue.krum@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2546,7 +2751,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucaskozowiski",
+      "handle": "lucas.kozowiski",
       "email": "lucas.kozowiski@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2555,7 +2760,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizvelozo",
+      "handle": "luiz.velozo",
       "email": "luiz.velozo@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2564,7 +2769,7 @@
       "inscrito": false
     },
     {
-      "handle": "samirafranco",
+      "handle": "samira.franco",
       "email": "samira.franco@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2573,7 +2778,7 @@
       "inscrito": false
     },
     {
-      "handle": "sidneyjunior",
+      "handle": "sidney.junior",
       "email": "sidney.junior@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2582,7 +2787,16 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtonlopes",
+      "handle": "thiago.mohr",
+      "email": "thiago.mohr@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wellington.lopes",
       "email": "wellington.lopes@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
@@ -2591,7 +2805,7 @@
       "inscrito": false
     },
     {
-      "handle": "alineoliveira",
+      "handle": "aline.oliveira",
       "email": "aline.oliveira@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2600,7 +2814,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunoassis",
+      "handle": "bruno.assis",
       "email": "bruno.assis@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2609,7 +2823,7 @@
       "inscrito": false
     },
     {
-      "handle": "deborahdiniz",
+      "handle": "deborah.diniz",
       "email": "deborah.diniz@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2618,7 +2832,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardoandrade",
+      "handle": "eduardo.andrade",
       "email": "eduardo.andrade@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2627,7 +2841,7 @@
       "inscrito": false
     },
     {
-      "handle": "ericooliveira",
+      "handle": "erico.oliveira",
       "email": "erico.oliveira@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2636,7 +2850,7 @@
       "inscrito": false
     },
     {
-      "handle": "giovannicastelletti",
+      "handle": "giovanni.castelletti",
       "email": "giovanni.castelletti@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2645,7 +2859,7 @@
       "inscrito": false
     },
     {
-      "handle": "jacsonfernandes",
+      "handle": "jacson.fernandes",
       "email": "jacson.fernandes@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2654,7 +2868,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaomiguel",
+      "handle": "joao.miguel",
       "email": "joao.miguel@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2663,7 +2877,7 @@
       "inscrito": false
     },
     {
-      "handle": "leandropires",
+      "handle": "leandro.pires",
       "email": "leandro.pires@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2672,7 +2886,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasssouza",
+      "handle": "lucas.ssouza",
       "email": "lucas.ssouza@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2681,7 +2895,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasvalenca",
+      "handle": "lucas.valenca",
       "email": "lucas.valenca@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2690,7 +2904,7 @@
       "inscrito": false
     },
     {
-      "handle": "mairaneisenger",
+      "handle": "maira.neisenger",
       "email": "maira.neisenger@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2699,7 +2913,7 @@
       "inscrito": false
     },
     {
-      "handle": "omaraguilera",
+      "handle": "omar.aguilera",
       "email": "omar.aguilera@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2708,7 +2922,7 @@
       "inscrito": false
     },
     {
-      "handle": "robertopaula",
+      "handle": "roberto.paula",
       "email": "roberto.paula@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2717,7 +2931,7 @@
       "inscrito": false
     },
     {
-      "handle": "samirmacedo",
+      "handle": "samir.macedo",
       "email": "samir.macedo@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2726,7 +2940,7 @@
       "inscrito": false
     },
     {
-      "handle": "wagnermachado",
+      "handle": "wagner.machado",
       "email": "wagner.machado@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
@@ -2735,34 +2949,7 @@
       "inscrito": false
     },
     {
-      "handle": "douglasjunior",
-      "email": "douglas.junior@tembici.com",
-      "praca": "BikePE",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "eduardocunha",
-      "email": "eduardo.cunha@tembici.com",
-      "praca": "BikePE",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "thalytasilva",
-      "email": "thalyta.silva@tembici.com",
-      "praca": "BikePE",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "akaciosantos",
+      "handle": "akacio.santos",
       "email": "akacio.santos@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2771,7 +2958,7 @@
       "inscrito": false
     },
     {
-      "handle": "alanjesus",
+      "handle": "alan.jesus",
       "email": "alan.jesus@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2780,7 +2967,7 @@
       "inscrito": false
     },
     {
-      "handle": "antoniorodrigues",
+      "handle": "antonio.rodrigues",
       "email": "antonio.rodrigues@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2789,7 +2976,7 @@
       "inscrito": false
     },
     {
-      "handle": "arthurbsilva",
+      "handle": "arthur.bsilva",
       "email": "arthur.bsilva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2798,7 +2985,7 @@
       "inscrito": false
     },
     {
-      "handle": "assuerosantos",
+      "handle": "assuero.santos",
       "email": "assuero.santos@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2807,7 +2994,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunooliveira",
+      "handle": "bruno.oliveira",
       "email": "bruno.oliveira@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2816,7 +3003,7 @@
       "inscrito": false
     },
     {
-      "handle": "carloshenrique",
+      "handle": "carlos.henrique",
       "email": "carlos.henrique@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2825,7 +3012,7 @@
       "inscrito": false
     },
     {
-      "handle": "cassiojunior",
+      "handle": "cassio.junior",
       "email": "cassio.junior@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2834,7 +3021,7 @@
       "inscrito": false
     },
     {
-      "handle": "daniellesilva",
+      "handle": "danielle.silva",
       "email": "danielle.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2843,7 +3030,7 @@
       "inscrito": false
     },
     {
-      "handle": "demosthenesjunior",
+      "handle": "demosthenes.junior",
       "email": "demosthenes.junior@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2852,7 +3039,25 @@
       "inscrito": false
     },
     {
-      "handle": "elielcosta",
+      "handle": "douglas.junior",
+      "email": "douglas.junior@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eduardo.cunha",
+      "email": "eduardo.cunha@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "eliel.costa",
       "email": "eliel.costa@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2861,7 +3066,7 @@
       "inscrito": false
     },
     {
-      "handle": "elvessilva",
+      "handle": "elves.silva",
       "email": "elves.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2870,7 +3075,7 @@
       "inscrito": false
     },
     {
-      "handle": "jaciarasilva",
+      "handle": "jaciara.silva",
       "email": "jaciara.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2879,7 +3084,7 @@
       "inscrito": false
     },
     {
-      "handle": "janainaalbuquerque",
+      "handle": "janaina.albuquerque",
       "email": "janaina.albuquerque@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2888,7 +3093,7 @@
       "inscrito": false
     },
     {
-      "handle": "janiosilva",
+      "handle": "janio.silva",
       "email": "janio.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2897,7 +3102,7 @@
       "inscrito": false
     },
     {
-      "handle": "josebezerra",
+      "handle": "jose.bezerra",
       "email": "jose.bezerra@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2906,7 +3111,7 @@
       "inscrito": false
     },
     {
-      "handle": "joseferreira",
+      "handle": "jose.ferreira",
       "email": "jose.ferreira@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2915,7 +3120,7 @@
       "inscrito": false
     },
     {
-      "handle": "juarezsilva",
+      "handle": "juarez.silva",
       "email": "juarez.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2924,7 +3129,7 @@
       "inscrito": false
     },
     {
-      "handle": "linoandrade",
+      "handle": "lino.andrade",
       "email": "lino.andrade@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2933,7 +3138,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcelsilva",
+      "handle": "marcel.silva",
       "email": "marcel.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2942,7 +3147,7 @@
       "inscrito": false
     },
     {
-      "handle": "mariasantos",
+      "handle": "maria.santos",
       "email": "maria.santos@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2951,7 +3156,7 @@
       "inscrito": false
     },
     {
-      "handle": "pedrohsilva",
+      "handle": "pedro.hsilva",
       "email": "pedro.hsilva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2960,7 +3165,7 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigohenrique",
+      "handle": "rodrigo.henrique",
       "email": "rodrigo.henrique@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2969,7 +3174,7 @@
       "inscrito": false
     },
     {
-      "handle": "samuelbezerra",
+      "handle": "samuel.bezerra",
       "email": "samuel.bezerra@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2978,7 +3183,7 @@
       "inscrito": false
     },
     {
-      "handle": "sergiooliveira",
+      "handle": "sergio.oliveira",
       "email": "sergio.oliveira@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2987,7 +3192,7 @@
       "inscrito": false
     },
     {
-      "handle": "sergiosilva",
+      "handle": "sergio.silva",
       "email": "sergio.silva@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -2996,7 +3201,16 @@
       "inscrito": false
     },
     {
-      "handle": "wesleysantos",
+      "handle": "thalyta.silva",
+      "email": "thalyta.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "wesley.santos",
       "email": "wesley.santos@tembici.com",
       "praca": "BikePE",
       "pais": "Brasil",
@@ -3005,7 +3219,7 @@
       "inscrito": false
     },
     {
-      "handle": "arturvargas",
+      "handle": "artur.vargas",
       "email": "artur.vargas@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3014,7 +3228,7 @@
       "inscrito": false
     },
     {
-      "handle": "brayanyanez",
+      "handle": "brayan.yanez",
       "email": "brayan.yanez@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3023,7 +3237,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosfreitas",
+      "handle": "carlos.freitas",
       "email": "carlos.freitas@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3032,7 +3246,7 @@
       "inscrito": false
     },
     {
-      "handle": "chaeanetaisses",
+      "handle": "chaeane.taisses",
       "email": "chaeane.taisses@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3041,7 +3255,7 @@
       "inscrito": false
     },
     {
-      "handle": "charlesrosa",
+      "handle": "charles.rosa",
       "email": "charles.rosa@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3050,7 +3264,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardooliveira",
+      "handle": "eduardo.oliveira",
       "email": "eduardo.oliveira@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3059,7 +3273,7 @@
       "inscrito": false
     },
     {
-      "handle": "felippemachado",
+      "handle": "felippe.machado",
       "email": "felippe.machado@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3068,7 +3282,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandarosa",
+      "handle": "fernanda.rosa",
       "email": "fernanda.rosa@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3077,7 +3291,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielsiqueira",
+      "handle": "gabriel.siqueira",
       "email": "gabriel.siqueira@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3086,7 +3300,7 @@
       "inscrito": false
     },
     {
-      "handle": "guilhermevaz",
+      "handle": "guilherme.vaz",
       "email": "guilherme.vaz@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3095,7 +3309,7 @@
       "inscrito": false
     },
     {
-      "handle": "ismaelsilva",
+      "handle": "ismael.silva",
       "email": "ismael.silva@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3104,7 +3318,7 @@
       "inscrito": false
     },
     {
-      "handle": "jeansilva",
+      "handle": "jean.silva",
       "email": "jean.silva@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3113,7 +3327,7 @@
       "inscrito": false
     },
     {
-      "handle": "julianolinhares",
+      "handle": "juliano.linhares",
       "email": "juliano.linhares@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3122,7 +3336,7 @@
       "inscrito": false
     },
     {
-      "handle": "kenyacosta",
+      "handle": "kenya.costa",
       "email": "kenya.costa@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3131,7 +3345,7 @@
       "inscrito": false
     },
     {
-      "handle": "laosrosa",
+      "handle": "laos.rosa",
       "email": "laos.rosa@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3140,7 +3354,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardobpereira",
+      "handle": "leonardo.bpereira",
       "email": "leonardo.bpereira@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3149,7 +3363,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardomendes",
+      "handle": "leonardo.mendes",
       "email": "leonardo.mendes@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3158,7 +3372,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardomezetti",
+      "handle": "leonardo.mezetti",
       "email": "leonardo.mezetti@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3167,7 +3381,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasnunes",
+      "handle": "lucas.nunes",
       "email": "lucas.nunes@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3176,7 +3390,7 @@
       "inscrito": false
     },
     {
-      "handle": "marciowasen",
+      "handle": "marcio.wasen",
       "email": "marcio.wasen@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3185,7 +3399,7 @@
       "inscrito": false
     },
     {
-      "handle": "patrickmoro",
+      "handle": "patrick.moro",
       "email": "patrick.moro@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3194,7 +3408,7 @@
       "inscrito": false
     },
     {
-      "handle": "pedrokronitzky",
+      "handle": "pedro.kronitzky",
       "email": "pedro.kronitzky@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3203,7 +3417,7 @@
       "inscrito": false
     },
     {
-      "handle": "regissilva",
+      "handle": "regis.silva",
       "email": "regis.silva@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3212,7 +3426,7 @@
       "inscrito": false
     },
     {
-      "handle": "thiagoosantos",
+      "handle": "thiago.osantos",
       "email": "thiago.osantos@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3221,7 +3435,7 @@
       "inscrito": false
     },
     {
-      "handle": "wagnerkrauspenhar",
+      "handle": "wagner.krauspenhar",
       "email": "wagner.krauspenhar@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3230,7 +3444,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellersonvalandro",
+      "handle": "wellerson.valandro",
       "email": "wellerson.valandro@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
@@ -3239,52 +3453,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaoreis",
-      "email": "joao.reis@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "keilasantos",
-      "email": "keila.santos@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "robertfernandes",
-      "email": "robert.fernandes@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "tiagoalmeida",
-      "email": "tiago.almeida@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "victorjorge",
-      "email": "victor.jorge@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "adamsilva",
+      "handle": "adam.silva",
       "email": "adam.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3293,7 +3462,7 @@
       "inscrito": false
     },
     {
-      "handle": "alefalves",
+      "handle": "alef.alves",
       "email": "alef.alves@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3302,52 +3471,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexanderpinheiro",
-      "email": "alexander.pinheiro@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "alexandersoares",
-      "email": "alexander.soares@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "alexandrefonseca",
-      "email": "alexandre.fonseca@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "alexandrenascimento",
-      "email": "alexandre.nascimento@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "alexiabezerra",
-      "email": "alexia.bezerra@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "alexoliveira",
+      "handle": "alex.oliveira",
       "email": "alex.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3356,7 +3480,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexseveriano",
+      "handle": "alex.severiano",
       "email": "alex.severiano@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3365,7 +3489,52 @@
       "inscrito": false
     },
     {
-      "handle": "anacampiglia",
+      "handle": "alexander.pinheiro",
+      "email": "alexander.pinheiro@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexander.soares",
+      "email": "alexander.soares@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandre.fonseca",
+      "email": "alexandre.fonseca@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandre.nascimento",
+      "email": "alexandre.nascimento@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexia.bezerra",
+      "email": "alexia.bezerra@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ana.campiglia",
       "email": "ana.campiglia@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3374,7 +3543,7 @@
       "inscrito": false
     },
     {
-      "handle": "anataliosantos",
+      "handle": "anatalio.santos",
       "email": "anatalio.santos@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3383,7 +3552,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersonaraujo",
+      "handle": "anderson.araujo",
       "email": "anderson.araujo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3392,7 +3561,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersonoliveira",
+      "handle": "anderson.oliveira",
       "email": "anderson.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3401,7 +3570,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersonpaulo",
+      "handle": "anderson.paulo",
       "email": "anderson.paulo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3410,7 +3579,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersonverissimo",
+      "handle": "anderson.verissimo",
       "email": "anderson.verissimo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3419,7 +3588,7 @@
       "inscrito": false
     },
     {
-      "handle": "andreamoreno",
+      "handle": "andrea.moreno",
       "email": "andrea.moreno@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3428,7 +3597,7 @@
       "inscrito": false
     },
     {
-      "handle": "andreasilva",
+      "handle": "andrea.silva",
       "email": "andrea.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3437,7 +3606,7 @@
       "inscrito": false
     },
     {
-      "handle": "angeloalmeida",
+      "handle": "angelo.almeida",
       "email": "angelo.almeida@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3446,7 +3615,7 @@
       "inscrito": false
     },
     {
-      "handle": "antonioatanasio",
+      "handle": "antonio.atanasio",
       "email": "antonio.atanasio@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3455,7 +3624,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunapinheiro",
+      "handle": "bruna.pinheiro",
       "email": "bruna.pinheiro@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3464,7 +3633,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunocolivera",
+      "handle": "bruno.colivera",
       "email": "bruno.colivera@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3473,7 +3642,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunoguilherme",
+      "handle": "bruno.guilherme",
       "email": "bruno.guilherme@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3482,7 +3651,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunomachado",
+      "handle": "bruno.machado",
       "email": "bruno.machado@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3491,7 +3660,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunopereira",
+      "handle": "bruno.pereira",
       "email": "bruno.pereira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3500,7 +3669,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunovaldez",
+      "handle": "bruno.valdez",
       "email": "bruno.valdez@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3509,7 +3678,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlabezerra",
+      "handle": "carla.bezerra",
       "email": "carla.bezerra@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3518,7 +3687,7 @@
       "inscrito": false
     },
     {
-      "handle": "carloseduardo",
+      "handle": "carlos.eduardo",
       "email": "carlos.eduardo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3527,7 +3696,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlospeche",
+      "handle": "carlos.peche",
       "email": "carlos.peche@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3536,7 +3705,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosrodrigues",
+      "handle": "carlos.rodrigues",
       "email": "carlos.rodrigues@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3545,7 +3714,7 @@
       "inscrito": false
     },
     {
-      "handle": "carolinanilo",
+      "handle": "carolina.nilo",
       "email": "carolina.nilo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3554,7 +3723,7 @@
       "inscrito": false
     },
     {
-      "handle": "cassiosouza",
+      "handle": "cassio.souza",
       "email": "cassio.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3563,7 +3732,7 @@
       "inscrito": false
     },
     {
-      "handle": "cayogarcia",
+      "handle": "cayo.garcia",
       "email": "cayo.garcia@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3572,7 +3741,7 @@
       "inscrito": false
     },
     {
-      "handle": "cesarsouza",
+      "handle": "cesar.souza",
       "email": "cesar.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3581,7 +3750,7 @@
       "inscrito": false
     },
     {
-      "handle": "christianestanga",
+      "handle": "christian.estanga",
       "email": "christian.estanga@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3590,7 +3759,7 @@
       "inscrito": false
     },
     {
-      "handle": "cleytonsilva",
+      "handle": "cleyton.silva",
       "email": "cleyton.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3599,7 +3768,7 @@
       "inscrito": false
     },
     {
-      "handle": "danielmartins",
+      "handle": "daniel.martins",
       "email": "daniel.martins@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3608,7 +3777,7 @@
       "inscrito": false
     },
     {
-      "handle": "danilofarias",
+      "handle": "danilo.farias",
       "email": "danilo.farias@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3617,7 +3786,7 @@
       "inscrito": false
     },
     {
-      "handle": "davibarbosa",
+      "handle": "davi.barbosa",
       "email": "davi.barbosa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3626,7 +3795,7 @@
       "inscrito": false
     },
     {
-      "handle": "davidsonfilho",
+      "handle": "davidson.filho",
       "email": "davidson.filho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3635,7 +3804,7 @@
       "inscrito": false
     },
     {
-      "handle": "denissilva",
+      "handle": "denis.silva",
       "email": "denis.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3644,7 +3813,7 @@
       "inscrito": false
     },
     {
-      "handle": "derickborges",
+      "handle": "derick.borges",
       "email": "derick.borges@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3653,7 +3822,7 @@
       "inscrito": false
     },
     {
-      "handle": "diogocosta",
+      "handle": "diogo.costa",
       "email": "diogo.costa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3662,7 +3831,7 @@
       "inscrito": false
     },
     {
-      "handle": "diorgenessouza",
+      "handle": "diorgenes.souza",
       "email": "diorgenes.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3671,7 +3840,7 @@
       "inscrito": false
     },
     {
-      "handle": "douglasasilva",
+      "handle": "douglas.asilva",
       "email": "douglas.asilva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3680,7 +3849,7 @@
       "inscrito": false
     },
     {
-      "handle": "douglasfreitas",
+      "handle": "douglas.freitas",
       "email": "douglas.freitas@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3689,7 +3858,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardoteixeira",
+      "handle": "eduardo.teixeira",
       "email": "eduardo.teixeira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3698,7 +3867,7 @@
       "inscrito": false
     },
     {
-      "handle": "eliassantos",
+      "handle": "elias.santos",
       "email": "elias.santos@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3707,7 +3876,7 @@
       "inscrito": false
     },
     {
-      "handle": "eltonfernandes",
+      "handle": "elton.fernandes",
       "email": "elton.fernandes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3716,7 +3885,7 @@
       "inscrito": false
     },
     {
-      "handle": "emersoncosta",
+      "handle": "emerson.costa",
       "email": "emerson.costa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3725,7 +3894,7 @@
       "inscrito": false
     },
     {
-      "handle": "emersonjesus",
+      "handle": "emerson.jesus",
       "email": "emerson.jesus@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3734,7 +3903,7 @@
       "inscrito": false
     },
     {
-      "handle": "emersonpereira",
+      "handle": "emerson.pereira",
       "email": "emerson.pereira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3743,7 +3912,7 @@
       "inscrito": false
     },
     {
-      "handle": "ericaprudencio",
+      "handle": "erica.prudencio",
       "email": "erica.prudencio@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3752,7 +3921,7 @@
       "inscrito": false
     },
     {
-      "handle": "evaldolima",
+      "handle": "evaldo.lima",
       "email": "evaldo.lima@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3761,7 +3930,7 @@
       "inscrito": false
     },
     {
-      "handle": "evandrosousa",
+      "handle": "evandro.sousa",
       "email": "evandro.sousa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3770,7 +3939,7 @@
       "inscrito": false
     },
     {
-      "handle": "fabiocruz",
+      "handle": "fabio.cruz",
       "email": "fabio.cruz@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3779,7 +3948,7 @@
       "inscrito": false
     },
     {
-      "handle": "fabiofranca",
+      "handle": "fabio.franca",
       "email": "fabio.franca@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3788,7 +3957,7 @@
       "inscrito": false
     },
     {
-      "handle": "fabiosilva",
+      "handle": "fabio.silva",
       "email": "fabio.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3797,7 +3966,7 @@
       "inscrito": false
     },
     {
-      "handle": "fabioteixeira",
+      "handle": "fabio.teixeira",
       "email": "fabio.teixeira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3806,7 +3975,7 @@
       "inscrito": false
     },
     {
-      "handle": "fagneroliveira",
+      "handle": "fagner.oliveira",
       "email": "fagner.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3815,7 +3984,7 @@
       "inscrito": false
     },
     {
-      "handle": "felipecruver",
+      "handle": "felipe.cruver",
       "email": "felipe.cruver@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3824,7 +3993,7 @@
       "inscrito": false
     },
     {
-      "handle": "felipescosta",
+      "handle": "felipe.scosta",
       "email": "felipe.scosta@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3833,7 +4002,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandaaguiar",
+      "handle": "fernanda.aguiar",
       "email": "fernanda.aguiar@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3842,7 +4011,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandocarvalho",
+      "handle": "fernando.carvalho",
       "email": "fernando.carvalho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3851,7 +4020,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandomonteiro",
+      "handle": "fernando.monteiro",
       "email": "fernando.monteiro@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3860,7 +4029,7 @@
       "inscrito": false
     },
     {
-      "handle": "flaviagomes",
+      "handle": "flavia.gomes",
       "email": "flavia.gomes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3869,7 +4038,7 @@
       "inscrito": false
     },
     {
-      "handle": "franciliosilva",
+      "handle": "francilio.silva",
       "email": "francilio.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3878,7 +4047,7 @@
       "inscrito": false
     },
     {
-      "handle": "franciscofilho",
+      "handle": "francisco.filho",
       "email": "francisco.filho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3887,7 +4056,7 @@
       "inscrito": false
     },
     {
-      "handle": "franciscojunior",
+      "handle": "francisco.junior",
       "email": "francisco.junior@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3896,7 +4065,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielsouza",
+      "handle": "gabriel.souza",
       "email": "gabriel.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3905,7 +4074,7 @@
       "inscrito": false
     },
     {
-      "handle": "georgemagalhaes",
+      "handle": "george.magalhaes",
       "email": "george.magalhaes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3914,7 +4083,7 @@
       "inscrito": false
     },
     {
-      "handle": "gersoncabral",
+      "handle": "gerson.cabral",
       "email": "gerson.cabral@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3923,7 +4092,7 @@
       "inscrito": false
     },
     {
-      "handle": "gilmarjunior",
+      "handle": "gilmar.junior",
       "email": "gilmar.junior@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3932,7 +4101,7 @@
       "inscrito": false
     },
     {
-      "handle": "gleysonsousa",
+      "handle": "gleyson.sousa",
       "email": "gleyson.sousa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3941,7 +4110,7 @@
       "inscrito": false
     },
     {
-      "handle": "guilhermeosilva",
+      "handle": "guilherme.osilva",
       "email": "guilherme.osilva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3950,7 +4119,7 @@
       "inscrito": false
     },
     {
-      "handle": "gustavofranca",
+      "handle": "gustavo.franca",
       "email": "gustavo.franca@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3959,7 +4128,7 @@
       "inscrito": false
     },
     {
-      "handle": "gustavomendes",
+      "handle": "gustavo.mendes",
       "email": "gustavo.mendes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3968,7 +4137,7 @@
       "inscrito": false
     },
     {
-      "handle": "hildebertolima",
+      "handle": "hildeberto.lima",
       "email": "hildeberto.lima@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3977,7 +4146,7 @@
       "inscrito": false
     },
     {
-      "handle": "hildebrandovieira",
+      "handle": "hildebrando.vieira",
       "email": "hildebrando.vieira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3986,7 +4155,7 @@
       "inscrito": false
     },
     {
-      "handle": "ibsonallendes",
+      "handle": "ibson.allendes",
       "email": "ibson.allendes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -3995,7 +4164,7 @@
       "inscrito": false
     },
     {
-      "handle": "isabeladuarte",
+      "handle": "isabela.duarte",
       "email": "isabela.duarte@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4004,7 +4173,7 @@
       "inscrito": false
     },
     {
-      "handle": "ivanalbuquerque",
+      "handle": "ivan.albuquerque",
       "email": "ivan.albuquerque@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4013,7 +4182,7 @@
       "inscrito": false
     },
     {
-      "handle": "jairosouza",
+      "handle": "jairo.souza",
       "email": "jairo.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4022,7 +4191,7 @@
       "inscrito": false
     },
     {
-      "handle": "janilsoribeiro",
+      "handle": "janilso.ribeiro",
       "email": "janilso.ribeiro@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4031,7 +4200,7 @@
       "inscrito": false
     },
     {
-      "handle": "jeissongordillo",
+      "handle": "jeisson.gordillo",
       "email": "jeisson.gordillo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4040,7 +4209,7 @@
       "inscrito": false
     },
     {
-      "handle": "jhonatancosta",
+      "handle": "jhonatan.costa",
       "email": "jhonatan.costa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4049,7 +4218,7 @@
       "inscrito": false
     },
     {
-      "handle": "jhonicoelho",
+      "handle": "jhoni.coelho",
       "email": "jhoni.coelho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4058,7 +4227,7 @@
       "inscrito": false
     },
     {
-      "handle": "jhonnatanbonfim",
+      "handle": "jhonnatan.bonfim",
       "email": "jhonnatan.bonfim@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4067,7 +4236,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaocardoso",
+      "handle": "joao.cardoso",
       "email": "joao.cardoso@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4076,7 +4245,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaocastelo",
+      "handle": "joao.castelo",
       "email": "joao.castelo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4085,7 +4254,16 @@
       "inscrito": false
     },
     {
-      "handle": "jonathanavelino",
+      "handle": "joao.reis",
+      "email": "joao.reis@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jonathan.avelino",
       "email": "jonathan.avelino@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4094,7 +4272,7 @@
       "inscrito": false
     },
     {
-      "handle": "jonathanlins",
+      "handle": "jonathan.lins",
       "email": "jonathan.lins@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4103,7 +4281,7 @@
       "inscrito": false
     },
     {
-      "handle": "josuealmeida",
+      "handle": "josue.almeida",
       "email": "josue.almeida@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4112,7 +4290,7 @@
       "inscrito": false
     },
     {
-      "handle": "juliapires",
+      "handle": "julia.pires",
       "email": "julia.pires@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4121,7 +4299,7 @@
       "inscrito": false
     },
     {
-      "handle": "juliogoivaes",
+      "handle": "julio.goivaes",
       "email": "julio.goivaes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4130,7 +4308,7 @@
       "inscrito": false
     },
     {
-      "handle": "katrielsilva",
+      "handle": "katriel.silva",
       "email": "katriel.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4139,7 +4317,16 @@
       "inscrito": false
     },
     {
-      "handle": "kethlenfaria",
+      "handle": "keila.santos",
+      "email": "keila.santos@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "kethlen.faria",
       "email": "kethlen.faria@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4148,7 +4335,7 @@
       "inscrito": false
     },
     {
-      "handle": "kiakunkunga",
+      "handle": "kiaku.nkunga",
       "email": "kiaku.nkunga@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4157,7 +4344,7 @@
       "inscrito": false
     },
     {
-      "handle": "larissamattos",
+      "handle": "larissa.mattos",
       "email": "larissa.mattos@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4166,7 +4353,7 @@
       "inscrito": false
     },
     {
-      "handle": "larissasoares",
+      "handle": "larissa.soares",
       "email": "larissa.soares@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4175,7 +4362,7 @@
       "inscrito": false
     },
     {
-      "handle": "leandrolucio",
+      "handle": "leandro.lucio",
       "email": "leandro.lucio@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4184,7 +4371,7 @@
       "inscrito": false
     },
     {
-      "handle": "leandrosouza",
+      "handle": "leandro.souza",
       "email": "leandro.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4193,7 +4380,7 @@
       "inscrito": false
     },
     {
-      "handle": "leoneirmartins",
+      "handle": "leoneir.martins",
       "email": "leoneir.martins@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4202,7 +4389,7 @@
       "inscrito": false
     },
     {
-      "handle": "lincolnfernandes",
+      "handle": "lincoln.fernandes",
       "email": "lincoln.fernandes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4211,7 +4398,7 @@
       "inscrito": false
     },
     {
-      "handle": "lorestinsouza",
+      "handle": "lorestin.souza",
       "email": "lorestin.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4220,7 +4407,7 @@
       "inscrito": false
     },
     {
-      "handle": "luanmoura",
+      "handle": "luan.moura",
       "email": "luan.moura@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4229,7 +4416,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucascardoso",
+      "handle": "lucas.cardoso",
       "email": "lucas.cardoso@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4238,7 +4425,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucascosta",
+      "handle": "lucas.costa",
       "email": "lucas.costa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4247,7 +4434,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasgteixeira",
+      "handle": "lucas.gteixeira",
       "email": "lucas.gteixeira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4256,7 +4443,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucaspereira",
+      "handle": "lucas.pereira",
       "email": "lucas.pereira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4265,7 +4452,7 @@
       "inscrito": false
     },
     {
-      "handle": "luisgomes",
+      "handle": "luis.gomes",
       "email": "luis.gomes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4274,7 +4461,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizeduardo",
+      "handle": "luiz.eduardo",
       "email": "luiz.eduardo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4283,7 +4470,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizmarques",
+      "handle": "luiz.marques",
       "email": "luiz.marques@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4292,7 +4479,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizsantana",
+      "handle": "luiz.santana",
       "email": "luiz.santana@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4301,7 +4488,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizsbarros",
+      "handle": "luiz.sbarros",
       "email": "luiz.sbarros@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4310,7 +4497,7 @@
       "inscrito": false
     },
     {
-      "handle": "macielbezerra",
+      "handle": "maciel.bezerra",
       "email": "maciel.bezerra@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4319,7 +4506,7 @@
       "inscrito": false
     },
     {
-      "handle": "magnumbispo",
+      "handle": "magnum.bispo",
       "email": "magnum.bispo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4328,7 +4515,7 @@
       "inscrito": false
     },
     {
-      "handle": "maiconmesquita",
+      "handle": "maicon.mesquita",
       "email": "maicon.mesquita@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4337,7 +4524,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcelogomes",
+      "handle": "marcelo.gomes",
       "email": "marcelo.gomes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4346,7 +4533,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcelolima",
+      "handle": "marcelo.lima",
       "email": "marcelo.lima@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4355,7 +4542,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcelosousa",
+      "handle": "marcelo.sousa",
       "email": "marcelo.sousa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4364,7 +4551,7 @@
       "inscrito": false
     },
     {
-      "handle": "marceloteixeira",
+      "handle": "marcelo.teixeira",
       "email": "marcelo.teixeira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4373,7 +4560,7 @@
       "inscrito": false
     },
     {
-      "handle": "marciocarvalho",
+      "handle": "marcio.carvalho",
       "email": "marcio.carvalho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4382,7 +4569,7 @@
       "inscrito": false
     },
     {
-      "handle": "marciofernandes",
+      "handle": "marcio.fernandes",
       "email": "marcio.fernandes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4391,7 +4578,7 @@
       "inscrito": false
     },
     {
-      "handle": "marciosilva",
+      "handle": "marcio.silva",
       "email": "marcio.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4400,7 +4587,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcobraz",
+      "handle": "marco.braz",
       "email": "marco.braz@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4409,7 +4596,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcondeus",
+      "handle": "marcon.deus",
       "email": "marcon.deus@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4418,7 +4605,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcosmedeiros",
+      "handle": "marcos.medeiros",
       "email": "marcos.medeiros@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4427,7 +4614,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcosoliveira",
+      "handle": "marcos.oliveira",
       "email": "marcos.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4436,16 +4623,7 @@
       "inscrito": false
     },
     {
-      "handle": "marianasousa",
-      "email": "mariana.sousa@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "mariasilva",
+      "handle": "maria.silva",
       "email": "maria.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4454,7 +4632,7 @@
       "inscrito": false
     },
     {
-      "handle": "mariasiqueira",
+      "handle": "maria.siqueira",
       "email": "maria.siqueira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4463,7 +4641,16 @@
       "inscrito": false
     },
     {
-      "handle": "matheusrocha",
+      "handle": "mariana.sousa",
+      "email": "mariana.sousa@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheus.rocha",
       "email": "matheus.rocha@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4472,7 +4659,7 @@
       "inscrito": false
     },
     {
-      "handle": "matheussouza",
+      "handle": "matheus.souza",
       "email": "matheus.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4481,7 +4668,7 @@
       "inscrito": false
     },
     {
-      "handle": "michaelalves",
+      "handle": "michael.alves",
       "email": "michael.alves@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4490,7 +4677,7 @@
       "inscrito": false
     },
     {
-      "handle": "moacirjunior",
+      "handle": "moacir.junior",
       "email": "moacir.junior@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4499,7 +4686,7 @@
       "inscrito": false
     },
     {
-      "handle": "moisesgomes",
+      "handle": "moises.gomes",
       "email": "moises.gomes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4508,7 +4695,7 @@
       "inscrito": false
     },
     {
-      "handle": "nilsonsodre",
+      "handle": "nilson.sodre",
       "email": "nilson.sodre@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4517,7 +4704,7 @@
       "inscrito": false
     },
     {
-      "handle": "omarmartinez",
+      "handle": "omar.martinez",
       "email": "omar.martinez@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4526,7 +4713,7 @@
       "inscrito": false
     },
     {
-      "handle": "paulolima",
+      "handle": "paulo.lima",
       "email": "paulo.lima@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4535,7 +4722,7 @@
       "inscrito": false
     },
     {
-      "handle": "pedroalmeida",
+      "handle": "pedro.almeida",
       "email": "pedro.almeida@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4544,7 +4731,7 @@
       "inscrito": false
     },
     {
-      "handle": "pedromoehleck",
+      "handle": "pedro.moehleck",
       "email": "pedro.moehleck@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4553,7 +4740,7 @@
       "inscrito": false
     },
     {
-      "handle": "rafaelmendonca",
+      "handle": "rafael.mendonca",
       "email": "rafael.mendonca@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4562,7 +4749,7 @@
       "inscrito": false
     },
     {
-      "handle": "ramonoliveira",
+      "handle": "ramon.oliveira",
       "email": "ramon.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4571,7 +4758,7 @@
       "inscrito": false
     },
     {
-      "handle": "raphaelcarvalho",
+      "handle": "raphael.carvalho",
       "email": "raphael.carvalho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4580,7 +4767,7 @@
       "inscrito": false
     },
     {
-      "handle": "raphaelmancebo",
+      "handle": "raphael.mancebo",
       "email": "raphael.mancebo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4589,7 +4776,7 @@
       "inscrito": false
     },
     {
-      "handle": "ravelsilva",
+      "handle": "ravel.silva",
       "email": "ravel.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4598,7 +4785,7 @@
       "inscrito": false
     },
     {
-      "handle": "regiveltonsilva",
+      "handle": "regivelton.silva",
       "email": "regivelton.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4607,7 +4794,7 @@
       "inscrito": false
     },
     {
-      "handle": "renanandrade",
+      "handle": "renan.andrade",
       "email": "renan.andrade@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4616,7 +4803,7 @@
       "inscrito": false
     },
     {
-      "handle": "rennanqueiroz1",
+      "handle": "rennan.queiroz1",
       "email": "rennan.queiroz1@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4625,7 +4812,7 @@
       "inscrito": false
     },
     {
-      "handle": "rianbasilio",
+      "handle": "rian.basilio",
       "email": "rian.basilio@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4634,7 +4821,7 @@
       "inscrito": false
     },
     {
-      "handle": "ricardoteixeira",
+      "handle": "ricardo.teixeira",
       "email": "ricardo.teixeira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4643,7 +4830,16 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigoaguiar",
+      "handle": "robert.fernandes",
+      "email": "robert.fernandes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "rodrigo.aguiar",
       "email": "rodrigo.aguiar@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4652,7 +4848,7 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigoeskenazi",
+      "handle": "rodrigo.eskenazi",
       "email": "rodrigo.eskenazi@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4661,7 +4857,7 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigomonteiro",
+      "handle": "rodrigo.monteiro",
       "email": "rodrigo.monteiro@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4670,7 +4866,7 @@
       "inscrito": false
     },
     {
-      "handle": "rogersilva",
+      "handle": "roger.silva",
       "email": "roger.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4679,7 +4875,7 @@
       "inscrito": false
     },
     {
-      "handle": "roniellecarvalho",
+      "handle": "ronielle.carvalho",
       "email": "ronielle.carvalho@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4688,7 +4884,7 @@
       "inscrito": false
     },
     {
-      "handle": "rosabarbosa",
+      "handle": "rosa.barbosa",
       "email": "rosa.barbosa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4697,7 +4893,7 @@
       "inscrito": false
     },
     {
-      "handle": "sarahsilva",
+      "handle": "sarah.silva",
       "email": "sarah.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4706,7 +4902,7 @@
       "inscrito": false
     },
     {
-      "handle": "sergiogomes",
+      "handle": "sergio.gomes",
       "email": "sergio.gomes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4715,7 +4911,7 @@
       "inscrito": false
     },
     {
-      "handle": "silvanosilva",
+      "handle": "silvano.silva",
       "email": "silvano.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4724,7 +4920,7 @@
       "inscrito": false
     },
     {
-      "handle": "simoneoliveira",
+      "handle": "simone.oliveira",
       "email": "simone.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4733,7 +4929,7 @@
       "inscrito": false
     },
     {
-      "handle": "terezamorais",
+      "handle": "tereza.morais",
       "email": "tereza.morais@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4742,7 +4938,7 @@
       "inscrito": false
     },
     {
-      "handle": "thallessilva",
+      "handle": "thalles.silva",
       "email": "thalles.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4751,7 +4947,7 @@
       "inscrito": false
     },
     {
-      "handle": "thassioleite",
+      "handle": "thassio.leite",
       "email": "thassio.leite@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4760,7 +4956,7 @@
       "inscrito": false
     },
     {
-      "handle": "thiagooliveira",
+      "handle": "thiago.oliveira",
       "email": "thiago.oliveira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4769,7 +4965,7 @@
       "inscrito": false
     },
     {
-      "handle": "thiagosantos",
+      "handle": "thiago.santos",
       "email": "thiago.santos@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4778,7 +4974,16 @@
       "inscrito": false
     },
     {
-      "handle": "tiagoosilva",
+      "handle": "tiago.almeida",
+      "email": "tiago.almeida@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "tiago.osilva",
       "email": "tiago.osilva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4787,7 +4992,7 @@
       "inscrito": false
     },
     {
-      "handle": "uoshingtonsilva",
+      "handle": "uoshington.silva",
       "email": "uoshington.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4796,7 +5001,7 @@
       "inscrito": false
     },
     {
-      "handle": "urvelisrodriguez",
+      "handle": "urvelis.rodriguez",
       "email": "urvelis.rodriguez@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4805,7 +5010,7 @@
       "inscrito": false
     },
     {
-      "handle": "vagneraraujo",
+      "handle": "vagner.araujo",
       "email": "vagner.araujo@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4814,7 +5019,7 @@
       "inscrito": false
     },
     {
-      "handle": "vagnersilva",
+      "handle": "vagner.silva",
       "email": "vagner.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4823,7 +5028,7 @@
       "inscrito": false
     },
     {
-      "handle": "vandersouza",
+      "handle": "vander.souza",
       "email": "vander.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4832,7 +5037,16 @@
       "inscrito": false
     },
     {
-      "handle": "victormiranda",
+      "handle": "victor.jorge",
+      "email": "victor.jorge@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "victor.miranda",
       "email": "victor.miranda@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4841,7 +5055,7 @@
       "inscrito": false
     },
     {
-      "handle": "victorteixeira",
+      "handle": "victor.teixeira",
       "email": "victor.teixeira@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4850,7 +5064,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusbasilio",
+      "handle": "vinicius.basilio",
       "email": "vinicius.basilio@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4859,7 +5073,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciuschalef",
+      "handle": "vinicius.chalef",
       "email": "vinicius.chalef@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4868,7 +5082,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusfernandes",
+      "handle": "vinicius.fernandes",
       "email": "vinicius.fernandes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4877,7 +5091,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusnascimento",
+      "handle": "vinicius.nascimento",
       "email": "vinicius.nascimento@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4886,7 +5100,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusqsilva",
+      "handle": "vinicius.qsilva",
       "email": "vinicius.qsilva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4895,7 +5109,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusribeiro",
+      "handle": "vinicius.ribeiro",
       "email": "vinicius.ribeiro@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4904,7 +5118,7 @@
       "inscrito": false
     },
     {
-      "handle": "vitoriasafadi",
+      "handle": "vitoria.safadi",
       "email": "vitoria.safadi@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4913,7 +5127,7 @@
       "inscrito": false
     },
     {
-      "handle": "wagnersilva",
+      "handle": "wagner.silva",
       "email": "wagner.silva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4922,7 +5136,7 @@
       "inscrito": false
     },
     {
-      "handle": "wandersonfelinto",
+      "handle": "wanderson.felinto",
       "email": "wanderson.felinto@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4931,7 +5145,7 @@
       "inscrito": false
     },
     {
-      "handle": "welbertsouza",
+      "handle": "welbert.souza",
       "email": "welbert.souza@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4940,7 +5154,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtoncunha",
+      "handle": "wellington.cunha",
       "email": "wellington.cunha@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4949,7 +5163,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtonsgoncalves",
+      "handle": "wellington.sgoncalves",
       "email": "wellington.sgoncalves@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4958,7 +5172,7 @@
       "inscrito": false
     },
     {
-      "handle": "wilianjunior",
+      "handle": "wilian.junior",
       "email": "wilian.junior@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4967,7 +5181,7 @@
       "inscrito": false
     },
     {
-      "handle": "yanbarbosa",
+      "handle": "yan.barbosa",
       "email": "yan.barbosa@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4976,7 +5190,7 @@
       "inscrito": false
     },
     {
-      "handle": "ygorsantos",
+      "handle": "ygor.santos",
       "email": "ygor.santos@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4985,7 +5199,7 @@
       "inscrito": false
     },
     {
-      "handle": "yoswualserrano",
+      "handle": "yoswual.serrano",
       "email": "yoswual.serrano@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
@@ -4994,25 +5208,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersonbarreto",
-      "email": "anderson.barreto@tembici.com",
-      "praca": "BikeSSA",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "italonuno",
-      "email": "italo.nuno@tembici.com",
-      "praca": "BikeSSA",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "alanconceicao",
+      "handle": "alan.conceicao",
       "email": "alan.conceicao@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5021,7 +5217,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexsandrosilva",
+      "handle": "alexsandro.silva",
       "email": "alexsandro.silva@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5030,7 +5226,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersonanjos",
+      "handle": "anderson.anjos",
       "email": "anderson.anjos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5039,7 +5235,16 @@
       "inscrito": false
     },
     {
-      "handle": "andersonrodrigues",
+      "handle": "anderson.barreto",
+      "email": "anderson.barreto@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "anderson.rodrigues",
       "email": "anderson.rodrigues@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5048,7 +5253,7 @@
       "inscrito": false
     },
     {
-      "handle": "andremendes",
+      "handle": "andre.mendes",
       "email": "andre.mendes@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5057,7 +5262,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunasantos",
+      "handle": "bruna.santos",
       "email": "bruna.santos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5066,7 +5271,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunobrito",
+      "handle": "bruno.brito",
       "email": "bruno.brito@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5075,7 +5280,7 @@
       "inscrito": false
     },
     {
-      "handle": "caiquealmeida",
+      "handle": "caique.almeida",
       "email": "caique.almeida@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5084,7 +5289,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosbezerra",
+      "handle": "carlos.bezerra",
       "email": "carlos.bezerra@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5093,7 +5298,7 @@
       "inscrito": false
     },
     {
-      "handle": "charlesxavier",
+      "handle": "charles.xavier",
       "email": "charles.xavier@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5102,7 +5307,7 @@
       "inscrito": false
     },
     {
-      "handle": "edimeiajesus",
+      "handle": "edimeia.jesus",
       "email": "edimeia.jesus@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5111,7 +5316,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardolourenco",
+      "handle": "eduardo.lourenco",
       "email": "eduardo.lourenco@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5120,7 +5325,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandaaraujo",
+      "handle": "fernanda.araujo",
       "email": "fernanda.araujo@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5129,7 +5334,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandonovais",
+      "handle": "fernando.novais",
       "email": "fernando.novais@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5138,7 +5343,7 @@
       "inscrito": false
     },
     {
-      "handle": "filipemedrado",
+      "handle": "filipe.medrado",
       "email": "filipe.medrado@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5147,7 +5352,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielpessoa",
+      "handle": "gabriel.pessoa",
       "email": "gabriel.pessoa@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5156,7 +5361,7 @@
       "inscrito": false
     },
     {
-      "handle": "gilsonribeiro",
+      "handle": "gilson.ribeiro",
       "email": "gilson.ribeiro@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5165,7 +5370,7 @@
       "inscrito": false
     },
     {
-      "handle": "humbertolopes",
+      "handle": "humberto.lopes",
       "email": "humberto.lopes@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5174,7 +5379,7 @@
       "inscrito": false
     },
     {
-      "handle": "icaroizabel",
+      "handle": "icaro.izabel",
       "email": "icaro.izabel@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5183,7 +5388,7 @@
       "inscrito": false
     },
     {
-      "handle": "israelfilho",
+      "handle": "israel.filho",
       "email": "israel.filho@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5192,7 +5397,16 @@
       "inscrito": false
     },
     {
-      "handle": "jocielpereira",
+      "handle": "italo.nuno",
+      "email": "italo.nuno@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "jociel.pereira",
       "email": "jociel.pereira@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5201,7 +5415,7 @@
       "inscrito": false
     },
     {
-      "handle": "joseasantos",
+      "handle": "jose.asantos",
       "email": "jose.asantos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5210,7 +5424,7 @@
       "inscrito": false
     },
     {
-      "handle": "josefonseca",
+      "handle": "jose.fonseca",
       "email": "jose.fonseca@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5219,7 +5433,7 @@
       "inscrito": false
     },
     {
-      "handle": "lazarosantos",
+      "handle": "lazaro.santos",
       "email": "lazaro.santos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5228,7 +5442,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasgoes",
+      "handle": "lucas.goes",
       "email": "lucas.goes@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5237,7 +5451,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucassoares",
+      "handle": "lucas.soares",
       "email": "lucas.soares@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5246,7 +5460,7 @@
       "inscrito": false
     },
     {
-      "handle": "luissantos",
+      "handle": "luis.santos",
       "email": "luis.santos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5255,7 +5469,7 @@
       "inscrito": false
     },
     {
-      "handle": "mauriciomaximo",
+      "handle": "mauricio.maximo",
       "email": "mauricio.maximo@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5264,7 +5478,7 @@
       "inscrito": false
     },
     {
-      "handle": "pauloalmeida",
+      "handle": "paulo.almeida",
       "email": "paulo.almeida@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5273,7 +5487,7 @@
       "inscrito": false
     },
     {
-      "handle": "paulosergio",
+      "handle": "paulo.sergio",
       "email": "paulo.sergio@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5282,7 +5496,7 @@
       "inscrito": false
     },
     {
-      "handle": "ricardosodre",
+      "handle": "ricardo.sodre",
       "email": "ricardo.sodre@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5291,7 +5505,7 @@
       "inscrito": false
     },
     {
-      "handle": "rosenildohora",
+      "handle": "rosenildo.hora",
       "email": "rosenildo.hora@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5300,7 +5514,7 @@
       "inscrito": false
     },
     {
-      "handle": "thiagosteixeira",
+      "handle": "thiago.steixeira",
       "email": "thiago.steixeira@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5309,7 +5523,7 @@
       "inscrito": false
     },
     {
-      "handle": "wallassantos",
+      "handle": "wallas.santos",
       "email": "wallas.santos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5318,7 +5532,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtonpaim",
+      "handle": "wellington.paim",
       "email": "wellington.paim@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
@@ -5327,43 +5541,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexsouza",
-      "email": "alex.souza@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "gabrielsvieira",
-      "email": "gabriel.svieira@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "josesilva",
-      "email": "jose.silva@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "matheusbarbosa",
-      "email": "matheus.barbosa@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "afonsofelippe",
+      "handle": "afonso.felippe",
       "email": "afonso.felippe@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5372,7 +5550,16 @@
       "inscrito": false
     },
     {
-      "handle": "alexandreoliveira",
+      "handle": "alex.souza",
+      "email": "alex.souza@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "alexandre.oliveira",
       "email": "alexandre.oliveira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5381,7 +5568,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexandropereda",
+      "handle": "alexandro.pereda",
       "email": "alexandro.pereda@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5390,7 +5577,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexsandergoes",
+      "handle": "alexsander.goes",
       "email": "alexsander.goes@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5399,7 +5586,7 @@
       "inscrito": false
     },
     {
-      "handle": "alvarosantos",
+      "handle": "alvaro.santos",
       "email": "alvaro.santos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5408,7 +5595,7 @@
       "inscrito": false
     },
     {
-      "handle": "amandaleite",
+      "handle": "amanda.leite",
       "email": "amanda.leite@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5417,7 +5604,7 @@
       "inscrito": false
     },
     {
-      "handle": "andersomfontoura",
+      "handle": "andersom.fontoura",
       "email": "andersom.fontoura@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5426,7 +5613,7 @@
       "inscrito": false
     },
     {
-      "handle": "angelasilva",
+      "handle": "angela.silva",
       "email": "angela.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5435,7 +5622,7 @@
       "inscrito": false
     },
     {
-      "handle": "angelodourado",
+      "handle": "angelo.dourado",
       "email": "angelo.dourado@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5444,7 +5631,7 @@
       "inscrito": false
     },
     {
-      "handle": "barbarasousa",
+      "handle": "barbara.sousa",
       "email": "barbara.sousa@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5453,7 +5640,7 @@
       "inscrito": false
     },
     {
-      "handle": "biancaandrade",
+      "handle": "bianca.andrade",
       "email": "bianca.andrade@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5462,7 +5649,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunobezerra",
+      "handle": "bruno.bezerra",
       "email": "bruno.bezerra@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5471,7 +5658,7 @@
       "inscrito": false
     },
     {
-      "handle": "caiolima",
+      "handle": "caio.lima",
       "email": "caio.lima@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5480,7 +5667,7 @@
       "inscrito": false
     },
     {
-      "handle": "caiosantos",
+      "handle": "caio.santos",
       "email": "caio.santos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5489,7 +5676,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosgonzaga",
+      "handle": "carlos.gonzaga",
       "email": "carlos.gonzaga@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5498,7 +5685,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlospereira",
+      "handle": "carlos.pereira",
       "email": "carlos.pereira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5507,7 +5694,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosroldan",
+      "handle": "carlos.roldan",
       "email": "carlos.roldan@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5516,7 +5703,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosspereira",
+      "handle": "carlos.spereira",
       "email": "carlos.spereira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5525,7 +5712,7 @@
       "inscrito": false
     },
     {
-      "handle": "cinthiaramos",
+      "handle": "cinthia.ramos",
       "email": "cinthia.ramos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5534,7 +5721,7 @@
       "inscrito": false
     },
     {
-      "handle": "cleristonsantos",
+      "handle": "cleriston.santos",
       "email": "cleriston.santos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5543,7 +5730,7 @@
       "inscrito": false
     },
     {
-      "handle": "cristovaopereira",
+      "handle": "cristovao.pereira",
       "email": "cristovao.pereira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5552,7 +5739,7 @@
       "inscrito": false
     },
     {
-      "handle": "danielaquino",
+      "handle": "daniel.aquino",
       "email": "daniel.aquino@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5561,7 +5748,7 @@
       "inscrito": false
     },
     {
-      "handle": "diogocsilva",
+      "handle": "diogo.csilva",
       "email": "diogo.csilva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5570,7 +5757,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardogoncalves",
+      "handle": "eduardo.goncalves",
       "email": "eduardo.goncalves@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5579,7 +5766,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardolima",
+      "handle": "eduardo.lima",
       "email": "eduardo.lima@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5588,7 +5775,7 @@
       "inscrito": false
     },
     {
-      "handle": "elaynearmas",
+      "handle": "elayne.armas",
       "email": "elayne.armas@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5597,7 +5784,7 @@
       "inscrito": false
     },
     {
-      "handle": "eliasrodriguez",
+      "handle": "elias.rodriguez",
       "email": "elias.rodriguez@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5606,7 +5793,7 @@
       "inscrito": false
     },
     {
-      "handle": "elisangelacorticeiro",
+      "handle": "elisangela.corticeiro",
       "email": "elisangela.corticeiro@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5615,7 +5802,7 @@
       "inscrito": false
     },
     {
-      "handle": "fabiopereira",
+      "handle": "fabio.pereira",
       "email": "fabio.pereira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5624,7 +5811,7 @@
       "inscrito": false
     },
     {
-      "handle": "felipeasantos",
+      "handle": "felipe.asantos",
       "email": "felipe.asantos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5633,7 +5820,7 @@
       "inscrito": false
     },
     {
-      "handle": "feliperodrigues",
+      "handle": "felipe.rodrigues",
       "email": "felipe.rodrigues@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5642,7 +5829,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrieldacome",
+      "handle": "gabriel.dacome",
       "email": "gabriel.dacome@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5651,7 +5838,16 @@
       "inscrito": false
     },
     {
-      "handle": "gersonjunior",
+      "handle": "gabriel.svieira",
+      "email": "gabriel.svieira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "gerson.junior",
       "email": "gerson.junior@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5660,7 +5856,7 @@
       "inscrito": false
     },
     {
-      "handle": "gislandiacardoso",
+      "handle": "gislandia.cardoso",
       "email": "gislandia.cardoso@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5669,7 +5865,7 @@
       "inscrito": false
     },
     {
-      "handle": "gustavoalves",
+      "handle": "gustavo.alves",
       "email": "gustavo.alves@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5678,7 +5874,7 @@
       "inscrito": false
     },
     {
-      "handle": "gustavonascimento",
+      "handle": "gustavo.nascimento",
       "email": "gustavo.nascimento@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5687,7 +5883,7 @@
       "inscrito": false
     },
     {
-      "handle": "hernanisilva",
+      "handle": "hernani.silva",
       "email": "hernani.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5696,7 +5892,7 @@
       "inscrito": false
     },
     {
-      "handle": "higorcarvalho",
+      "handle": "higor.carvalho",
       "email": "higor.carvalho@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5705,7 +5901,7 @@
       "inscrito": false
     },
     {
-      "handle": "icarouchoa",
+      "handle": "icaro.uchoa",
       "email": "icaro.uchoa@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5714,7 +5910,7 @@
       "inscrito": false
     },
     {
-      "handle": "igormonteiro",
+      "handle": "igor.monteiro",
       "email": "igor.monteiro@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5723,7 +5919,7 @@
       "inscrito": false
     },
     {
-      "handle": "irisnunes",
+      "handle": "iris.nunes",
       "email": "iris.nunes@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5732,7 +5928,7 @@
       "inscrito": false
     },
     {
-      "handle": "jedielsilva",
+      "handle": "jediel.silva",
       "email": "jediel.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5741,7 +5937,7 @@
       "inscrito": false
     },
     {
-      "handle": "jhonattanfrancisco",
+      "handle": "jhonattan.francisco",
       "email": "jhonattan.francisco@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5750,7 +5946,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaopecin",
+      "handle": "joao.pecin",
       "email": "joao.pecin@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5759,7 +5955,7 @@
       "inscrito": false
     },
     {
-      "handle": "johnnycana",
+      "handle": "johnny.cana",
       "email": "johnny.cana@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5768,7 +5964,16 @@
       "inscrito": false
     },
     {
-      "handle": "josuesombra",
+      "handle": "jose.silva",
+      "email": "jose.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "josue.sombra",
       "email": "josue.sombra@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5777,7 +5982,7 @@
       "inscrito": false
     },
     {
-      "handle": "joycyfernandes",
+      "handle": "joycy.fernandes",
       "email": "joycy.fernandes@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5786,7 +5991,7 @@
       "inscrito": false
     },
     {
-      "handle": "juanlima",
+      "handle": "juan.lima",
       "email": "juan.lima@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5795,7 +6000,7 @@
       "inscrito": false
     },
     {
-      "handle": "julianamiranda",
+      "handle": "juliana.miranda",
       "email": "juliana.miranda@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5804,7 +6009,7 @@
       "inscrito": false
     },
     {
-      "handle": "karolinejesus",
+      "handle": "karoline.jesus",
       "email": "karoline.jesus@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5813,7 +6018,7 @@
       "inscrito": false
     },
     {
-      "handle": "kelvisrojas",
+      "handle": "kelvis.rojas",
       "email": "kelvis.rojas@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5822,7 +6027,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardobraga",
+      "handle": "leonardo.braga",
       "email": "leonardo.braga@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5831,7 +6036,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardoluz",
+      "handle": "leonardo.luz",
       "email": "leonardo.luz@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5840,7 +6045,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasandrade",
+      "handle": "lucas.andrade",
       "email": "lucas.andrade@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5849,7 +6054,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasbarbosa",
+      "handle": "lucas.barbosa",
       "email": "lucas.barbosa@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5858,7 +6063,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucassnascimento",
+      "handle": "lucas.snascimento",
       "email": "lucas.snascimento@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5867,7 +6072,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcoscardoso",
+      "handle": "marcos.cardoso",
       "email": "marcos.cardoso@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5876,7 +6081,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcospaulo",
+      "handle": "marcos.paulo",
       "email": "marcos.paulo@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5885,7 +6090,7 @@
       "inscrito": false
     },
     {
-      "handle": "marjoriemorais",
+      "handle": "marjorie.morais",
       "email": "marjorie.morais@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5894,7 +6099,7 @@
       "inscrito": false
     },
     {
-      "handle": "matheusalves",
+      "handle": "matheus.alves",
       "email": "matheus.alves@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5903,7 +6108,16 @@
       "inscrito": false
     },
     {
-      "handle": "matheusferreira",
+      "handle": "matheus.barbosa",
+      "email": "matheus.barbosa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matheus.ferreira",
       "email": "matheus.ferreira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5912,7 +6126,7 @@
       "inscrito": false
     },
     {
-      "handle": "matheusvieira",
+      "handle": "matheus.vieira",
       "email": "matheus.vieira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5921,7 +6135,7 @@
       "inscrito": false
     },
     {
-      "handle": "maurorodrigues",
+      "handle": "mauro.rodrigues",
       "email": "mauro.rodrigues@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5930,7 +6144,7 @@
       "inscrito": false
     },
     {
-      "handle": "michellesilva",
+      "handle": "michelle.silva",
       "email": "michelle.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5939,7 +6153,7 @@
       "inscrito": false
     },
     {
-      "handle": "pauloandrade",
+      "handle": "paulo.andrade",
       "email": "paulo.andrade@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5948,7 +6162,7 @@
       "inscrito": false
     },
     {
-      "handle": "paulomartins",
+      "handle": "paulo.martins",
       "email": "paulo.martins@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5957,7 +6171,7 @@
       "inscrito": false
     },
     {
-      "handle": "pedrofebronio",
+      "handle": "pedro.febronio",
       "email": "pedro.febronio@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5966,7 +6180,7 @@
       "inscrito": false
     },
     {
-      "handle": "rafaelbento",
+      "handle": "rafael.bento",
       "email": "rafael.bento@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5975,7 +6189,7 @@
       "inscrito": false
     },
     {
-      "handle": "rafaelmelo",
+      "handle": "rafael.melo",
       "email": "rafael.melo@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5984,7 +6198,7 @@
       "inscrito": false
     },
     {
-      "handle": "raulsousa",
+      "handle": "raul.sousa",
       "email": "raul.sousa@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -5993,7 +6207,7 @@
       "inscrito": false
     },
     {
-      "handle": "richardciriaco",
+      "handle": "richard.ciriaco",
       "email": "richard.ciriaco@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6002,7 +6216,7 @@
       "inscrito": false
     },
     {
-      "handle": "sandrosantos",
+      "handle": "sandro.santos",
       "email": "sandro.santos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6011,7 +6225,7 @@
       "inscrito": false
     },
     {
-      "handle": "stephaneoliveira",
+      "handle": "stephane.oliveira",
       "email": "stephane.oliveira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6020,7 +6234,7 @@
       "inscrito": false
     },
     {
-      "handle": "tadeujunior",
+      "handle": "tadeu.junior",
       "email": "tadeu.junior@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6029,7 +6243,7 @@
       "inscrito": false
     },
     {
-      "handle": "tatianesilva",
+      "handle": "tatiane.silva",
       "email": "tatiane.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6038,7 +6252,7 @@
       "inscrito": false
     },
     {
-      "handle": "thyalisonsantos",
+      "handle": "thyalison.santos",
       "email": "thyalison.santos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6047,7 +6261,7 @@
       "inscrito": false
     },
     {
-      "handle": "victorneto",
+      "handle": "victor.neto",
       "email": "victor.neto@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6056,7 +6270,7 @@
       "inscrito": false
     },
     {
-      "handle": "victorprado",
+      "handle": "victor.prado",
       "email": "victor.prado@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6065,7 +6279,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusarruda",
+      "handle": "vinicius.arruda",
       "email": "vinicius.arruda@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6074,7 +6288,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciuscassimiro",
+      "handle": "vinicius.cassimiro",
       "email": "vinicius.cassimiro@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6083,7 +6297,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciusfigueiredo",
+      "handle": "vinicius.figueiredo",
       "email": "vinicius.figueiredo@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6092,7 +6306,7 @@
       "inscrito": false
     },
     {
-      "handle": "waldomirofeitosa",
+      "handle": "waldomiro.feitosa",
       "email": "waldomiro.feitosa@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6101,7 +6315,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtoncavalcante",
+      "handle": "wellington.cavalcante",
       "email": "wellington.cavalcante@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6110,7 +6324,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtonconceicao",
+      "handle": "wellington.conceicao",
       "email": "wellington.conceicao@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6119,7 +6333,7 @@
       "inscrito": false
     },
     {
-      "handle": "xaienesilva",
+      "handle": "xaiene.silva",
       "email": "xaiene.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6128,7 +6342,7 @@
       "inscrito": false
     },
     {
-      "handle": "yeanrodriguez",
+      "handle": "yean.rodriguez",
       "email": "yean.rodriguez@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
@@ -6137,25 +6351,7 @@
       "inscrito": false
     },
     {
-      "handle": "luisgonzalez",
-      "email": "luis.gonzalez@tembici.com",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "matiasbarros",
-      "email": "matias.barros@tembici.com",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": true
-    },
-    {
-      "handle": "alejandradonoso",
+      "handle": "alejandra.donoso",
       "email": "alejandra.donoso@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6164,7 +6360,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexanderacosta",
+      "handle": "alexander.acosta",
       "email": "alexander.acosta@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6173,7 +6369,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexanderbustos",
+      "handle": "alexander.bustos",
       "email": "alexander.bustos@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6182,7 +6378,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexandervalderrama",
+      "handle": "alexander.valderrama",
       "email": "alexander.valderrama@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6191,7 +6387,7 @@
       "inscrito": false
     },
     {
-      "handle": "allanloyola",
+      "handle": "allan.loyola",
       "email": "allan.loyola@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6200,7 +6396,7 @@
       "inscrito": false
     },
     {
-      "handle": "bastiancaceres",
+      "handle": "bastian.caceres",
       "email": "bastian.caceres@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6209,7 +6405,7 @@
       "inscrito": false
     },
     {
-      "handle": "carlosregular",
+      "handle": "carlos.regular",
       "email": "carlos.regular@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6218,7 +6414,7 @@
       "inscrito": false
     },
     {
-      "handle": "christiancerda",
+      "handle": "christian.cerda",
       "email": "christian.cerda@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6227,7 +6423,7 @@
       "inscrito": false
     },
     {
-      "handle": "christopherlineros",
+      "handle": "christopher.lineros",
       "email": "christopher.lineros@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6236,7 +6432,7 @@
       "inscrito": false
     },
     {
-      "handle": "claudiatoro",
+      "handle": "claudia.toro",
       "email": "claudia.toro@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6245,7 +6441,7 @@
       "inscrito": false
     },
     {
-      "handle": "cristiansoto",
+      "handle": "cristian.soto",
       "email": "cristian.soto@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6254,7 +6450,7 @@
       "inscrito": false
     },
     {
-      "handle": "cristobalcastillo",
+      "handle": "cristobal.castillo",
       "email": "cristobal.castillo@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6263,16 +6459,7 @@
       "inscrito": false
     },
     {
-      "handle": "danielaizquierdo",
-      "email": "daniela.izquierdo@tembici.com",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "danielnavarrete",
+      "handle": "daniel.navarrete",
       "email": "daniel.navarrete@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6281,7 +6468,16 @@
       "inscrito": false
     },
     {
-      "handle": "ednailtonsouza",
+      "handle": "daniela.izquierdo",
+      "email": "daniela.izquierdo@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "ednailton.souza",
       "email": "ednailton.souza@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6290,7 +6486,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardocaceres",
+      "handle": "eduardo.caceres",
       "email": "eduardo.caceres@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6299,7 +6495,7 @@
       "inscrito": false
     },
     {
-      "handle": "enmanuelgarcia",
+      "handle": "enmanuel.garcia",
       "email": "enmanuel.garcia@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6308,7 +6504,7 @@
       "inscrito": false
     },
     {
-      "handle": "feliperuiz",
+      "handle": "felipe.ruiz",
       "email": "felipe.ruiz@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6317,7 +6513,7 @@
       "inscrito": false
     },
     {
-      "handle": "felipesalazar",
+      "handle": "felipe.salazar",
       "email": "felipe.salazar@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6326,7 +6522,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandoherrera",
+      "handle": "fernando.herrera",
       "email": "fernando.herrera@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6335,7 +6531,7 @@
       "inscrito": false
     },
     {
-      "handle": "intiflores",
+      "handle": "inti.flores",
       "email": "inti.flores@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6344,7 +6540,7 @@
       "inscrito": false
     },
     {
-      "handle": "javierapinto",
+      "handle": "javiera.pinto",
       "email": "javiera.pinto@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6353,7 +6549,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaquingonzalez",
+      "handle": "joaquin.gonzalez",
       "email": "joaquin.gonzalez@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6362,7 +6558,7 @@
       "inscrito": false
     },
     {
-      "handle": "jonathannunez",
+      "handle": "jonathan.nunez",
       "email": "jonathan.nunez@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6371,7 +6567,7 @@
       "inscrito": false
     },
     {
-      "handle": "jorgeescobar",
+      "handle": "jorge.escobar",
       "email": "jorge.escobar@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6380,7 +6576,7 @@
       "inscrito": false
     },
     {
-      "handle": "jorgeferraro",
+      "handle": "jorge.ferraro",
       "email": "jorge.ferraro@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6389,7 +6585,7 @@
       "inscrito": false
     },
     {
-      "handle": "joseespinoza",
+      "handle": "jose.espinoza",
       "email": "jose.espinoza@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6398,7 +6594,7 @@
       "inscrito": false
     },
     {
-      "handle": "joshuaperez",
+      "handle": "joshua.perez",
       "email": "joshua.perez@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6407,7 +6603,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardopinilla",
+      "handle": "leonardo.pinilla",
       "email": "leonardo.pinilla@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6416,7 +6612,25 @@
       "inscrito": false
     },
     {
-      "handle": "matiasfigueroa",
+      "handle": "luis.gonzalez",
+      "email": "luis.gonzalez@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matias.barros",
+      "email": "matias.barros@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": false
+    },
+    {
+      "handle": "matias.figueroa",
       "email": "matias.figueroa@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6425,7 +6639,7 @@
       "inscrito": false
     },
     {
-      "handle": "matteovergara",
+      "handle": "matteo.vergara",
       "email": "matteo.vergara@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6434,7 +6648,7 @@
       "inscrito": false
     },
     {
-      "handle": "mauriciohenriquez",
+      "handle": "mauricio.henriquez",
       "email": "mauricio.henriquez@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6443,7 +6657,7 @@
       "inscrito": false
     },
     {
-      "handle": "michellsoriano",
+      "handle": "michell.soriano",
       "email": "michell.soriano@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6452,7 +6666,7 @@
       "inscrito": false
     },
     {
-      "handle": "miguelmonroy",
+      "handle": "miguel.monroy",
       "email": "miguel.monroy@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6461,7 +6675,7 @@
       "inscrito": false
     },
     {
-      "handle": "raulreyes",
+      "handle": "raul.reyes",
       "email": "raul.reyes@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6470,7 +6684,7 @@
       "inscrito": false
     },
     {
-      "handle": "rebecaparedes",
+      "handle": "rebeca.paredes",
       "email": "rebeca.paredes@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6479,7 +6693,7 @@
       "inscrito": false
     },
     {
-      "handle": "victoriapericana",
+      "handle": "victoria.pericana",
       "email": "victoria.pericana@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6488,7 +6702,7 @@
       "inscrito": false
     },
     {
-      "handle": "ximenabarrera",
+      "handle": "ximena.barrera",
       "email": "ximena.barrera@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6497,7 +6711,7 @@
       "inscrito": false
     },
     {
-      "handle": "yohananavarro",
+      "handle": "yohana.navarro",
       "email": "yohana.navarro@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
@@ -6506,7 +6720,7 @@
       "inscrito": false
     },
     {
-      "handle": "anamartins",
+      "handle": "ana.martins",
       "email": "ana.martins@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6515,7 +6729,7 @@
       "inscrito": false
     },
     {
-      "handle": "cesarsiso",
+      "handle": "cesar.siso",
       "email": "cesar.siso@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6524,7 +6738,7 @@
       "inscrito": false
     },
     {
-      "handle": "damiaosantana",
+      "handle": "damiao.santana",
       "email": "damiao.santana@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6533,7 +6747,7 @@
       "inscrito": false
     },
     {
-      "handle": "evertondias",
+      "handle": "everton.dias",
       "email": "everton.dias@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6542,7 +6756,7 @@
       "inscrito": false
     },
     {
-      "handle": "hectorbolivar",
+      "handle": "hector.bolivar",
       "email": "hector.bolivar@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6551,7 +6765,7 @@
       "inscrito": false
     },
     {
-      "handle": "leiagrecco",
+      "handle": "leia.grecco",
       "email": "leia.grecco@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6560,7 +6774,7 @@
       "inscrito": false
     },
     {
-      "handle": "mauriliojunior",
+      "handle": "maurilio.junior",
       "email": "maurilio.junior@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6569,7 +6783,7 @@
       "inscrito": false
     },
     {
-      "handle": "wesleyherculano",
+      "handle": "wesley.herculano",
       "email": "wesley.herculano@tembici.com",
       "praca": "CDExtrema",
       "pais": "Brasil",
@@ -6578,196 +6792,7 @@
       "inscrito": false
     },
     {
-      "handle": "anacagnotto",
-      "email": "ana.cagnotto@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "andrebifulco",
-      "email": "andre.bifulco@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "andremarasco",
-      "email": "andre.marasco@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "andressasouza",
-      "email": "andressa.souza@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "antoniofelipe",
-      "email": "antonio.felipe@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "biatrizruas",
-      "email": "biatriz.ruas@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "emersonsoares",
-      "email": "emerson.soares@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "emersonsouza",
-      "email": "emerson.souza@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "erikajesus",
-      "email": "erika.jesus@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "gabriellefaria",
-      "email": "gabrielle.faria@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "gleicyoliveira",
-      "email": "gleicy.oliveira@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "guilhermebaldissera",
-      "email": "guilherme.baldissera@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "marcosbarreto",
-      "email": "marcos.barreto@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "paulofreitas",
-      "email": "paulo.freitas@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "sabrinacastro",
-      "email": "sabrina.castro@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "shirleidemartins",
-      "email": "shirleide.martins@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "thiagoboufelli",
-      "email": "thiago.boufelli@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CEO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "thiagoroque",
-      "email": "thiago.roque@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "victordantas",
-      "email": "victor.dantas@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "wesleymarcelino",
-      "email": "wesley.marcelino@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "williansilva",
-      "email": "willian.silva@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": true
-    },
-    {
-      "handle": "alanpereira",
+      "handle": "alan.pereira",
       "email": "alan.pereira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6776,7 +6801,7 @@
       "inscrito": false
     },
     {
-      "handle": "aldocaterina",
+      "handle": "aldo.caterina",
       "email": "aldo.caterina@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6785,7 +6810,7 @@
       "inscrito": false
     },
     {
-      "handle": "alexandrerosa",
+      "handle": "alexandre.rosa",
       "email": "alexandre.rosa@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6794,7 +6819,7 @@
       "inscrito": false
     },
     {
-      "handle": "alicewaquil",
+      "handle": "alice.waquil",
       "email": "alice.waquil@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6803,7 +6828,7 @@
       "inscrito": false
     },
     {
-      "handle": "alinemenezes",
+      "handle": "aline.menezes",
       "email": "aline.menezes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6812,7 +6837,7 @@
       "inscrito": false
     },
     {
-      "handle": "amandadias",
+      "handle": "amanda.dias",
       "email": "amanda.dias@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6821,7 +6846,16 @@
       "inscrito": false
     },
     {
-      "handle": "anaegito",
+      "handle": "ana.cagnotto",
+      "email": "ana.cagnotto@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "ana.egito",
       "email": "ana.egito@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6830,7 +6864,7 @@
       "inscrito": false
     },
     {
-      "handle": "anamenezes",
+      "handle": "ana.menezes",
       "email": "ana.menezes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6839,7 +6873,34 @@
       "inscrito": false
     },
     {
-      "handle": "andrezasilva",
+      "handle": "andre.bifulco",
+      "email": "andre.bifulco@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "andre.marasco",
+      "email": "andre.marasco@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "andressa.souza",
+      "email": "andressa.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "andreza.silva",
       "email": "andreza.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6848,7 +6909,16 @@
       "inscrito": false
     },
     {
-      "handle": "antonioferreira",
+      "handle": "antonio.felipe",
+      "email": "antonio.felipe@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "antonio.ferreira",
       "email": "antonio.ferreira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6857,7 +6927,7 @@
       "inscrito": false
     },
     {
-      "handle": "arianepina",
+      "handle": "ariane.pina",
       "email": "ariane.pina@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6866,7 +6936,7 @@
       "inscrito": false
     },
     {
-      "handle": "barbarafortesa",
+      "handle": "barbara.fortesa",
       "email": "barbara.fortesa@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6875,7 +6945,7 @@
       "inscrito": false
     },
     {
-      "handle": "beatrizmartins",
+      "handle": "beatriz.martins",
       "email": "beatriz.martins@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6884,7 +6954,7 @@
       "inscrito": false
     },
     {
-      "handle": "beatrizsilva",
+      "handle": "beatriz.silva",
       "email": "beatriz.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6893,7 +6963,7 @@
       "inscrito": false
     },
     {
-      "handle": "biancaoliveira",
+      "handle": "bianca.oliveira",
       "email": "bianca.oliveira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6902,7 +6972,7 @@
       "inscrito": false
     },
     {
-      "handle": "biancarodrigues",
+      "handle": "bianca.rodrigues",
       "email": "bianca.rodrigues@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6911,7 +6981,16 @@
       "inscrito": false
     },
     {
-      "handle": "brunocarvalho",
+      "handle": "biatriz.ruas",
+      "email": "biatriz.ruas@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "bruno.carvalho",
       "email": "bruno.carvalho@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6920,7 +6999,7 @@
       "inscrito": false
     },
     {
-      "handle": "brunomartins",
+      "handle": "bruno.martins",
       "email": "bruno.martins@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6929,7 +7008,7 @@
       "inscrito": false
     },
     {
-      "handle": "camilaluz",
+      "handle": "camila.luz",
       "email": "camila.luz@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6938,7 +7017,7 @@
       "inscrito": false
     },
     {
-      "handle": "carolinavilla",
+      "handle": "carolina.villa",
       "email": "carolina.villa@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6947,7 +7026,7 @@
       "inscrito": false
     },
     {
-      "handle": "carolinenascimento",
+      "handle": "caroline.nascimento",
       "email": "caroline.nascimento@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6956,7 +7035,7 @@
       "inscrito": false
     },
     {
-      "handle": "charlesbarreto",
+      "handle": "charles.barreto",
       "email": "charles.barreto@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6965,7 +7044,7 @@
       "inscrito": false
     },
     {
-      "handle": "danielsilva",
+      "handle": "daniel.silva",
       "email": "daniel.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6974,16 +7053,7 @@
       "inscrito": false
     },
     {
-      "handle": "deborahmedeiros",
-      "email": "deborah.medeiros@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "RELGOV",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "deboraoliveira",
+      "handle": "debora.oliveira",
       "email": "debora.oliveira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -6992,7 +7062,16 @@
       "inscrito": false
     },
     {
-      "handle": "dyegofranciscato",
+      "handle": "deborah.medeiros",
+      "email": "deborah.medeiros@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "RELGOV",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "dyego.franciscato",
       "email": "dyego.franciscato@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7001,7 +7080,7 @@
       "inscrito": false
     },
     {
-      "handle": "eduardaoliveira",
+      "handle": "eduarda.oliveira",
       "email": "eduarda.oliveira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7010,7 +7089,7 @@
       "inscrito": false
     },
     {
-      "handle": "elainesilva",
+      "handle": "elaine.silva",
       "email": "elaine.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7019,7 +7098,7 @@
       "inscrito": false
     },
     {
-      "handle": "elisangelasampaio",
+      "handle": "elisangela.sampaio",
       "email": "elisangela.sampaio@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7028,7 +7107,7 @@
       "inscrito": false
     },
     {
-      "handle": "eloisetripodi",
+      "handle": "eloise.tripodi",
       "email": "eloise.tripodi@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7037,7 +7116,34 @@
       "inscrito": false
     },
     {
-      "handle": "evertonsilva",
+      "handle": "emerson.soares",
+      "email": "emerson.soares@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "emerson.souza",
+      "email": "emerson.souza@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "erika.jesus",
+      "email": "erika.jesus@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "everton.silva",
       "email": "everton.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7046,7 +7152,7 @@
       "inscrito": false
     },
     {
-      "handle": "felipefernandes",
+      "handle": "felipe.fernandes",
       "email": "felipe.fernandes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7055,7 +7161,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandamarques",
+      "handle": "fernanda.marques",
       "email": "fernanda.marques@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7064,7 +7170,7 @@
       "inscrito": false
     },
     {
-      "handle": "fernandofernandes",
+      "handle": "fernando.fernandes",
       "email": "fernando.fernandes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7073,7 +7179,7 @@
       "inscrito": false
     },
     {
-      "handle": "filipefaleiro",
+      "handle": "filipe.faleiro",
       "email": "filipe.faleiro@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7082,7 +7188,7 @@
       "inscrito": false
     },
     {
-      "handle": "flaviopangracio",
+      "handle": "flavio.pangracio",
       "email": "flavio.pangracio@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7091,25 +7197,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielagomes",
-      "email": "gabriela.gomes@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "B2B",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "gabrielasilva",
-      "email": "gabriela.silva@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "gabrielbraz",
+      "handle": "gabriel.braz",
       "email": "gabriel.braz@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7118,7 +7206,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabriellopes",
+      "handle": "gabriel.lopes",
       "email": "gabriel.lopes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7127,7 +7215,7 @@
       "inscrito": false
     },
     {
-      "handle": "gabrielnascimento",
+      "handle": "gabriel.nascimento",
       "email": "gabriel.nascimento@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7136,7 +7224,52 @@
       "inscrito": false
     },
     {
-      "handle": "gustavoguedez",
+      "handle": "gabriela.gomes",
+      "email": "gabriela.gomes@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabriela.silva",
+      "email": "gabriela.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gabrielle.faria",
+      "email": "gabrielle.faria@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gleicy.oliveira",
+      "email": "gleicy.oliveira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "guilherme.baldissera",
+      "email": "guilherme.baldissera@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "gustavo.guedez",
       "email": "gustavo.guedez@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7145,7 +7278,7 @@
       "inscrito": false
     },
     {
-      "handle": "gustavotorquato",
+      "handle": "gustavo.torquato",
       "email": "gustavo.torquato@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7154,7 +7287,7 @@
       "inscrito": false
     },
     {
-      "handle": "heitorpiovesan",
+      "handle": "heitor.piovesan",
       "email": "heitor.piovesan@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7163,7 +7296,7 @@
       "inscrito": false
     },
     {
-      "handle": "henriquemaitan",
+      "handle": "henrique.maitan",
       "email": "henrique.maitan@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7172,7 +7305,7 @@
       "inscrito": false
     },
     {
-      "handle": "italobarros",
+      "handle": "italo.barros",
       "email": "italo.barros@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7181,7 +7314,7 @@
       "inscrito": false
     },
     {
-      "handle": "izaquescomparim",
+      "handle": "izaque.scomparim",
       "email": "izaque.scomparim@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7190,7 +7323,7 @@
       "inscrito": false
     },
     {
-      "handle": "jadesilva",
+      "handle": "jade.silva",
       "email": "jade.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7199,7 +7332,7 @@
       "inscrito": false
     },
     {
-      "handle": "jhenifersilva",
+      "handle": "jhenifer.silva",
       "email": "jhenifer.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7208,7 +7341,7 @@
       "inscrito": false
     },
     {
-      "handle": "joaourzedo",
+      "handle": "joao.urzedo",
       "email": "joao.urzedo@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7217,7 +7350,7 @@
       "inscrito": false
     },
     {
-      "handle": "josienesouza",
+      "handle": "josiene.souza",
       "email": "josiene.souza@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7226,7 +7359,7 @@
       "inscrito": false
     },
     {
-      "handle": "joycevasconcelos",
+      "handle": "joyce.vasconcelos",
       "email": "joyce.vasconcelos@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7235,7 +7368,7 @@
       "inscrito": false
     },
     {
-      "handle": "juliajesus",
+      "handle": "julia.jesus",
       "email": "julia.jesus@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7244,7 +7377,7 @@
       "inscrito": false
     },
     {
-      "handle": "julialira",
+      "handle": "julia.lira",
       "email": "julia.lira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7253,7 +7386,7 @@
       "inscrito": false
     },
     {
-      "handle": "julyasilva",
+      "handle": "julya.silva",
       "email": "julya.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7262,7 +7395,7 @@
       "inscrito": false
     },
     {
-      "handle": "kathleensilva",
+      "handle": "kathleen.silva",
       "email": "kathleen.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7271,7 +7404,7 @@
       "inscrito": false
     },
     {
-      "handle": "larissasouza",
+      "handle": "larissa.souza",
       "email": "larissa.souza@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7280,7 +7413,7 @@
       "inscrito": false
     },
     {
-      "handle": "layrranexavier",
+      "handle": "layrrane.xavier",
       "email": "layrrane.xavier@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7289,7 +7422,7 @@
       "inscrito": false
     },
     {
-      "handle": "leonardohohne",
+      "handle": "leonardo.hohne",
       "email": "leonardo.hohne@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7298,7 +7431,7 @@
       "inscrito": false
     },
     {
-      "handle": "lizandralacerda",
+      "handle": "lizandra.lacerda",
       "email": "lizandra.lacerda@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7307,7 +7440,7 @@
       "inscrito": false
     },
     {
-      "handle": "luanasilva",
+      "handle": "luana.silva",
       "email": "luana.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7316,7 +7449,7 @@
       "inscrito": false
     },
     {
-      "handle": "lucasmessa",
+      "handle": "lucas.messa",
       "email": "lucas.messa@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7325,7 +7458,7 @@
       "inscrito": false
     },
     {
-      "handle": "luizalopes",
+      "handle": "luiza.lopes",
       "email": "luiza.lopes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7334,7 +7467,16 @@
       "inscrito": false
     },
     {
-      "handle": "marcossantos",
+      "handle": "marcos.barreto",
+      "email": "marcos.barreto@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marcos.santos",
       "email": "marcos.santos@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7343,7 +7485,7 @@
       "inscrito": false
     },
     {
-      "handle": "marcossilva",
+      "handle": "marcos.silva",
       "email": "marcos.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7352,25 +7494,7 @@
       "inscrito": false
     },
     {
-      "handle": "marianacardoso",
-      "email": "mariana.cardoso@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "B2B",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "marianapontel",
-      "email": "mariana.pontel@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "mariasouza",
+      "handle": "maria.souza",
       "email": "maria.souza@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7379,7 +7503,25 @@
       "inscrito": false
     },
     {
-      "handle": "marinabrondani",
+      "handle": "mariana.cardoso",
+      "email": "mariana.cardoso@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "B2B",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "mariana.pontel",
+      "email": "mariana.pontel@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "marina.brondani",
       "email": "marina.brondani@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7388,7 +7530,7 @@
       "inscrito": false
     },
     {
-      "handle": "marioaraujo",
+      "handle": "mario.araujo",
       "email": "mario.araujo@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7397,7 +7539,7 @@
       "inscrito": false
     },
     {
-      "handle": "mauriciovillar",
+      "handle": "mauricio.villar",
       "email": "mauricio.villar@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7406,7 +7548,7 @@
       "inscrito": false
     },
     {
-      "handle": "mayramarquete",
+      "handle": "mayra.marquete",
       "email": "mayra.marquete@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7415,7 +7557,7 @@
       "inscrito": false
     },
     {
-      "handle": "nataliacunha",
+      "handle": "natalia.cunha",
       "email": "natalia.cunha@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7424,7 +7566,7 @@
       "inscrito": false
     },
     {
-      "handle": "nataliagiordani",
+      "handle": "natalia.giordani",
       "email": "natalia.giordani@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7433,7 +7575,7 @@
       "inscrito": false
     },
     {
-      "handle": "nathaliapaes",
+      "handle": "nathalia.paes",
       "email": "nathalia.paes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7442,7 +7584,7 @@
       "inscrito": false
     },
     {
-      "handle": "newtonsozza",
+      "handle": "newton.sozza",
       "email": "newton.sozza@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7451,7 +7593,7 @@
       "inscrito": false
     },
     {
-      "handle": "oliviamitne",
+      "handle": "olivia.mitne",
       "email": "olivia.mitne@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7460,7 +7602,7 @@
       "inscrito": false
     },
     {
-      "handle": "pablonascimento",
+      "handle": "pablo.nascimento",
       "email": "pablo.nascimento@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7469,7 +7611,7 @@
       "inscrito": false
     },
     {
-      "handle": "palomasantos",
+      "handle": "paloma.santos",
       "email": "paloma.santos@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7478,7 +7620,7 @@
       "inscrito": false
     },
     {
-      "handle": "palomasilva",
+      "handle": "paloma.silva",
       "email": "paloma.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7487,7 +7629,7 @@
       "inscrito": false
     },
     {
-      "handle": "paulaoliveira",
+      "handle": "paula.oliveira",
       "email": "paula.oliveira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7496,7 +7638,16 @@
       "inscrito": false
     },
     {
-      "handle": "priscilapascoal",
+      "handle": "paulo.freitas",
+      "email": "paulo.freitas@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "priscila.pascoal",
       "email": "priscila.pascoal@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7505,7 +7656,7 @@
       "inscrito": false
     },
     {
-      "handle": "rafaellasilbermann",
+      "handle": "rafaella.silbermann",
       "email": "rafaella.silbermann@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7514,7 +7665,7 @@
       "inscrito": false
     },
     {
-      "handle": "robertajorge",
+      "handle": "roberta.jorge",
       "email": "roberta.jorge@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7523,7 +7674,7 @@
       "inscrito": false
     },
     {
-      "handle": "robertodias",
+      "handle": "roberto.dias",
       "email": "roberto.dias@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7532,7 +7683,7 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigocanola",
+      "handle": "rodrigo.canola",
       "email": "rodrigo.canola@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7541,7 +7692,7 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigocruz",
+      "handle": "rodrigo.cruz",
       "email": "rodrigo.cruz@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7550,7 +7701,7 @@
       "inscrito": false
     },
     {
-      "handle": "rodrigosantos",
+      "handle": "rodrigo.santos",
       "email": "rodrigo.santos@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7559,7 +7710,7 @@
       "inscrito": false
     },
     {
-      "handle": "ruisouza",
+      "handle": "rui.souza",
       "email": "rui.souza@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7568,7 +7719,16 @@
       "inscrito": false
     },
     {
-      "handle": "sabrinasilva",
+      "handle": "sabrina.castro",
+      "email": "sabrina.castro@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sabrina.silva",
       "email": "sabrina.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7577,7 +7737,7 @@
       "inscrito": false
     },
     {
-      "handle": "sheilabarbosa",
+      "handle": "sheila.barbosa",
       "email": "sheila.barbosa@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7586,7 +7746,16 @@
       "inscrito": false
     },
     {
-      "handle": "sirleidepaz",
+      "handle": "shirleide.martins",
+      "email": "shirleide.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "sirleide.paz",
       "email": "sirleide.paz@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7595,7 +7764,7 @@
       "inscrito": false
     },
     {
-      "handle": "sthefanysimioni",
+      "handle": "sthefany.simioni",
       "email": "sthefany.simioni@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7604,7 +7773,7 @@
       "inscrito": false
     },
     {
-      "handle": "suelinascimento",
+      "handle": "sueli.nascimento",
       "email": "sueli.nascimento@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7613,7 +7782,7 @@
       "inscrito": false
     },
     {
-      "handle": "tallitamarques",
+      "handle": "tallita.marques",
       "email": "tallita.marques@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7622,7 +7791,7 @@
       "inscrito": false
     },
     {
-      "handle": "tanyferoliveira",
+      "handle": "tanyfer.oliveira",
       "email": "tanyfer.oliveira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7631,7 +7800,7 @@
       "inscrito": false
     },
     {
-      "handle": "thailanesacerdote",
+      "handle": "thailane.sacerdote",
       "email": "thailane.sacerdote@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7640,7 +7809,25 @@
       "inscrito": false
     },
     {
-      "handle": "tiagosoares",
+      "handle": "thiago.boufelli",
+      "email": "thiago.boufelli@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CEO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "thiago.roque",
+      "email": "thiago.roque@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "tiago.soares",
       "email": "tiago.soares@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7649,7 +7836,7 @@
       "inscrito": false
     },
     {
-      "handle": "tiagotomita",
+      "handle": "tiago.tomita",
       "email": "tiago.tomita@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7658,7 +7845,7 @@
       "inscrito": false
     },
     {
-      "handle": "tomasmartins",
+      "handle": "tomas.martins",
       "email": "tomas.martins@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7667,7 +7854,7 @@
       "inscrito": false
     },
     {
-      "handle": "ulissesoliveira",
+      "handle": "ulisses.oliveira",
       "email": "ulisses.oliveira@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7676,7 +7863,7 @@
       "inscrito": false
     },
     {
-      "handle": "valquiriasilva",
+      "handle": "valquiria.silva",
       "email": "valquiria.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7685,7 +7872,7 @@
       "inscrito": false
     },
     {
-      "handle": "vanessasantos",
+      "handle": "vanessa.santos",
       "email": "vanessa.santos@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7694,7 +7881,16 @@
       "inscrito": false
     },
     {
-      "handle": "victorfalcao",
+      "handle": "victor.dantas",
+      "email": "victor.dantas@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "victor.falcao",
       "email": "victor.falcao@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7703,7 +7899,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciuspaula",
+      "handle": "vinicius.paula",
       "email": "vinicius.paula@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7712,7 +7908,7 @@
       "inscrito": false
     },
     {
-      "handle": "viniciuspires",
+      "handle": "vinicius.pires",
       "email": "vinicius.pires@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7721,7 +7917,7 @@
       "inscrito": false
     },
     {
-      "handle": "vitormonteiro",
+      "handle": "vitor.monteiro",
       "email": "vitor.monteiro@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7730,7 +7926,7 @@
       "inscrito": false
     },
     {
-      "handle": "vitoryasantos",
+      "handle": "vitorya.santos",
       "email": "vitorya.santos@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7739,7 +7935,7 @@
       "inscrito": false
     },
     {
-      "handle": "wallacecarneiro",
+      "handle": "wallace.carneiro",
       "email": "wallace.carneiro@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7748,7 +7944,7 @@
       "inscrito": false
     },
     {
-      "handle": "wellingtonsoares",
+      "handle": "wellington.soares",
       "email": "wellington.soares@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7757,7 +7953,25 @@
       "inscrito": false
     },
     {
-      "handle": "yagocaetano",
+      "handle": "wesley.marcelino",
+      "email": "wesley.marcelino@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "willian.silva",
+      "email": "willian.silva@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "yago.caetano",
       "email": "yago.caetano@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7766,7 +7980,7 @@
       "inscrito": false
     },
     {
-      "handle": "yasmimleao",
+      "handle": "yasmim.leao",
       "email": "yasmim.leao@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
@@ -7775,7 +7989,7 @@
       "inscrito": false
     },
     {
-      "handle": "yasmingoncalves",
+      "handle": "yasmin.goncalves",
       "email": "yasmin.goncalves@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
