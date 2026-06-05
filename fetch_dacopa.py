@@ -35,7 +35,7 @@ def load_users_from_xlsx():
         email, id_user, pais, diretoria, adm_corp, praca = row if row else (None,)*6
         if not id_user:
             continue
-        key = str(id_user).strip().lower().replace(".", "")
+        key = str(id_user).strip().lower()
         praca_val = str(praca).strip() if praca else "Corporativo"
         if praca_val.lower() == "riviera":
             praca_val = "BikeSampa"
@@ -63,7 +63,8 @@ def build_output(raw, users_map):
     for e in standings:
         u = e.get("user", {})
         handle = (u.get("handle") or "").strip().lower()
-        info = users_map.get(handle)
+        display_key = (u.get("displayName") or "").strip().lower()
+        info = users_map.get(display_key) or users_map.get(handle)
         if not info:
             unmatched.append(handle)
             info = {"praca":"Outros","pais":"Outros","diretoria":"Outros","adm_corp":"Outros","email":""}
