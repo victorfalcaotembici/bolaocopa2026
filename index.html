@@ -438,6 +438,7 @@ window.setEnrFilter=function(f){
 };
 
 
+window.showTab=function(id,btn){
   document.querySelectorAll(".sec").forEach(s=>s.classList.remove("on"));
   document.querySelectorAll(".tb").forEach(b=>b.classList.remove("on"));
   document.getElementById("sec-"+id).classList.add("on");
