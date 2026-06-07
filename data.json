@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T12:21:25.014054Z",
+  "updatedAt": "2026-06-07T14:52:37.209730Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -991,6 +991,51 @@
       "pais": "Brasil",
       "diretoria": "B2B",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 75,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "marciowasen",
+      "displayName": "marcio.wasen",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 76,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "carlosfreitas",
+      "displayName": "carlos.freitas",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 77,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "leonardobpereira",
+      "displayName": "leonardo.bpereira",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -3174,6 +3219,33 @@
       "inscrito": false
     },
     {
+      "handle": "carlos.freitas",
+      "email": "carlos.freitas@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "leonardo.bpereira",
+      "email": "leonardo.bpereira@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "marcio.wasen",
+      "email": "marcio.wasen@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "artur.vargas",
       "email": "artur.vargas@tembici.com",
       "praca": "BikePoa",
@@ -3185,15 +3257,6 @@
     {
       "handle": "brayan.yanez",
       "email": "brayan.yanez@tembici.com",
-      "praca": "BikePoa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "carlos.freitas",
-      "email": "carlos.freitas@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -3309,15 +3372,6 @@
       "inscrito": false
     },
     {
-      "handle": "leonardo.bpereira",
-      "email": "leonardo.bpereira@tembici.com",
-      "praca": "BikePoa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
       "handle": "leonardo.mendes",
       "email": "leonardo.mendes@tembici.com",
       "praca": "BikePoa",
@@ -3338,15 +3392,6 @@
     {
       "handle": "lucas.nunes",
       "email": "lucas.nunes@tembici.com",
-      "praca": "BikePoa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "marcio.wasen",
-      "email": "marcio.wasen@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
       "diretoria": "CBO",
