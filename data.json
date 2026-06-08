@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T10:57:07.920067Z",
+  "updatedAt": "2026-06-08T14:51:05.864428Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -205,6 +205,21 @@
       "predictionsCount": 0,
       "exactScoreCount": 0,
       "correctWinnerCount": 0,
+      "handle": "marcel007",
+      "displayName": "Marcel.silva",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 16,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
       "handle": "rafaellacerda",
       "displayName": "rafael.lacerda",
       "praca": "BikeBSB",
@@ -213,7 +228,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -228,7 +243,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -243,7 +258,22 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 19,
+      "rank": 20,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "olanza",
+      "displayName": "fabio.pereira",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 21,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -258,7 +288,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -273,7 +303,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -288,7 +318,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -303,7 +333,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -318,7 +348,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -333,7 +363,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -348,7 +378,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -363,7 +393,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 29,
+      "rank": 31,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -378,7 +408,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -393,7 +423,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -408,7 +438,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -423,7 +453,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -438,7 +468,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 36,
+      "rank": 38,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -453,7 +483,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -468,7 +498,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -483,7 +513,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 39,
+      "rank": 41,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -498,7 +528,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -513,7 +543,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -528,7 +558,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -543,7 +573,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 43,
+      "rank": 45,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -558,7 +588,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 44,
+      "rank": 46,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -573,7 +603,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -588,7 +618,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -603,7 +633,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -618,7 +648,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -633,7 +663,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 49,
+      "rank": 51,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -648,7 +678,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 50,
+      "rank": 52,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -663,7 +693,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 51,
+      "rank": 53,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -678,7 +708,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 52,
+      "rank": 54,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -693,7 +723,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 53,
+      "rank": 55,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -708,7 +738,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 54,
+      "rank": 56,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -723,7 +753,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 55,
+      "rank": 57,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -738,7 +768,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 56,
+      "rank": 58,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -753,7 +783,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 57,
+      "rank": 59,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -768,7 +798,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 58,
+      "rank": 60,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -783,7 +813,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 59,
+      "rank": 61,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -798,7 +828,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 61,
+      "rank": 63,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -813,7 +843,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 62,
+      "rank": 64,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -828,7 +858,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 63,
+      "rank": 65,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -843,7 +873,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 65,
+      "rank": 67,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -858,7 +888,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 66,
+      "rank": 68,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -873,7 +903,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 67,
+      "rank": 69,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -888,7 +918,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 68,
+      "rank": 70,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -903,7 +933,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 69,
+      "rank": 71,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -918,7 +948,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 70,
+      "rank": 72,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -933,7 +963,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 71,
+      "rank": 73,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -948,7 +978,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 72,
+      "rank": 74,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -963,7 +993,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 73,
+      "rank": 75,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -978,7 +1008,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 74,
+      "rank": 76,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -993,7 +1023,7 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 75,
+      "rank": 77,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -1008,7 +1038,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 76,
+      "rank": 78,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -1023,7 +1053,7 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 77,
+      "rank": 79,
       "totalPoints": 0,
       "prevPosition": 0,
       "prevTotalPoints": 0,
@@ -1033,6 +1063,51 @@
       "handle": "leonardobpereira",
       "displayName": "leonardo.bpereira",
       "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 80,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "fernandarosa",
+      "displayName": "Fernanda.rosa",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 81,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "henrygisbert",
+      "displayName": "henry.gisbert",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 82,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "viniciusribeir",
+      "displayName": "Vinicius.ribeiro",
+      "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
@@ -1065,6 +1140,15 @@
       "pais": "Argentina",
       "diretoria": "CBO",
       "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "henry.gisbert",
+      "email": "henry.gisbert@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
       "inscrito": true
     },
     {
@@ -1430,15 +1514,6 @@
     {
       "handle": "hector.zeballos",
       "email": "hector.zeballos@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "henry.gisbert",
-      "email": "henry.gisbert@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
       "diretoria": "CBO",
@@ -2967,6 +3042,15 @@
       "inscrito": true
     },
     {
+      "handle": "marcel.silva",
+      "email": "marcel.silva@tembici.com",
+      "praca": "BikePE",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "thalyta.silva",
       "email": "thalyta.silva@tembici.com",
       "praca": "BikePE",
@@ -3147,15 +3231,6 @@
       "inscrito": false
     },
     {
-      "handle": "marcel.silva",
-      "email": "marcel.silva@tembici.com",
-      "praca": "BikePE",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
       "handle": "maria.santos",
       "email": "maria.santos@tembici.com",
       "praca": "BikePE",
@@ -3228,6 +3303,15 @@
       "inscrito": true
     },
     {
+      "handle": "fernanda.rosa",
+      "email": "fernanda.rosa@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "leonardo.bpereira",
       "email": "leonardo.bpereira@tembici.com",
       "praca": "BikePoa",
@@ -3293,15 +3377,6 @@
     {
       "handle": "felippe.machado",
       "email": "felippe.machado@tembici.com",
-      "praca": "BikePoa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "fernanda.rosa",
-      "email": "fernanda.rosa@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -3554,6 +3629,15 @@
     {
       "handle": "victor.jorge",
       "email": "victor.jorge@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "vinicius.ribeiro",
+      "email": "vinicius.ribeiro@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -5109,15 +5193,6 @@
       "inscrito": false
     },
     {
-      "handle": "vinicius.ribeiro",
-      "email": "vinicius.ribeiro@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
       "handle": "vitoria.safadi",
       "email": "vitoria.safadi@tembici.com",
       "praca": "BikeRio",
@@ -5559,6 +5634,15 @@
       "inscrito": true
     },
     {
+      "handle": "fabio.pereira",
+      "email": "fabio.pereira@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "gabriel.svieira",
       "email": "gabriel.svieira@tembici.com",
       "praca": "BikeSampa",
@@ -5831,15 +5915,6 @@
     {
       "handle": "elisangela.corticeiro",
       "email": "elisangela.corticeiro@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "fabio.pereira",
-      "email": "fabio.pereira@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
