@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T20:17:34.646571Z",
+  "updatedAt": "2026-06-08T22:40:10.208616Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1186,6 +1186,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 84,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "enmanuelgarcia",
+      "displayName": "Enmanuel.Garcia",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -6434,6 +6449,15 @@
       "inscrito": false
     },
     {
+      "handle": "enmanuel.garcia",
+      "email": "enmanuel.garcia@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "luis.gonzalez",
       "email": "luis.gonzalez@tembici.com",
       "praca": "BikeSantiago",
@@ -6589,15 +6613,6 @@
     {
       "handle": "eduardo.caceres",
       "email": "eduardo.caceres@tembici.com",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "enmanuel.garcia",
-      "email": "enmanuel.garcia@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
       "diretoria": "CBO",
