@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T12:38:02.413929Z",
+  "updatedAt": "2026-06-09T15:56:13.994141Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1216,6 +1216,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 87,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "tiagoosilvatembici",
+      "displayName": "tiago.osilva",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -1223,7 +1238,8 @@
     "matheusbarbosa",
     "fernandasilva",
     "matiasbarros",
-    "jimmypardogigroup"
+    "jimmypardogigroup",
+    "silvaluiza"
   ],
   "enrollment": [
     {
@@ -3738,6 +3754,15 @@
       "inscrito": true
     },
     {
+      "handle": "tiago.osilva",
+      "email": "tiago.osilva@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "victor.jorge",
       "email": "victor.jorge@tembici.com",
       "praca": "BikeRio",
@@ -5126,15 +5151,6 @@
     {
       "handle": "thiago.santos",
       "email": "thiago.santos@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "tiago.osilva",
-      "email": "tiago.osilva@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
