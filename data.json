@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T22:40:10.208616Z",
+  "updatedAt": "2026-06-09T00:06:17.040432Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1201,13 +1201,29 @@
       "pais": "Chile",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 85,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "tiagosoares",
+      "displayName": "Tiago.soares",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
     "andersonbarreto",
     "matheusbarbosa",
     "fernandasilva",
-    "matiasbarros"
+    "matiasbarros",
+    "jimmypardogigroup"
   ],
   "enrollment": [
     {
@@ -7151,6 +7167,15 @@
       "inscrito": true
     },
     {
+      "handle": "tiago.soares",
+      "email": "tiago.soares@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "victor.dantas",
       "email": "victor.dantas@tembici.com",
       "praca": "Corporativo",
@@ -7981,15 +8006,6 @@
     {
       "handle": "thailane.sacerdote",
       "email": "thailane.sacerdote@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "tiago.soares",
-      "email": "tiago.soares@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CBO",
