@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T15:56:13.994141Z",
+  "updatedAt": "2026-06-09T18:09:15.763917Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1231,6 +1231,66 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 89,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "marcossantos87",
+      "displayName": "marcos.santos",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 90,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "dyegofranciscato",
+      "displayName": "dyego.franciscato",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 91,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "cnthiaramos",
+      "displayName": "cinthia.ramos",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 92,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "susu",
+      "displayName": "sueli.nascimento",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
@@ -5698,6 +5758,15 @@
       "inscrito": true
     },
     {
+      "handle": "cinthia.ramos",
+      "email": "cinthia.ramos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "fabio.pereira",
       "email": "fabio.pereira@tembici.com",
       "praca": "BikeSampa",
@@ -5898,15 +5967,6 @@
     {
       "handle": "carlos.spereira",
       "email": "carlos.spereira@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "cinthia.ramos",
-      "email": "cinthia.ramos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -7039,6 +7099,15 @@
       "inscrito": true
     },
     {
+      "handle": "dyego.franciscato",
+      "email": "dyego.franciscato@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "emerson.soares",
       "email": "emerson.soares@tembici.com",
       "praca": "Corporativo",
@@ -7129,6 +7198,15 @@
       "inscrito": true
     },
     {
+      "handle": "marcos.santos",
+      "email": "marcos.santos@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "paula.oliveira",
       "email": "paula.oliveira@tembici.com",
       "praca": "Corporativo",
@@ -7158,6 +7236,15 @@
     {
       "handle": "shirleide.martins",
       "email": "shirleide.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "sueli.nascimento",
+      "email": "sueli.nascimento@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -7422,15 +7509,6 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "RELGOV",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "dyego.franciscato",
-      "email": "dyego.franciscato@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
       "adm_corp": "Corporativo",
       "inscrito": false
     },
@@ -7759,15 +7837,6 @@
       "inscrito": false
     },
     {
-      "handle": "marcos.santos",
-      "email": "marcos.santos@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
       "handle": "marcos.silva",
       "email": "marcos.silva@tembici.com",
       "praca": "Corporativo",
@@ -7998,15 +8067,6 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "RELGOV",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "sueli.nascimento",
-      "email": "sueli.nascimento@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CBO",
       "adm_corp": "Corporativo",
       "inscrito": false
     },
