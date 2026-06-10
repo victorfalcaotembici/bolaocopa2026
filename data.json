@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T17:57:27.841537Z",
+  "updatedAt": "2026-06-10T20:39:51.676098Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1363,6 +1363,36 @@
       "handle": "leonardosalvador",
       "displayName": "Leonardo.Salvador",
       "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 98,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "gustavotorquato",
+      "displayName": "gustavo.torquato",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 99,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "brunovaldez",
+      "displayName": "bruno.valdez",
+      "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
@@ -7255,6 +7285,15 @@
       "inscrito": true
     },
     {
+      "handle": "gustavo.torquato",
+      "email": "gustavo.torquato@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "luiza.lopes",
       "email": "luiza.lopes@tembici.com",
       "praca": "Corporativo",
@@ -7719,15 +7758,6 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "gustavo.torquato",
-      "email": "gustavo.torquato@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
       "adm_corp": "Corporativo",
       "inscrito": false
     },
