@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T14:22:39.751988Z",
+  "updatedAt": "2026-06-10T17:57:27.841537Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1336,6 +1336,36 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 96,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "lucasnunes",
+      "displayName": "lucas.nunes",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 97,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "leonardosalvador",
+      "displayName": "Leonardo.Salvador",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -3544,6 +3574,24 @@
       "inscrito": true
     },
     {
+      "handle": "leonardo.salvador",
+      "email": "leonardo.salvador@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "lucas.nunes",
+      "email": "lucas.nunes@tembici.com",
+      "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "marcio.wasen",
       "email": "marcio.wasen@tembici.com",
       "praca": "BikePoa",
@@ -3681,24 +3729,6 @@
     {
       "handle": "leonardo.mezetti",
       "email": "leonardo.mezetti@tembici.com",
-      "praca": "BikePoa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "leonardo.salvador",
-      "email": "leonardo.salvador@tembici.com",
-      "praca": "BikePoa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "lucas.nunes",
-      "email": "lucas.nunes@tembici.com",
       "praca": "BikePoa",
       "pais": "Brasil",
       "diretoria": "CBO",
