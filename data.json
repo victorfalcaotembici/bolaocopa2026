@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T18:14:08.085316Z",
+  "updatedAt": "2026-06-11T21:21:09.121414Z",
   "finishedMatchesCount": 0,
   "standings": [
     {
@@ -1771,6 +1771,51 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 160,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "marjoriemorais",
+      "displayName": "Marjorie.morais",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 161,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "caioo",
+      "displayName": "Caio.Santos",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 163,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "beatrizmartins",
+      "displayName": "beatriz.martins",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
@@ -1814,7 +1859,10 @@
     "vini2003",
     "carlosgonzaga",
     "rodrihpe",
-    "gustavoalvess"
+    "gustavoalvess",
+    "cristobalcastillo",
+    "goomes_flavia",
+    "allanloyola"
   ],
   "enrollment": [
     {
@@ -6291,6 +6339,15 @@
       "inscrito": true
     },
     {
+      "handle": "caio.santos",
+      "email": "caio.santos@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "cinthia.ramos",
       "email": "cinthia.ramos@tembici.com",
       "praca": "BikeSampa",
@@ -6338,6 +6395,15 @@
     {
       "handle": "marcos.cardoso",
       "email": "marcos.cardoso@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "marjorie.morais",
+      "email": "marjorie.morais@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -6455,15 +6521,6 @@
     {
       "handle": "caio.lima",
       "email": "caio.lima@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "caio.santos",
-      "email": "caio.santos@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -6824,15 +6881,6 @@
     {
       "handle": "marcos.paulo",
       "email": "marcos.paulo@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "marjorie.morais",
-      "email": "marjorie.morais@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -7623,6 +7671,15 @@
       "inscrito": true
     },
     {
+      "handle": "beatriz.martins",
+      "email": "beatriz.martins@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "biatriz.ruas",
       "email": "biatriz.ruas@tembici.com",
       "praca": "Corporativo",
@@ -8012,15 +8069,6 @@
     {
       "handle": "barbara.fortesa",
       "email": "barbara.fortesa@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "beatriz.martins",
-      "email": "beatriz.martins@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CFO",
