@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T12:23:38.240000Z",
+  "updatedAt": "2026-06-12T16:18:37.990879Z",
   "finishedMatchesCount": 2,
   "standings": [
     {
@@ -1831,6 +1831,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 170,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "barbarafortesa",
+      "displayName": "barbara.fortesa",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
@@ -1879,7 +1894,10 @@
     "vini2003",
     "rodrihpe",
     "goomes_flavia",
-    "jefte_nascimento"
+    "jefte_nascimento",
+    "christopherlineros",
+    "tanyfer",
+    "eduardo1998"
   ],
   "enrollment": [
     {
@@ -7688,6 +7706,15 @@
       "inscrito": true
     },
     {
+      "handle": "barbara.fortesa",
+      "email": "barbara.fortesa@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CFO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "beatriz.martins",
       "email": "beatriz.martins@tembici.com",
       "praca": "Corporativo",
@@ -8080,15 +8107,6 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "barbara.fortesa",
-      "email": "barbara.fortesa@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CFO",
       "adm_corp": "Corporativo",
       "inscrito": false
     },
