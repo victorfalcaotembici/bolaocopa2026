@@ -54,7 +54,7 @@ body{background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI
 .card-icon .ti{font-size:18px;vertical-align:middle}
 .card-title{font-size:13px;font-weight:600;color:var(--text);line-height:1.3}
 .card-sub{font-size:10px;color:var(--text2);margin-top:1px}
-.card-body{padding:0;overflow-y:auto;max-height:500px}
+.card-body{padding:0;overflow-y:auto;max-height:700px}
 
 /* rows */
 .row{display:flex;align-items:center;gap:6px;padding:6px 10px;border-bottom:0.5px solid var(--border);transition:background .1s;min-width:0}
@@ -92,38 +92,6 @@ body{background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI
 .acc-corp{border-top:3px solid #7F77DD}
 .acc-op{border-top:3px solid #D85A30}
 .acc-praca{border-top:3px solid var(--green)}
-
-/* enrollment tab */
-.enr-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
-.enr-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--radius-lg);overflow:hidden}
-.enr-card-hdr{padding:10px 12px 8px;border-bottom:0.5px solid var(--border);display:flex;align-items:center;justify-content:space-between;gap:8px}
-.enr-card-title{font-size:13px;font-weight:600;color:var(--text)}
-.enr-badge{display:flex;align-items:center;gap:4px;flex-shrink:0}
-.badge-num{font-size:11px;font-weight:700;padding:2px 7px;border-radius:10px}
-.badge-in{background:#D1FAE5;color:#065F46}
-.badge-out{background:#FEE2E2;color:#991B1B}
-.enr-progress{height:4px;background:#E5E7EB;margin:0 12px 0}
-.enr-progress-bar{height:4px;background:var(--green);border-radius:2px;transition:width .3s}
-.enr-body{padding:0;max-height:320px;overflow-y:auto}
-.enr-row{display:flex;align-items:center;gap:6px;padding:5px 10px;border-bottom:0.5px solid var(--border);min-width:0}
-.enr-row:last-child{border-bottom:none}
-.enr-row:hover{background:var(--bg)}
-.enr-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
-.dot-in{background:#10B981}
-.dot-out{background:#EF4444}
-.enr-name{font-size:11px;color:var(--text);flex:1;min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
-.enr-tag{font-size:9px;font-weight:600;padding:1px 5px;border-radius:4px;flex-shrink:0}
-.tag-in{background:#D1FAE5;color:#065F46}
-.tag-out{background:#FEE2E2;color:#991B1B}
-.enr-summary{display:flex;align-items:center;gap:12px;padding:10px 12px;background:var(--surface);border:0.5px solid var(--border);border-radius:var(--radius-lg);margin-bottom:12px;flex-wrap:wrap}
-.enr-sum-item{display:flex;flex-direction:column;align-items:center;min-width:60px}
-.enr-sum-val{font-size:20px;font-weight:700;color:var(--text)}
-.enr-sum-val.green{color:var(--green)}
-.enr-sum-val.red{color:#EF4444}
-.enr-sum-lbl{font-size:10px;color:var(--text2)}
-.enr-filter{display:flex;gap:6px;flex-wrap:wrap;padding:0 0 10px}
-.enr-fbtn{font-size:11px;padding:3px 10px;border-radius:14px;border:1px solid var(--border);background:none;cursor:pointer;color:var(--text2);transition:all .15s}
-.enr-fbtn.on{background:var(--green);color:#fff;border-color:var(--green)}
 
 /* loading */
 .loading{text-align:center;padding:40px 16px;color:var(--text2);font-size:13px}
@@ -167,8 +135,6 @@ body{background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI
       <button class="tb" onclick="showTab('praca',this)" id="tb1">📍 Praças</button>
       <button class="tb" onclick="showTab('dir',this)" id="tb2">🏢 Diretoria</button>
       <button class="tb" onclick="showTab('corp',this)" id="tb3">⚙️ Corp vs Op</button>
-      <button class="tb" onclick="showTab('enr',this)" id="tb4">📋 Inscrições</button>
-      <button class="tb" onclick="showTab('erros',this)" id="tb5">⚠️ Erros</button>
     </div>
 
     <div id="sec-geral" class="sec on">
@@ -189,16 +155,6 @@ body{background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI
     <div id="sec-corp" class="sec">
       <div class="dir-grid" id="corp-cards"></div>
     </div>
-
-    <div id="sec-enr" class="sec">
-      <div id="enr-summary"></div>
-      <div class="enr-filter" id="enr-filter"></div>
-      <div class="enr-grid" id="enr-cards"></div>
-    </div>
-
-    <div id="sec-erros" class="sec">
-      <div id="erros-wrap"></div>
-    </div>
   </div>
 
 </div>
@@ -209,19 +165,13 @@ const MEDALS=["🥇","🥈","🥉"];
 
 const I18N={
   pt:{title:"Bolão Copa 2026",sub:"Tembici · Copa 2026™",loading:"Carregando...",err:"Erro ao carregar",
-      t0:"🏆 Geral",t1:"📍 Praças",t2:"🏢 Diretoria",t3:"⚙️ Corp vs Op",t4:"📋 Inscrições",t5:"⚠️ Erros",
-      geral:"Ranking Geral",top5:"Top 5",top3:"Top 3",jogos:"jogos",atualizado:"Atualizado",pts:"pts",part:"part.",
-      corp:"Corporativo",op:"Operação",
-      erros_title:"Handles sem match",erros_sub:"cadastrados no Dacopa mas não encontrados na base Excel",erros_none:"✅ Nenhum erro! Todos os handles têm match na base.",
-      enr_title:"Status de Inscrição por Praça",enr_total:"na base",enr_in:"inscritos",enr_out:"pendentes",
-      enr_all:"Todas",enr_only_out:"Só pendentes",tag_in:"inscrito",tag_out:"pendente"},
+      t0:"🏆 Geral",t1:"📍 Praças",t2:"🏢 Diretoria",t3:"⚙️ Corp vs Op",
+      geral:"Ranking Geral",top10:"Top 10",jogos:"jogos",atualizado:"Atualizado",pts:"pts",part:"part.",
+      corp:"Corporativo",op:"Operação"},
   es:{title:"Quiniela Copa 2026",sub:"Tembici · Copa 2026™",loading:"Cargando...",err:"Error al cargar",
-      t0:"🏆 General",t1:"📍 Ciudades",t2:"🏢 Dirección",t3:"⚙️ Corp vs Op",t4:"📋 Inscripciones",t5:"⚠️ Errores",
-      geral:"Clasificación General",top5:"Top 5",top3:"Top 3",jogos:"partidos",atualizado:"Actualizado",pts:"pts",part:"part.",
-      corp:"Corporativo",op:"Operaciones",
-      erros_title:"Handles sin match",erros_sub:"registrados en Dacopa pero no encontrados en la base Excel",erros_none:"✅ ¡Sin errores! Todos los handles tienen match en la base.",
-      enr_title:"Estado de Inscripción por Ciudad",enr_total:"en la base",enr_in:"inscritos",enr_out:"pendientes",
-      enr_all:"Todos",enr_only_out:"Solo pendientes",tag_in:"inscrito",tag_out:"pendiente"}
+      t0:"🏆 General",t1:"📍 Ciudades",t2:"🏢 Dirección",t3:"⚙️ Corp vs Op",
+      geral:"Clasificación General",top10:"Top 10",jogos:"partidos",atualizado:"Actualizado",pts:"pts",part:"part.",
+      corp:"Corporativo",op:"Operaciones"}
 };
 
 const COUNTRY_META={
@@ -291,14 +241,14 @@ function makeCard(title,sub,acc,iconHtml,players,topN,large){
 function renderGeral(){
   const sorted=[...DATA.standings].sort((a,b)=>b.totalPoints-a.totalPoints);
   document.getElementById("card-geral-wrap").innerHTML=
-    makeCard(t("geral"),t("top5"),"card acc-br","🏆",sorted,5,true);
+    makeCard(t("geral"),t("top10"),"card acc-br","🏆",sorted,10,true);
 
   const countries=["Brasil","Argentina","Chile","Colômbia"];
   document.getElementById("country-cards").innerHTML=countries.map(c=>{
     const m=COUNTRY_META[c]||{flag:"🌎",acc:""};
     const players=DATA.standings.filter(p=>p.pais===c);
     if(!players.length)return"";
-    return makeCard(c,t("top3"),m.acc,m.flag,players,3,false);
+    return makeCard(c,t("top10"),m.acc,m.flag,players,10,false);
   }).join("");
 }
 
@@ -324,7 +274,7 @@ function renderAll(){
   document.getElementById("upd-t").textContent=fmtT(DATA.updatedAt);
   document.getElementById("upd-j").textContent=DATA.finishedMatchesCount+" "+t("jogos");
   document.getElementById("loading-txt").textContent=t("loading");
-  ["tb0","tb1","tb2","tb3","tb4","tb5"].forEach((id,i)=>{
+  ["tb0","tb1","tb2","tb3"].forEach((id,i)=>{
     const el=document.getElementById(id);
     if(el)el.textContent=t("t"+i);
   });
@@ -333,12 +283,12 @@ function renderAll(){
 
   renderGrid("praca-cards","praca",g=>({
     icon:"ti-map-pin",acc:"acc-praca",color:"var(--green)",flag:null
-  }),3,false);
+  }),10,false);
 
   renderGrid("dir-cards","diretoria",g=>{
     const m=DIR_META[g]||{icon:"ti-dots",acc:"",color:"#888"};
     return{icon:m.icon,acc:m.acc,color:m.color,flag:null};
-  },3,false);
+  },10,false);
 
   renderGrid("corp-cards","adm_corp",g=>{
     const isOp=g==="Operação"||g==="Operaciones";
@@ -350,130 +300,8 @@ function renderAll(){
       flag:null,
       label
     };
-  },5,true);
-
-  renderEnrollment();
-  renderErros();
+  },10,true);
 }
-
-let ENR_FILTER="all"; // "all" | "pending"
-
-function renderEnrollment(){
-  const enrollment = DATA.enrollment || [];
-  if(!enrollment.length){
-    document.getElementById("enr-summary").innerHTML=`<div class="loading">Sem dados de inscrição no data.json</div>`;
-    return;
-  }
-
-  const total = enrollment.length;
-  const ins   = enrollment.filter(x=>x.inscrito).length;
-  const out   = total - ins;
-  const pct   = total ? Math.round(100*ins/total) : 0;
-
-  // Summary bar
-  document.getElementById("enr-summary").innerHTML=`
-    <div class="enr-summary">
-      <div class="enr-sum-item">
-        <span class="enr-sum-val">${total}</span>
-        <span class="enr-sum-lbl">${t("enr_total")}</span>
-      </div>
-      <div style="flex:1;min-width:80px">
-        <div style="display:flex;justify-content:space-between;margin-bottom:4px">
-          <span style="font-size:11px;color:var(--text2)">${ins} ${t("enr_in")}</span>
-          <span style="font-size:11px;font-weight:700;color:var(--green)">${pct}%</span>
-        </div>
-        <div style="height:6px;background:#E5E7EB;border-radius:3px;overflow:hidden">
-          <div style="height:6px;background:var(--green);border-radius:3px;width:${pct}%"></div>
-        </div>
-        <div style="margin-top:3px;font-size:10px;color:#EF4444">${out} ${t("enr_out")}</div>
-      </div>
-    </div>`;
-
-  // Filter buttons
-  document.getElementById("enr-filter").innerHTML=`
-    <button class="enr-fbtn ${ENR_FILTER==="all"?"on":""}" onclick="setEnrFilter('all',this)">${t("enr_all")}</button>
-    <button class="enr-fbtn ${ENR_FILTER==="pending"?"on":""}" onclick="setEnrFilter('pending',this)">${t("enr_only_out")}</button>`;
-
-  // Group by praça
-  const groups={};
-  enrollment.forEach(p=>{
-    if(ENR_FILTER==="pending" && p.inscrito) return;
-    if(!groups[p.praca]) groups[p.praca]=[];
-    groups[p.praca].push(p);
-  });
-
-  document.getElementById("enr-cards").innerHTML=
-    Object.keys(groups).sort().map(praca=>{
-      const all_in_praca = enrollment.filter(x=>x.praca===praca);
-      const total_p = all_in_praca.length;
-      const ins_p   = all_in_praca.filter(x=>x.inscrito).length;
-      const out_p   = total_p - ins_p;
-      const pct_p   = total_p ? Math.round(100*ins_p/total_p) : 0;
-      const members = groups[praca]; // already filtered
-
-      const rows = members.map(p=>`
-        <div class="enr-row">
-          <div class="enr-dot ${p.inscrito?"dot-in":"dot-out"}"></div>
-          <span class="enr-name">${p.handle}</span>
-          <span class="enr-tag ${p.inscrito?"tag-in":"tag-out"}">${t(p.inscrito?"tag_in":"tag_out")}</span>
-        </div>`).join("");
-
-      return`<div class="enr-card acc-praca">
-        <div class="enr-card-hdr">
-          <span class="enr-card-title">📍 ${praca}</span>
-          <div class="enr-badge">
-            <span class="badge-num badge-in">${ins_p} ✓</span>
-            ${out_p>0?`<span class="badge-num badge-out">${out_p} ✗</span>`:""}
-          </div>
-        </div>
-        <div style="padding:4px 12px 6px">
-          <div style="display:flex;justify-content:space-between;margin-bottom:2px">
-            <span style="font-size:10px;color:var(--text2)">${ins_p}/${total_p}</span>
-            <span style="font-size:10px;font-weight:700;color:${pct_p===100?"var(--green)":"var(--text2)"}">${pct_p}%</span>
-          </div>
-          <div style="height:4px;background:#E5E7EB;border-radius:2px;overflow:hidden">
-            <div style="height:4px;background:var(--green);border-radius:2px;width:${pct_p}%"></div>
-          </div>
-        </div>
-        <div class="enr-body">${rows||`<div style="padding:8px 12px;font-size:11px;color:var(--text3)">Todos inscritos ✓</div>`}</div>
-      </div>`;
-    }).join("");
-}
-
-function renderErros(){
-  const unmatched = DATA.unmatchedHandles || [];
-  const wrap = document.getElementById("erros-wrap");
-  if(!unmatched.length){
-    wrap.innerHTML=`<div class="card" style="padding:24px;text-align:center;font-size:13px;color:var(--green)">${t("erros_none")}</div>`;
-    return;
-  }
-  const rows = unmatched.map((h,i)=>{
-    const[bg,fg]=ac(i);
-    return`<div class="row">
-      <span class="rank-num">${i+1}</span>
-      <div class="av" style="background:${bg};color:${fg}">${ini(h)}</div>
-      <div class="info">
-        <div class="pname">${h}</div>
-        <div class="phandle">${LANG==="es"?"no encontrado en la base Excel":"não encontrado na base Excel"}</div>
-      </div>
-      <span style="font-size:16px">⚠️</span>
-    </div>`;
-  }).join("");
-  wrap.innerHTML=`<div class="card acc-relgov">
-    <div class="card-hdr">
-      <div class="card-icon">⚠️</div>
-      <div class="card-title">${t("erros_title")}</div>
-      <div class="card-sub">${unmatched.length} ${t("part")} — ${t("erros_sub")}</div>
-    </div>
-    <div class="card-body">${rows}</div>
-  </div>`;
-}
-
-window.setEnrFilter=function(f){
-  ENR_FILTER=f;
-  renderEnrollment();
-};
-
 
 window.showTab=function(id,btn){
   document.querySelectorAll(".sec").forEach(s=>s.classList.remove("on"));
