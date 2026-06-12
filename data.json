@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T08:57:14.645686Z",
+  "updatedAt": "2026-06-12T12:23:38.240000Z",
   "finishedMatchesCount": 2,
   "standings": [
     {
@@ -1816,6 +1816,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 168,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "luisfilipe1",
+      "displayName": "luis.santos",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -1863,7 +1878,8 @@
     "f3xvphfw",
     "vini2003",
     "rodrihpe",
-    "goomes_flavia"
+    "goomes_flavia",
+    "jefte_nascimento"
   ],
   "enrollment": [
     {
@@ -5998,6 +6014,15 @@
       "inscrito": true
     },
     {
+      "handle": "luis.santos",
+      "email": "luis.santos@tembici.com",
+      "praca": "BikeSSA",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "alexsandro.silva",
       "email": "alexsandro.silva@tembici.com",
       "praca": "BikeSSA",
@@ -6216,15 +6241,6 @@
     {
       "handle": "lucas.soares",
       "email": "lucas.soares@tembici.com",
-      "praca": "BikeSSA",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "luis.santos",
-      "email": "luis.santos@tembici.com",
       "praca": "BikeSSA",
       "pais": "Brasil",
       "diretoria": "CBO",
