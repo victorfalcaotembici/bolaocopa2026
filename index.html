@@ -355,8 +355,8 @@ function renderEnrollment(){
     const rows=list.map(p=>{
       const[bg,fg]=ac(0);
       return`<div class="row">
-        <div class="av-sm" style="background:${p.inscrito?"#E1F5EE":"#FEECEC"};color:${p.inscrito?"#0F6E56":"#C0392B"}">${ini(p.id_user)}</div>
-        <div class="info"><div class="pname">${p.id_user}</div></div>
+        <div class="av-sm" style="background:${p.inscrito?"#E1F5EE":"#FEECEC"};color:${p.inscrito?"#0F6E56":"#C0392B"}">${ini(p.handle)}</div>
+        <div class="info"><div class="pname">${p.handle}</div></div>
         <span class="pts" style="color:${p.inscrito?"var(--green)":"#EF4444"}">${p.inscrito?t("enr_ins"):t("enr_nins")}</span>
       </div>`;
     }).join("");
