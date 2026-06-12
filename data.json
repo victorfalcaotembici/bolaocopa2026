@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T18:05:28.517051Z",
+  "updatedAt": "2026-06-12T18:19:32.046740Z",
   "finishedMatchesCount": 2,
   "standings": [
     {
@@ -104,7 +104,7 @@
       "displayName": "luiza.lopes",
       "praca": "Corporativo",
       "pais": "Brasil",
-      "diretoria": "CBO",
+      "diretoria": "B2B",
       "adm_corp": "Corporativo"
     },
     {
@@ -3170,7 +3170,7 @@
       "inscrito": false
     },
     {
-      "handle": "camilo.polania@tembici-consult.com",
+      "handle": "camilo.polania",
       "email": "camilo.polania@tembici-consult.com",
       "praca": "BikeBogota",
       "pais": "Colômbia",
@@ -3185,6 +3185,15 @@
       "pais": "Colômbia",
       "diretoria": "CBO",
       "adm_corp": "Corporativo",
+      "inscrito": false
+    },
+    {
+      "handle": "christian.castro",
+      "email": "christian.castro.gigroup@tembici-consult.com",
+      "praca": "BikeBogota",
+      "pais": "Colômbia",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
       "inscrito": false
     },
     {
@@ -7890,7 +7899,7 @@
       "email": "luiza.lopes@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
-      "diretoria": "CBO",
+      "diretoria": "B2B",
       "adm_corp": "Corporativo",
       "inscrito": true
     },
