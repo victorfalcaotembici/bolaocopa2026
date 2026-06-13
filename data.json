@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T15:00:54.291203Z",
+  "updatedAt": "2026-06-13T17:22:51.147845Z",
   "finishedMatchesCount": 4,
   "standings": [
     {
@@ -1888,6 +1888,21 @@
       "handle": "nsodre",
       "displayName": "nilson.sodre",
       "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 178,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "andersomfontoura",
+      "displayName": "Andersom.fontoura",
+      "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
@@ -6421,6 +6436,15 @@
       "inscrito": true
     },
     {
+      "handle": "andersom.fontoura",
+      "email": "andersom.fontoura@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "bianca.andrade",
       "email": "bianca.andrade@tembici.com",
       "praca": "BikeSampa",
@@ -6558,15 +6582,6 @@
     {
       "handle": "alvaro.santos",
       "email": "alvaro.santos@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "andersom.fontoura",
-      "email": "andersom.fontoura@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
