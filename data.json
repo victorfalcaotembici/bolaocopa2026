@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T10:29:16.402068Z",
+  "updatedAt": "2026-06-13T12:25:43.384206Z",
   "finishedMatchesCount": 4,
   "standings": [
     {
@@ -1876,6 +1876,21 @@
       "pais": "Brasil",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 177,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "nsodre",
+      "displayName": "nilson.sodre",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -1928,7 +1943,8 @@
     "christopherlineros",
     "eduardo1998",
     "nicolasbaigorria",
-    "jose_moura"
+    "jose_moura",
+    "jefte_09"
   ],
   "enrollment": [
     {
@@ -4443,6 +4459,15 @@
       "inscrito": true
     },
     {
+      "handle": "nilson.sodre",
+      "email": "nilson.sodre@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "omar.martinez",
       "email": "omar.martinez@tembici.com",
       "praca": "BikeRio",
@@ -5597,15 +5622,6 @@
     {
       "handle": "moacir.junior",
       "email": "moacir.junior@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "nilson.sodre",
-      "email": "nilson.sodre@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
