@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T22:10:07.974100Z",
+  "updatedAt": "2026-06-15T00:10:09.962462Z",
   "finishedMatchesCount": 10,
   "standings": [
     {
@@ -1921,6 +1921,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 181,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "sofiasimiele",
+      "displayName": "sofia.simiele",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -2044,6 +2059,15 @@
     {
       "handle": "sabrina.ortellado",
       "email": "sabrina.ortellado@tembici.com",
+      "praca": "BAEcobici",
+      "pais": "Argentina",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
+      "handle": "sofia.simiele",
+      "email": "sofia.simiele@tembici.com",
       "praca": "BAEcobici",
       "pais": "Argentina",
       "diretoria": "CBO",
@@ -2840,15 +2864,6 @@
       "pais": "Argentina",
       "diretoria": "CFO",
       "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "sofia.simiele",
-      "email": "sofia.simiele@tembici.com",
-      "praca": "BAEcobici",
-      "pais": "Argentina",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
       "inscrito": false
     },
     {
