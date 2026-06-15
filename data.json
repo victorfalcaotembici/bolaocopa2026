@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T06:24:55.245574Z",
+  "updatedAt": "2026-06-15T13:14:44.184600Z",
   "finishedMatchesCount": 12,
   "standings": [
     {
@@ -1668,6 +1668,21 @@
       "adm_corp": "Operação"
     },
     {
+      "rank": 142,
+      "totalPoints": 18,
+      "prevPosition": 139,
+      "prevTotalPoints": 18,
+      "predictionsCount": 2,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "jheniferrodrigues",
+      "displayName": "jhenifer.silva",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
+    },
+    {
       "rank": 143,
       "totalPoints": 18,
       "prevPosition": 140,
@@ -1936,6 +1951,21 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 182,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "antonioferreira",
+      "displayName": "antonio.ferreira",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo"
     }
   ],
   "unmatchedHandles": [
@@ -1969,7 +1999,6 @@
     "rodrihpe",
     "christopherlineros",
     "tanyfer",
-    "jheniferrodrigues",
     "lucaslimasz",
     "winnerbici",
     "rios",
@@ -7808,6 +7837,15 @@
       "inscrito": true
     },
     {
+      "handle": "antonio.ferreira",
+      "email": "antonio.ferreira@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
       "handle": "barbara.fortesa",
       "email": "barbara.fortesa@tembici.com",
       "praca": "Corporativo",
@@ -7981,6 +8019,15 @@
     {
       "handle": "gustavo.torquato",
       "email": "gustavo.torquato@tembici.com",
+      "praca": "Corporativo",
+      "pais": "Brasil",
+      "diretoria": "CTIO",
+      "adm_corp": "Corporativo",
+      "inscrito": true
+    },
+    {
+      "handle": "jhenifer.silva",
+      "email": "jhenifer.silva@tembici.com",
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CTIO",
@@ -8200,15 +8247,6 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CBO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "antonio.ferreira",
-      "email": "antonio.ferreira@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
       "adm_corp": "Corporativo",
       "inscrito": false
     },
@@ -8434,15 +8472,6 @@
       "praca": "Corporativo",
       "pais": "Brasil",
       "diretoria": "CFO",
-      "adm_corp": "Corporativo",
-      "inscrito": false
-    },
-    {
-      "handle": "jhenifer.silva",
-      "email": "jhenifer.silva@tembici.com",
-      "praca": "Corporativo",
-      "pais": "Brasil",
-      "diretoria": "CTIO",
       "adm_corp": "Corporativo",
       "inscrito": false
     },
