@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T10:07:59.682073Z",
+  "updatedAt": "2026-06-16T15:54:21.675897Z",
   "finishedMatchesCount": 16,
   "standings": [
     {
@@ -2011,6 +2011,21 @@
       "pais": "Chile",
       "diretoria": "CBO",
       "adm_corp": "Operação"
+    },
+    {
+      "rank": 187,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "danielesteban",
+      "displayName": "Daniel.Navarrete",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -2065,7 +2080,8 @@
     "nicolasbaigorria",
     "jose_moura",
     "joseduarte",
-    "larissalopesw"
+    "larissalopesw",
+    "regissilva"
   ],
   "enrollment": [
     {
@@ -7325,6 +7341,15 @@
       "inscrito": true
     },
     {
+      "handle": "daniel.navarrete",
+      "email": "daniel.navarrete@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "ednailton.souza",
       "email": "ednailton.souza@tembici.com",
       "praca": "BikeSantiago",
@@ -7462,15 +7487,6 @@
     {
       "handle": "cristobal.castillo",
       "email": "cristobal.castillo@tembici.com",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "daniel.navarrete",
-      "email": "daniel.navarrete@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
       "diretoria": "CBO",
