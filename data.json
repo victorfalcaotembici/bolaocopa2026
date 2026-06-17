@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T11:48:17.506124Z",
+  "updatedAt": "2026-06-17T15:32:18.095199Z",
   "finishedMatchesCount": 20,
   "standings": [
     {
@@ -1518,6 +1518,21 @@
       "adm_corp": "Operação"
     },
     {
+      "rank": 123,
+      "totalPoints": 84,
+      "prevPosition": 121,
+      "prevTotalPoints": 84,
+      "predictionsCount": 17,
+      "exactScoreCount": 1,
+      "correctWinnerCount": 2,
+      "handle": "christopherlineros",
+      "displayName": "christopher.lineros",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
       "rank": 124,
       "totalPoints": 84,
       "prevPosition": 122,
@@ -2101,6 +2116,21 @@
       "pais": "Brasil",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 189,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "terezamorais",
+      "displayName": "tereza.morais",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -2125,7 +2155,6 @@
     "goomes_flavia",
     "diegodaniel777",
     "silvaluiza",
-    "christopherlineros",
     "winnerbici",
     "joseduarte",
     "getulio7",
@@ -4801,6 +4830,15 @@
       "inscrito": true
     },
     {
+      "handle": "tereza.morais",
+      "email": "tereza.morais@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "tiago.almeida",
       "email": "tiago.almeida@tembici.com",
       "praca": "BikeRio",
@@ -6144,15 +6182,6 @@
     {
       "handle": "taiani.silva",
       "email": "taiani.silva@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "tereza.morais",
-      "email": "tereza.morais@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -7690,6 +7719,15 @@
       "inscrito": true
     },
     {
+      "handle": "christopher.lineros",
+      "email": "christopher.lineros@tembici.com",
+      "praca": "BikeSantiago",
+      "pais": "Chile",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "daniel.navarrete",
       "email": "daniel.navarrete@tembici.com",
       "praca": "BikeSantiago",
@@ -7800,15 +7838,6 @@
     {
       "handle": "christian.cerda",
       "email": "christian.cerda@tembici.com",
-      "praca": "BikeSantiago",
-      "pais": "Chile",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "christopher.lineros",
-      "email": "christopher.lineros@tembici.com",
       "praca": "BikeSantiago",
       "pais": "Chile",
       "diretoria": "CBO",
