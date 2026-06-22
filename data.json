@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-06-22T10:38:15.346211Z",
+  "updatedAt": "2026-06-22T15:51:48.919917Z",
   "finishedMatchesCount": 40,
   "standings": [
+    {
+      "rank": 1,
+      "totalPoints": 379,
+      "prevPosition": 2,
+      "prevTotalPoints": 364,
+      "predictionsCount": 38,
+      "exactScoreCount": 6,
+      "correctWinnerCount": 7,
+      "handle": "josesilva",
+      "displayName": "jose.silva",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
     {
       "rank": 2,
       "totalPoints": 377,
@@ -2209,7 +2224,6 @@
     }
   ],
   "unmatchedHandles": [
-    "josesilva",
     "matheusbarbosa",
     "wagnermachado",
     "gabs_miranha",
@@ -6965,6 +6979,15 @@
       "inscrito": true
     },
     {
+      "handle": "jose.silva",
+      "email": "jose.silva@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "marcos.cardoso",
       "email": "marcos.cardoso@tembici.com",
       "praca": "BikeSampa",
@@ -7381,15 +7404,6 @@
     {
       "handle": "johnny.cana",
       "email": "johnny.cana@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "jose.silva",
-      "email": "jose.silva@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
