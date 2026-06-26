@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T13:11:49.660863Z",
+  "updatedAt": "2026-06-26T16:16:44.692243Z",
   "finishedMatchesCount": 60,
   "standings": [
     {
@@ -1293,6 +1293,36 @@
       "adm_corp": "Operação"
     },
     {
+      "rank": 95,
+      "totalPoints": 399,
+      "prevPosition": 96,
+      "prevTotalPoints": 384,
+      "predictionsCount": 50,
+      "exactScoreCount": 4,
+      "correctWinnerCount": 5,
+      "handle": "winnerbici",
+      "displayName": "Bruno.Assis",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 96,
+      "totalPoints": 389,
+      "prevPosition": 99,
+      "prevTotalPoints": 374,
+      "predictionsCount": 55,
+      "exactScoreCount": 3,
+      "correctWinnerCount": 8,
+      "handle": "goomes_flavia",
+      "displayName": "flavia.gomes",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
       "rank": 98,
       "totalPoints": 378,
       "prevPosition": 97,
@@ -2247,8 +2277,6 @@
     "wagnermachado",
     "rodrihpe",
     "tomaspmartins",
-    "winnerbici",
-    "goomes_flavia",
     "carlosgonzaga",
     "aldocaterina",
     "getulio7",
@@ -4070,6 +4098,15 @@
       "inscrito": false
     },
     {
+      "handle": "bruno.assis",
+      "email": "bruno.assis@tembici.com",
+      "praca": "BikeFloripa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "lucas.valenca",
       "email": "lucas.valenca@tembici.com",
       "praca": "BikeFloripa",
@@ -4090,15 +4127,6 @@
     {
       "handle": "aline.oliveira",
       "email": "aline.oliveira@tembici.com",
-      "praca": "BikeFloripa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "bruno.assis",
-      "email": "bruno.assis@tembici.com",
       "praca": "BikeFloripa",
       "pais": "Brasil",
       "diretoria": "CBO",
@@ -4817,6 +4845,15 @@
       "inscrito": true
     },
     {
+      "handle": "flavia.gomes",
+      "email": "flavia.gomes@tembici.com",
+      "praca": "BikeRio",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "gustavo.mendes",
       "email": "gustavo.mendes@tembici.com",
       "praca": "BikeRio",
@@ -5476,15 +5513,6 @@
     {
       "handle": "fernando.monteiro",
       "email": "fernando.monteiro@tembici.com",
-      "praca": "BikeRio",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "flavia.gomes",
-      "email": "flavia.gomes@tembici.com",
       "praca": "BikeRio",
       "pais": "Brasil",
       "diretoria": "CBO",
