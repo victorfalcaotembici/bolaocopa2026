@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T18:51:28.221527Z",
+  "updatedAt": "2026-06-26T20:46:37.722147Z",
   "finishedMatchesCount": 60,
   "standings": [
     {
@@ -151,6 +151,21 @@
       "pais": "Brasil",
       "diretoria": "CTIO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 11,
+      "totalPoints": 555,
+      "prevPosition": 11,
+      "prevTotalPoints": 555,
+      "predictionsCount": 60,
+      "exactScoreCount": 7,
+      "correctWinnerCount": 8,
+      "handle": "matheusbarbosa",
+      "displayName": "matheus.barbosa",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     },
     {
       "rank": 12,
@@ -2269,7 +2284,6 @@
     }
   ],
   "unmatchedHandles": [
-    "matheusbarbosa",
     "gabs_miranha",
     "joseduarte",
     "edercosta",
@@ -7050,6 +7064,15 @@
       "inscrito": true
     },
     {
+      "handle": "matheus.barbosa",
+      "email": "matheus.barbosa@tembici.com",
+      "praca": "BikeSampa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "matheus.vieira",
       "email": "matheus.vieira@tembici.com",
       "praca": "BikeSampa",
@@ -7583,15 +7606,6 @@
     {
       "handle": "matheus.assis",
       "email": "matheus.assis@tembici.com",
-      "praca": "BikeSampa",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "matheus.barbosa",
-      "email": "matheus.barbosa@tembici.com",
       "praca": "BikeSampa",
       "pais": "Brasil",
       "diretoria": "CBO",
