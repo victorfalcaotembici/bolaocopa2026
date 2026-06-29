@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T09:03:29.651790Z",
+  "updatedAt": "2026-06-29T14:03:46.949222Z",
   "finishedMatchesCount": 73,
   "standings": [
     {
@@ -2296,6 +2296,21 @@
       "pais": "Brasil",
       "diretoria": "CTIO",
       "adm_corp": "Corporativo"
+    },
+    {
+      "rank": 196,
+      "totalPoints": 0,
+      "prevPosition": 0,
+      "prevTotalPoints": 0,
+      "predictionsCount": 0,
+      "exactScoreCount": 0,
+      "correctWinnerCount": 0,
+      "handle": "samirafranco",
+      "displayName": "samira.franco",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
     }
   ],
   "unmatchedHandles": [
@@ -3964,6 +3979,15 @@
       "inscrito": true
     },
     {
+      "handle": "samira.franco",
+      "email": "samira.franco@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "thiago.mohr",
       "email": "thiago.mohr@tembici.com",
       "praca": "BikeCuritiba",
@@ -4092,15 +4116,6 @@
     {
       "handle": "nicolas.baigorria",
       "email": "nicolas.baigorria@tembici.com",
-      "praca": "BikeCuritiba",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "samira.franco",
-      "email": "samira.franco@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
       "diretoria": "CBO",
