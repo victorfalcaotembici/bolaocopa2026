@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T08:15:56.121179Z",
+  "updatedAt": "2026-07-01T12:08:10.664718Z",
   "finishedMatchesCount": 79,
   "standings": [
     {
@@ -403,6 +403,21 @@
       "handle": "marciowasen",
       "displayName": "marcio.wasen",
       "praca": "BikePoa",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação"
+    },
+    {
+      "rank": 30,
+      "totalPoints": 784,
+      "prevPosition": 23,
+      "prevTotalPoints": 784,
+      "predictionsCount": 71,
+      "exactScoreCount": 8,
+      "correctWinnerCount": 6,
+      "handle": "edercosta",
+      "displayName": "eder.costa",
+      "praca": "BikeCuritiba",
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
@@ -2316,7 +2331,6 @@
   "unmatchedHandles": [
     "joseduarte",
     "gabs_miranha",
-    "edercosta",
     "tembici",
     "carlosgonzaga",
     "wagnermachado",
@@ -3980,6 +3994,15 @@
       "inscrito": true
     },
     {
+      "handle": "eder.costa",
+      "email": "eder.costa@tembici.com",
+      "praca": "BikeCuritiba",
+      "pais": "Brasil",
+      "diretoria": "CBO",
+      "adm_corp": "Operação",
+      "inscrito": true
+    },
+    {
       "handle": "samira.franco",
       "email": "samira.franco@tembici.com",
       "praca": "BikeCuritiba",
@@ -4036,15 +4059,6 @@
     {
       "handle": "douglas.pereira",
       "email": "douglas.pereira@tembici.com",
-      "praca": "BikeCuritiba",
-      "pais": "Brasil",
-      "diretoria": "CBO",
-      "adm_corp": "Operação",
-      "inscrito": false
-    },
-    {
-      "handle": "eder.costa",
-      "email": "eder.costa@tembici.com",
       "praca": "BikeCuritiba",
       "pais": "Brasil",
       "diretoria": "CBO",
