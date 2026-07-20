@@ -1,4 +1,4 @@
-import requests, json, os
+import requests, json, os, unicodedata
 from datetime import datetime
 import openpyxl
 
@@ -25,22 +25,73 @@ def fetch_leaderboard(jwt):
     r.raise_for_status()
     return r.json()
 
+def _norm_header(s):
+    if s is None:
+        return ""
+    s = str(s).strip().lower()
+    s = "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+    for ch in (" ", "-"):
+        s = s.replace(ch, "_")
+    return s
+
+# aliases aceitos por campo (todos normalizados: minúsculo, sem acento, espaços->_)
+_FIELD_ALIASES = {
+    "email":     ["email", "e_mail", "mail"],
+    "id_user":   ["id_user", "iduser", "id", "usuario", "user", "login"],
+    "pais":      ["pais", "country"],
+    "diretoria": ["diretoria", "direccion", "directorate", "area"],
+    "adm_corp":  ["adm_corp", "admcorp", "corp", "corporativo", "adm"],
+    "praca":     ["praca", "cidade", "ciudad", "city"],
+}
+
+def _build_col_index(header_row):
+    norm = [_norm_header(h) for h in header_row]
+    idx = {}
+    for field, aliases in _FIELD_ALIASES.items():
+        found = None
+        for a in aliases:
+            if a in norm:
+                found = norm.index(a)
+                break
+        idx[field] = found
+    return idx
+
+# posições de fallback caso o cabeçalho não seja reconhecido
+_FALLBACK_POS = {"email":0, "id_user":1, "pais":2, "diretoria":3, "adm_corp":4, "praca":5}
+
 def load_users_from_xlsx():
     wb = openpyxl.load_workbook("Base_hdc_copa.xlsx")
     ws = wb.active
+    rows = list(ws.iter_rows(values_only=True))
+    if not rows:
+        return {}
+
+    col = _build_col_index(rows[0])
+    # se algum campo essencial não foi achado pelo nome, cai pro fallback posicional
+    for f, pos in _FALLBACK_POS.items():
+        if col.get(f) is None:
+            col[f] = pos
+
+    def get(row, field):
+        i = col[field]
+        return row[i] if i is not None and i < len(row) else None
+
     users = {}
-    for i, row in enumerate(ws.iter_rows(values_only=True), 1):
-        if i == 1:
+    for row in rows[1:]:
+        if not row:
             continue
-        email, id_user, pais, diretoria, adm_corp, praca = row if row else (None,)*6
+        id_user   = get(row, "id_user")
+        pais      = get(row, "pais")
+        diretoria = get(row, "diretoria")
+        adm_corp  = get(row, "adm_corp")
+        praca     = get(row, "praca")
         if not id_user:
             continue
-        key = str(id_user).strip().lower()
+        key = str(id_user).strip().lower().replace(".", "")
         praca_val = str(praca).strip() if praca else "Corporativo"
         if praca_val.lower() == "riviera":
             praca_val = "BikeSampa"
         users[key] = {
-            "email": str(email).strip() if email else "",
             "praca": praca_val,
             "pais": str(pais).strip() if pais else "Brasil",
             "diretoria": str(diretoria).strip() if diretoria else "CBO",
@@ -52,22 +103,13 @@ def build_output(raw, users_map):
     standings = raw.get("standings", [])
     finished  = raw.get("finishedMatches", [])
     enriched, unmatched = [], []
-
-    # Build set of displayNames that are enrolled (present in leaderboard)
-    enrolled_names = set()
-    for e in standings:
-        u = e.get("user", {})
-        display_key = (u.get("displayName") or "").strip().lower()
-        enrolled_names.add(display_key)
-
     for e in standings:
         u = e.get("user", {})
         handle = (u.get("handle") or "").strip().lower()
-        display_key = (u.get("displayName") or "").strip().lower()
-        info = users_map.get(display_key) or users_map.get(handle)
+        info = users_map.get(handle)
         if not info:
             unmatched.append(handle)
-            continue  # não aloca em nenhuma categoria
+            info = {"praca":"Outros","pais":"Outros","diretoria":"Outros","adm_corp":"Outros"}
         enriched.append({
             "rank":             e.get("rank"),
             "totalPoints":      e.get("totalPoints", 0),
@@ -83,28 +125,11 @@ def build_output(raw, users_map):
             "diretoria":   info["diretoria"],
             "adm_corp":    info["adm_corp"],
         })
-
-    # Build enrollment list: every person in the Excel base with their status
-    enrollment = []
-    for handle, info in users_map.items():
-        enrollment.append({
-            "handle":   handle,
-            "email":    info.get("email", ""),
-            "praca":    info["praca"],
-            "pais":     info["pais"],
-            "diretoria": info["diretoria"],
-            "adm_corp": info["adm_corp"],
-            "inscrito": handle in enrolled_names,
-        })
-    # Sort: praça asc, then uninscribed first, then handle
-    enrollment.sort(key=lambda x: (x["praca"], not x["inscrito"], x["handle"]))
-
     return {
         "updatedAt": datetime.utcnow().isoformat() + "Z",
         "finishedMatchesCount": len(finished),
         "standings": enriched,
-        "unmatchedHandles": unmatched,
-        "enrollment": enrollment,
+        "unmatchedHandles": unmatched
     }
 
 if __name__ == "__main__":
@@ -121,9 +146,6 @@ if __name__ == "__main__":
         json.dump(output, f, ensure_ascii=False, indent=2)
     n = len(output["standings"])
     j = output["finishedMatchesCount"]
-    e = len(output["enrollment"])
-    ins = sum(1 for x in output["enrollment"] if x["inscrito"])
-    print(f"OK — {n} no ranking, {j} jogos encerrados")
-    print(f"Inscrições: {ins}/{e} ({100*ins//e if e else 0}%)")
+    print(f"OK — {n} participantes, {j} jogos encerrados")
     if output["unmatchedHandles"]:
         print(f"Sem match ({len(output['unmatchedHandles'])}): {output['unmatchedHandles'][:10]}")
