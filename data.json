@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-07-20T17:07:01.418665Z",
+  "updatedAt": "2026-07-20T17:14:52.919052Z",
   "finishedMatchesCount": 104,
   "standings": [
-    {
-      "rank": 1,
-      "totalPoints": 1551,
-      "prevPosition": 2,
-      "prevTotalPoints": 1521,
-      "predictionsCount": 104,
-      "exactScoreCount": 15,
-      "correctWinnerCount": 7,
-      "handle": "fercarvalho",
-      "displayName": "fernando.carvalho",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 2,
-      "totalPoints": 1532,
-      "prevPosition": 1,
-      "prevTotalPoints": 1532,
-      "predictionsCount": 104,
-      "exactScoreCount": 21,
-      "correctWinnerCount": 13,
-      "handle": "cingrispo",
-      "displayName": "Cintia.Grispo",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
     {
       "rank": 3,
       "totalPoints": 1531,
@@ -46,21 +16,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 4,
-      "totalPoints": 1519,
-      "prevPosition": 4,
-      "prevTotalPoints": 1495,
-      "predictionsCount": 100,
-      "exactScoreCount": 15,
-      "correctWinnerCount": 14,
-      "handle": "josesilva",
-      "displayName": "jose.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 5,
@@ -123,21 +78,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 9,
-      "totalPoints": 1426,
-      "prevPosition": 10,
-      "prevTotalPoints": 1396,
-      "predictionsCount": 100,
-      "exactScoreCount": 16,
-      "correctWinnerCount": 16,
-      "handle": "gabs_miranha",
-      "displayName": "gabriel.lopes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 10,
       "totalPoints": 1406,
       "prevPosition": 15,
@@ -151,51 +91,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 11,
-      "totalPoints": 1402,
-      "prevPosition": 14,
-      "prevTotalPoints": 1372,
-      "predictionsCount": 100,
-      "exactScoreCount": 14,
-      "correctWinnerCount": 13,
-      "handle": "gustavohenrique",
-      "displayName": "gustavo.mendes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 12,
-      "totalPoints": 1397,
-      "prevPosition": 9,
-      "prevTotalPoints": 1397,
-      "predictionsCount": 104,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 15,
-      "handle": "tembici",
-      "displayName": "fabio.marques",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 13,
-      "totalPoints": 1379,
-      "prevPosition": 11,
-      "prevTotalPoints": 1379,
-      "predictionsCount": 102,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 11,
-      "handle": "marcossantos87",
-      "displayName": "marcos.santos",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 14,
@@ -258,21 +153,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 18,
-      "totalPoints": 1343,
-      "prevPosition": 21,
-      "prevTotalPoints": 1323,
-      "predictionsCount": 103,
-      "exactScoreCount": 14,
-      "correctWinnerCount": 12,
-      "handle": "lucasp",
-      "displayName": "lucas.pereira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 19,
       "totalPoints": 1341,
       "prevPosition": 16,
@@ -331,21 +211,6 @@
       "pais": "Colômbia",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 23,
-      "totalPoints": 1324,
-      "prevPosition": 20,
-      "prevTotalPoints": 1324,
-      "predictionsCount": 100,
-      "exactScoreCount": 12,
-      "correctWinnerCount": 13,
-      "handle": "tiagoosilvatembici",
-      "displayName": "tiago.osilva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 24,
@@ -408,21 +273,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 28,
-      "totalPoints": 1294,
-      "prevPosition": 27,
-      "prevTotalPoints": 1294,
-      "predictionsCount": 104,
-      "exactScoreCount": 9,
-      "correctWinnerCount": 14,
-      "handle": "jimmypardogigroup",
-      "displayName": "Jimmy.Pardo",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 29,
       "totalPoints": 1291,
       "prevPosition": 32,
@@ -468,21 +318,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 32,
-      "totalPoints": 1274,
-      "prevPosition": 30,
-      "prevTotalPoints": 1274,
-      "predictionsCount": 97,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 11,
-      "handle": "robertfernandes",
-      "displayName": "robert.fernandes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 33,
       "totalPoints": 1264,
       "prevPosition": 36,
@@ -498,36 +333,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 34,
-      "totalPoints": 1263,
-      "prevPosition": 31,
-      "prevTotalPoints": 1263,
-      "predictionsCount": 92,
-      "exactScoreCount": 13,
-      "correctWinnerCount": 11,
-      "handle": "winnerbici",
-      "displayName": "Bruno.Assis",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 35,
-      "totalPoints": 1256,
-      "prevPosition": 38,
-      "prevTotalPoints": 1226,
-      "predictionsCount": 99,
-      "exactScoreCount": 13,
-      "correctWinnerCount": 9,
-      "handle": "marcos_13",
-      "displayName": "Marcos.Cardoso",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 36,
       "totalPoints": 1249,
       "prevPosition": 34,
@@ -541,21 +346,6 @@
       "pais": "Brasil",
       "diretoria": "CEO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 37,
-      "totalPoints": 1249,
-      "prevPosition": 39,
-      "prevTotalPoints": 1225,
-      "predictionsCount": 94,
-      "exactScoreCount": 8,
-      "correctWinnerCount": 10,
-      "handle": "mtdiniz",
-      "displayName": "Matheus.Souza",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 38,
@@ -648,21 +438,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 44,
-      "totalPoints": 1209,
-      "prevPosition": 43,
-      "prevTotalPoints": 1209,
-      "predictionsCount": 102,
-      "exactScoreCount": 7,
-      "correctWinnerCount": 13,
-      "handle": "maurilio33",
-      "displayName": "Maurilio.Junior",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 45,
       "totalPoints": 1206,
       "prevPosition": 49,
@@ -708,21 +483,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 48,
-      "totalPoints": 1194,
-      "prevPosition": 47,
-      "prevTotalPoints": 1194,
-      "predictionsCount": 92,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 14,
-      "handle": "brunadantas",
-      "displayName": "bruna.pinheiro",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 49,
       "totalPoints": 1194,
       "prevPosition": 53,
@@ -736,21 +496,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 50,
-      "totalPoints": 1189,
-      "prevPosition": 48,
-      "prevTotalPoints": 1189,
-      "predictionsCount": 100,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 7,
-      "handle": "89akaciopedrinho21",
-      "displayName": "Akacio.Santos",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 51,
@@ -798,21 +543,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 54,
-      "totalPoints": 1167,
-      "prevPosition": 51,
-      "prevTotalPoints": 1167,
-      "predictionsCount": 101,
-      "exactScoreCount": 10,
-      "correctWinnerCount": 13,
-      "handle": "alanhpereira",
-      "displayName": "alan.pereira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 55,
       "totalPoints": 1167,
       "prevPosition": 61,
@@ -826,21 +556,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 56,
-      "totalPoints": 1164,
-      "prevPosition": 52,
-      "prevTotalPoints": 1164,
-      "predictionsCount": 79,
-      "exactScoreCount": 14,
-      "correctWinnerCount": 9,
-      "handle": "olanza",
-      "displayName": "fabio.pereira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 57,
@@ -888,36 +603,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 60,
-      "totalPoints": 1149,
-      "prevPosition": 58,
-      "prevTotalPoints": 1149,
-      "predictionsCount": 96,
-      "exactScoreCount": 7,
-      "correctWinnerCount": 12,
-      "handle": "alanferreira",
-      "displayName": "alan.conceicao",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 61,
-      "totalPoints": 1147,
-      "prevPosition": 59,
-      "prevTotalPoints": 1147,
-      "predictionsCount": 93,
-      "exactScoreCount": 14,
-      "correctWinnerCount": 10,
-      "handle": "cnthiaramos",
-      "displayName": "cinthia.ramos",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 62,
       "totalPoints": 1140,
       "prevPosition": 63,
@@ -946,21 +631,6 @@
       "pais": "Chile",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 64,
-      "totalPoints": 1118,
-      "prevPosition": 66,
-      "prevTotalPoints": 1088,
-      "predictionsCount": 96,
-      "exactScoreCount": 6,
-      "correctWinnerCount": 6,
-      "handle": "viniciusribeir",
-      "displayName": "Vinicius.ribeiro",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 65,
@@ -1023,21 +693,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 69,
-      "totalPoints": 1083,
-      "prevPosition": 72,
-      "prevTotalPoints": 1059,
-      "predictionsCount": 99,
-      "exactScoreCount": 9,
-      "correctWinnerCount": 13,
-      "handle": "goomes_flavia",
-      "displayName": "flavia.gomes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 70,
       "totalPoints": 1068,
       "prevPosition": 69,
@@ -1051,51 +706,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 71,
-      "totalPoints": 1068,
-      "prevPosition": 70,
-      "prevTotalPoints": 1068,
-      "predictionsCount": 101,
-      "exactScoreCount": 8,
-      "correctWinnerCount": 5,
-      "handle": "vgfalcao",
-      "displayName": "victor.falcao",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 72,
-      "totalPoints": 1061,
-      "prevPosition": 71,
-      "prevTotalPoints": 1061,
-      "predictionsCount": 90,
-      "exactScoreCount": 10,
-      "correctWinnerCount": 11,
-      "handle": "antonioferreira",
-      "displayName": "antonio.ferreira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 73,
-      "totalPoints": 1060,
-      "prevPosition": 75,
-      "prevTotalPoints": 1030,
-      "predictionsCount": 100,
-      "exactScoreCount": 10,
-      "correctWinnerCount": 9,
-      "handle": "henriquetembici",
-      "displayName": "roberto.paula",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 74,
@@ -1113,21 +723,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 75,
-      "totalPoints": 1052,
-      "prevPosition": 74,
-      "prevTotalPoints": 1052,
-      "predictionsCount": 92,
-      "exactScoreCount": 5,
-      "correctWinnerCount": 15,
-      "handle": "jefte_09",
-      "displayName": "Jefte.nascimento",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 76,
       "totalPoints": 1029,
       "prevPosition": 76,
@@ -1141,36 +736,6 @@
       "pais": "Chile",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 77,
-      "totalPoints": 1022,
-      "prevPosition": 77,
-      "prevTotalPoints": 1022,
-      "predictionsCount": 97,
-      "exactScoreCount": 9,
-      "correctWinnerCount": 10,
-      "handle": "guilhermebaldissera",
-      "displayName": "guilherme.baldissera",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 78,
-      "totalPoints": 1006,
-      "prevPosition": 78,
-      "prevTotalPoints": 1006,
-      "predictionsCount": 95,
-      "exactScoreCount": 6,
-      "correctWinnerCount": 8,
-      "handle": "susu",
-      "displayName": "sueli.nascimento",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 79,
@@ -1201,21 +766,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 81,
-      "totalPoints": 986,
-      "prevPosition": 81,
-      "prevTotalPoints": 986,
-      "predictionsCount": 96,
-      "exactScoreCount": 8,
-      "correctWinnerCount": 15,
-      "handle": "fazzolino",
-      "displayName": "rafael.fazzolino",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 82,
@@ -1263,36 +813,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 85,
-      "totalPoints": 973,
-      "prevPosition": 86,
-      "prevTotalPoints": 953,
-      "predictionsCount": 55,
-      "exactScoreCount": 10,
-      "correctWinnerCount": 4,
-      "handle": "tubaro",
-      "displayName": "antonio.rodrigues",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 86,
-      "totalPoints": 971,
-      "prevPosition": 84,
-      "prevTotalPoints": 971,
-      "predictionsCount": 81,
-      "exactScoreCount": 6,
-      "correctWinnerCount": 14,
-      "handle": "rodrihpe",
-      "displayName": "Rodrigo Henrique Soares da Silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 87,
       "totalPoints": 956,
       "prevPosition": 85,
@@ -1336,21 +856,6 @@
       "pais": "Brasil",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 90,
-      "totalPoints": 944,
-      "prevPosition": 90,
-      "prevTotalPoints": 944,
-      "predictionsCount": 91,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 11,
-      "handle": "marioaraujotembici",
-      "displayName": "mario.araujo",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 91,
@@ -1458,21 +963,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 98,
-      "totalPoints": 892,
-      "prevPosition": 102,
-      "prevTotalPoints": 862,
-      "predictionsCount": 93,
-      "exactScoreCount": 5,
-      "correctWinnerCount": 10,
-      "handle": "gabizinho",
-      "displayName": "Gabriel.nascimento",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 99,
       "totalPoints": 876,
       "prevPosition": 98,
@@ -1486,36 +976,6 @@
       "pais": "Brasil",
       "diretoria": "CTIO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 100,
-      "totalPoints": 873,
-      "prevPosition": 99,
-      "prevTotalPoints": 873,
-      "predictionsCount": 79,
-      "exactScoreCount": 7,
-      "correctWinnerCount": 3,
-      "handle": "gislandia",
-      "displayName": "Gislandia.cardoso",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 101,
-      "totalPoints": 866,
-      "prevPosition": 100,
-      "prevTotalPoints": 866,
-      "predictionsCount": 75,
-      "exactScoreCount": 11,
-      "correctWinnerCount": 7,
-      "handle": "marianacardoso",
-      "displayName": "mariana.cardoso",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 102,
@@ -1533,21 +993,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 103,
-      "totalPoints": 838,
-      "prevPosition": 103,
-      "prevTotalPoints": 838,
-      "predictionsCount": 56,
-      "exactScoreCount": 6,
-      "correctWinnerCount": 6,
-      "handle": "jheniferrodrigues",
-      "displayName": "jhenifer.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 104,
       "totalPoints": 826,
       "prevPosition": 104,
@@ -1561,21 +1006,6 @@
       "pais": "Brasil",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 105,
-      "totalPoints": 802,
-      "prevPosition": 105,
-      "prevTotalPoints": 802,
-      "predictionsCount": 80,
-      "exactScoreCount": 8,
-      "correctWinnerCount": 11,
-      "handle": "jlins",
-      "displayName": "Jonathan.lins",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 106,
@@ -1623,36 +1053,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 109,
-      "totalPoints": 739,
-      "prevPosition": 109,
-      "prevTotalPoints": 739,
-      "predictionsCount": 71,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 13,
-      "handle": "igorgabriel",
-      "displayName": "Igor Gabriel Monteiro da Silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 110,
-      "totalPoints": 730,
-      "prevPosition": 110,
-      "prevTotalPoints": 730,
-      "predictionsCount": 59,
-      "exactScoreCount": 10,
-      "correctWinnerCount": 6,
-      "handle": "vieira01",
-      "displayName": "beatriz.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 111,
       "totalPoints": 717,
       "prevPosition": 111,
@@ -1698,36 +1098,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 114,
-      "totalPoints": 677,
-      "prevPosition": 114,
-      "prevTotalPoints": 677,
-      "predictionsCount": 78,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 14,
-      "handle": "wellingtonrc7",
-      "displayName": "wellington.cavalcante",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 115,
-      "totalPoints": 672,
-      "prevPosition": 115,
-      "prevTotalPoints": 672,
-      "predictionsCount": 75,
-      "exactScoreCount": 8,
-      "correctWinnerCount": 9,
-      "handle": "cacau_tembici",
-      "displayName": "caroline.nascimento",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 116,
       "totalPoints": 659,
       "prevPosition": 116,
@@ -1743,36 +1113,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 117,
-      "totalPoints": 636,
-      "prevPosition": 117,
-      "prevTotalPoints": 636,
-      "predictionsCount": 50,
-      "exactScoreCount": 7,
-      "correctWinnerCount": 2,
-      "handle": "gustavoalvess",
-      "displayName": "Gustavo Henrique Lima Alves",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 118,
-      "totalPoints": 619,
-      "prevPosition": 118,
-      "prevTotalPoints": 619,
-      "predictionsCount": 71,
-      "exactScoreCount": 5,
-      "correctWinnerCount": 6,
-      "handle": "andrezasilvaa",
-      "displayName": "andreza.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 119,
       "totalPoints": 595,
       "prevPosition": 119,
@@ -1786,21 +1126,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 120,
-      "totalPoints": 574,
-      "prevPosition": 120,
-      "prevTotalPoints": 574,
-      "predictionsCount": 68,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 8,
-      "handle": "fernandoffernandes",
-      "displayName": "fernando.fernandes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 121,
@@ -1833,21 +1158,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 123,
-      "totalPoints": 484,
-      "prevPosition": 123,
-      "prevTotalPoints": 484,
-      "predictionsCount": 61,
-      "exactScoreCount": 4,
-      "correctWinnerCount": 11,
-      "handle": "eduardo1998",
-      "displayName": "Eduardo de Lima Gonçalves",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 124,
       "totalPoints": 480,
       "prevPosition": 124,
@@ -1863,21 +1173,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 125,
-      "totalPoints": 448,
-      "prevPosition": 125,
-      "prevTotalPoints": 448,
-      "predictionsCount": 70,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 10,
-      "handle": "getulio7",
-      "displayName": "Getulio",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 126,
       "totalPoints": 424,
       "prevPosition": 126,
@@ -1891,21 +1186,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 127,
-      "totalPoints": 402,
-      "prevPosition": 127,
-      "prevTotalPoints": 402,
-      "predictionsCount": 45,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 7,
-      "handle": "tomaspmartins",
-      "displayName": "Tomas Martins",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 128,
@@ -1938,21 +1218,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 130,
-      "totalPoints": 358,
-      "prevPosition": 130,
-      "prevTotalPoints": 358,
-      "predictionsCount": 31,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 5,
-      "handle": "roogeer",
-      "displayName": "roger.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 131,
       "totalPoints": 337,
       "prevPosition": 131,
@@ -1966,36 +1231,6 @@
       "pais": "Brasil",
       "diretoria": "CFO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 132,
-      "totalPoints": 316,
-      "prevPosition": 132,
-      "prevTotalPoints": 316,
-      "predictionsCount": 22,
-      "exactScoreCount": 1,
-      "correctWinnerCount": 1,
-      "handle": "janiosilvatembicicom",
-      "displayName": "Janio Alcantara da Silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 133,
-      "totalPoints": 301,
-      "prevPosition": 133,
-      "prevTotalPoints": 301,
-      "predictionsCount": 49,
-      "exactScoreCount": 4,
-      "correctWinnerCount": 3,
-      "handle": "0212rfq",
-      "displayName": "rennan.queiroz1",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 134,
@@ -2013,21 +1248,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 135,
-      "totalPoints": 299,
-      "prevPosition": 135,
-      "prevTotalPoints": 299,
-      "predictionsCount": 34,
-      "exactScoreCount": 4,
-      "correctWinnerCount": 4,
-      "handle": "joao1988",
-      "displayName": "João Vitor Freitas Alves",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 136,
       "totalPoints": 291,
       "prevPosition": 136,
@@ -2041,21 +1261,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 137,
-      "totalPoints": 288,
-      "prevPosition": 137,
-      "prevTotalPoints": 288,
-      "predictionsCount": 29,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 3,
-      "handle": "danielesteban",
-      "displayName": "Daniel.Navarrete",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 138,
@@ -2088,36 +1293,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 140,
-      "totalPoints": 257,
-      "prevPosition": 140,
-      "prevTotalPoints": 257,
-      "predictionsCount": 33,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 4,
-      "handle": "lucassvalenca",
-      "displayName": "lucas.valenca",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 141,
-      "totalPoints": 253,
-      "prevPosition": 141,
-      "prevTotalPoints": 253,
-      "predictionsCount": 38,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 4,
-      "handle": "gabigoomes",
-      "displayName": "gabriela.gomes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 142,
       "totalPoints": 230,
       "prevPosition": 142,
@@ -2131,21 +1306,6 @@
       "pais": "Brasil",
       "diretoria": "CTIO",
       "adm_corp": "Corporativo"
-    },
-    {
-      "rank": 143,
-      "totalPoints": 206,
-      "prevPosition": 143,
-      "prevTotalPoints": 206,
-      "predictionsCount": 21,
-      "exactScoreCount": 4,
-      "correctWinnerCount": 4,
-      "handle": "jucaetano",
-      "displayName": "julia.caetano",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 144,
@@ -2163,36 +1323,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 145,
-      "totalPoints": 170,
-      "prevPosition": 145,
-      "prevTotalPoints": 170,
-      "predictionsCount": 24,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 3,
-      "handle": "alex1234",
-      "displayName": "Alexsandro Santos da Silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 146,
-      "totalPoints": 169,
-      "prevPosition": 146,
-      "prevTotalPoints": 169,
-      "predictionsCount": 16,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 4,
-      "handle": "larissalopesw",
-      "displayName": "larissa.soares",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 147,
       "totalPoints": 166,
       "prevPosition": 147,
@@ -2206,21 +1336,6 @@
       "pais": "Chile",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 148,
-      "totalPoints": 154,
-      "prevPosition": 148,
-      "prevTotalPoints": 154,
-      "predictionsCount": 20,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 2,
-      "handle": "nsodre",
-      "displayName": "nilson.sodre",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 149,
@@ -2238,66 +1353,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 150,
-      "totalPoints": 148,
-      "prevPosition": 150,
-      "prevTotalPoints": 148,
-      "predictionsCount": 20,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 2,
-      "handle": "diegodaniel777",
-      "displayName": "Diego Alvarenque",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 151,
-      "totalPoints": 144,
-      "prevPosition": 151,
-      "prevTotalPoints": 144,
-      "predictionsCount": 21,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 1,
-      "handle": "biancarodriguesbr",
-      "displayName": "bianca.rodrigues",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 152,
-      "totalPoints": 129,
-      "prevPosition": 152,
-      "prevTotalPoints": 129,
-      "predictionsCount": 10,
-      "exactScoreCount": 3,
-      "correctWinnerCount": 0,
-      "handle": "amandaleitee",
-      "displayName": "amanda.leite",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 153,
-      "totalPoints": 120,
-      "prevPosition": 153,
-      "prevTotalPoints": 120,
-      "predictionsCount": 7,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 3,
-      "handle": "vinivinivinivini",
-      "displayName": "Marcos Vinicius Oliveira Araujo Santana",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 154,
       "totalPoints": 114,
       "prevPosition": 154,
@@ -2313,51 +1368,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 155,
-      "totalPoints": 103,
-      "prevPosition": 155,
-      "prevTotalPoints": 103,
-      "predictionsCount": 20,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 1,
-      "handle": "matheushenrique",
-      "displayName": "Matheus.vieira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 156,
-      "totalPoints": 102,
-      "prevPosition": 156,
-      "prevTotalPoints": 102,
-      "predictionsCount": 6,
-      "exactScoreCount": 2,
-      "correctWinnerCount": 1,
-      "handle": "arthurdsm",
-      "displayName": "Arthur Douglas Da Silva Moreira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 157,
-      "totalPoints": 87,
-      "prevPosition": 157,
-      "prevTotalPoints": 87,
-      "predictionsCount": 20,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "silvaluiza",
-      "displayName": "Ângela.luiza",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 158,
       "totalPoints": 77,
       "prevPosition": 158,
@@ -2371,51 +1381,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 159,
-      "totalPoints": 76,
-      "prevPosition": 159,
-      "prevTotalPoints": 76,
-      "predictionsCount": 6,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 1,
-      "handle": "ponntel",
-      "displayName": "mariana.pontel",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 160,
-      "totalPoints": 76,
-      "prevPosition": 160,
-      "prevTotalPoints": 76,
-      "predictionsCount": 12,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 1,
-      "handle": "luisfilipe1",
-      "displayName": "luis.santos",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 161,
-      "totalPoints": 62,
-      "prevPosition": 161,
-      "prevTotalPoints": 62,
-      "predictionsCount": 6,
-      "exactScoreCount": 1,
-      "correctWinnerCount": 1,
-      "handle": "jefte_nascimento",
-      "displayName": "Jefte.nascimento@tembici.com",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 162,
@@ -2448,21 +1413,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 164,
-      "totalPoints": 42,
-      "prevPosition": 164,
-      "prevTotalPoints": 42,
-      "predictionsCount": 7,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "paulohl",
-      "displayName": "Paulo Henrique Lima de Sousa",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 165,
       "totalPoints": 37,
       "prevPosition": 165,
@@ -2493,21 +1443,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 167,
-      "totalPoints": 35,
-      "prevPosition": 167,
-      "prevTotalPoints": 35,
-      "predictionsCount": 5,
-      "exactScoreCount": 1,
-      "correctWinnerCount": 1,
-      "handle": "tanyfer",
-      "displayName": "Tanyfer",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 168,
       "totalPoints": 30,
       "prevPosition": 168,
@@ -2521,51 +1456,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 169,
-      "totalPoints": 22,
-      "prevPosition": 169,
-      "prevTotalPoints": 22,
-      "predictionsCount": 10,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 1,
-      "handle": "paulafergui",
-      "displayName": "paula.oliveira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 170,
-      "totalPoints": 15,
-      "prevPosition": 170,
-      "prevTotalPoints": 15,
-      "predictionsCount": 4,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "lucaslimasz",
-      "displayName": "Lucas Lima",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 171,
-      "totalPoints": 12,
-      "prevPosition": 171,
-      "prevTotalPoints": 12,
-      "predictionsCount": 2,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "caioo",
-      "displayName": "Caio.Santos",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 172,
@@ -2583,21 +1473,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 173,
-      "totalPoints": 0,
-      "prevPosition": 173,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "rios",
-      "displayName": "Rodrigo Rios da Cruz",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 174,
       "totalPoints": 0,
       "prevPosition": 174,
@@ -2611,36 +1486,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 175,
-      "totalPoints": 0,
-      "prevPosition": 175,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "marcel007",
-      "displayName": "Marcel.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 176,
-      "totalPoints": 0,
-      "prevPosition": 176,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "rooger",
-      "displayName": "Roger",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 177,
@@ -2658,81 +1503,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 178,
-      "totalPoints": 0,
-      "prevPosition": 178,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "kozowiski",
-      "displayName": "Lucas Kozowiski",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 179,
-      "totalPoints": 0,
-      "prevPosition": 179,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "valdez",
-      "displayName": "Bruno.Valdez",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 180,
-      "totalPoints": 0,
-      "prevPosition": 180,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "paulofreitas",
-      "displayName": "paulo.freitas",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 181,
-      "totalPoints": 0,
-      "prevPosition": 181,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "guimaraes",
-      "displayName": "Lucas",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 182,
-      "totalPoints": 0,
-      "prevPosition": 182,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "edimeiajesus",
-      "displayName": "Edimeia Santos de Jesus",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 183,
       "totalPoints": 0,
       "prevPosition": 183,
@@ -2746,51 +1516,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 184,
-      "totalPoints": 0,
-      "prevPosition": 184,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "thiagordz",
-      "displayName": "thiago.rodriguez",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 185,
-      "totalPoints": 0,
-      "prevPosition": 185,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "tembicicom",
-      "displayName": "Anderson.oliveira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 186,
-      "totalPoints": 0,
-      "prevPosition": 186,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "fernandasilva",
-      "displayName": "fernanda.silva",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 187,
@@ -2808,66 +1533,6 @@
       "adm_corp": "Operação"
     },
     {
-      "rank": 188,
-      "totalPoints": 0,
-      "prevPosition": 188,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "alejandro",
-      "displayName": "Alejandro",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 189,
-      "totalPoints": 0,
-      "prevPosition": 189,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "castilloa14",
-      "displayName": "Alejandro Alberto Castillo",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 190,
-      "totalPoints": 0,
-      "prevPosition": 190,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "christiacordova",
-      "displayName": "Christian Cordova",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
-      "rank": 191,
-      "totalPoints": 0,
-      "prevPosition": 191,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "augustola",
-      "displayName": "Luis Nunes",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 192,
       "totalPoints": 0,
       "prevPosition": 192,
@@ -2881,21 +1546,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 193,
-      "totalPoints": 0,
-      "prevPosition": 193,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "f3xvphfw",
-      "displayName": "Pedro Rogerio De Oliveira Febronio",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 194,
@@ -2928,21 +1578,6 @@
       "adm_corp": "Corporativo"
     },
     {
-      "rank": 196,
-      "totalPoints": 0,
-      "prevPosition": 196,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "vini2003",
-      "displayName": "Vinicius Pereira",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
-    },
-    {
       "rank": 197,
       "totalPoints": 0,
       "prevPosition": 197,
@@ -2956,21 +1591,6 @@
       "pais": "Brasil",
       "diretoria": "CBO",
       "adm_corp": "Operação"
-    },
-    {
-      "rank": 198,
-      "totalPoints": 0,
-      "prevPosition": 198,
-      "prevTotalPoints": 0,
-      "predictionsCount": 0,
-      "exactScoreCount": 0,
-      "correctWinnerCount": 0,
-      "handle": "jose_moura",
-      "displayName": "José Arthur Salgado de moura",
-      "praca": "Outros",
-      "pais": "Outros",
-      "diretoria": "Outros",
-      "adm_corp": "Outros"
     },
     {
       "rank": 199,
