@@ -34,6 +34,17 @@ def _norm_header(s):
         s = s.replace(ch, "_")
     return s
 
+def _norm_name(s):
+    # normaliza identidade p/ join: minúsculo, sem acento, sem pontos/espaços/_/-
+    # une "cintia.grispo", "Cintia Grispo" e "cíntia.grispo" na mesma chave -> "cintiagrispo"
+    if not s:
+        return ""
+    s = str(s).strip().lower()
+    s = "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+    for ch in (".", " ", "_", "-"):
+        s = s.replace(ch, "")
+    return s
+
 # aliases aceitos por campo (todos normalizados: minúsculo, sem acento, espaços->_)
 _FIELD_ALIASES = {
     "email":     ["email", "e_mail", "mail"],
@@ -87,7 +98,7 @@ def load_users_from_xlsx():
         praca     = get(row, "praca")
         if not id_user:
             continue
-        key = str(id_user).strip().lower().replace(".", "")
+        key = _norm_name(id_user)
         praca_val = str(praca).strip() if praca else "Corporativo"
         if praca_val.lower() == "riviera":
             praca_val = "BikeSampa"
@@ -105,10 +116,13 @@ def build_output(raw, users_map):
     enriched, unmatched = [], []
     for e in standings:
         u = e.get("user", {})
+        dn     = (u.get("displayName") or "").strip()
         handle = (u.get("handle") or "").strip().lower()
-        info = users_map.get(handle)
+        # join primário: displayName (identidade corporativa pontuada) vs id_user.
+        # fallback: handle (só acerta quando é igual ao id sem pontos; vanity strings não batem).
+        info = users_map.get(_norm_name(dn)) or users_map.get(_norm_name(handle))
         if not info:
-            unmatched.append(handle)
+            unmatched.append(dn or handle)  # dotted p/ localizar na base
             continue  # fora da base = fora de TODO ranking; só registra em unmatchedHandles
         enriched.append({
             "rank":             e.get("rank"),
@@ -119,7 +133,7 @@ def build_output(raw, users_map):
             "exactScoreCount":  e.get("exactScoreCount", 0),
             "correctWinnerCount": e.get("correctWinnerCount", 0),
             "handle":      handle,
-            "displayName": u.get("displayName", handle),
+            "displayName": dn or handle,
             "praca":       info["praca"],
             "pais":        info["pais"],
             "diretoria":   info["diretoria"],
