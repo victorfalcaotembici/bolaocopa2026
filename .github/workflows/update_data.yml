@@ -1,4 +1,5 @@
 name: Atualizar dados bolão
+
 on:
   schedule:
     - cron: '0 * * * *'   # todo hora
@@ -8,17 +9,21 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.0
-      - uses: actions/setup-python@v5.1.0
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Instalar dependências
-        run: pip install -r requirements.txt
+        run: pip install requests openpyxl
+
       - name: Buscar dados do Dacopa
         env:
           FIREBASE_REFRESH_TOKEN: ${{ secrets.FIREBASE_REFRESH_TOKEN }}
           FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
         run: python fetch_dacopa.py
+
       - name: Commit data.json se mudou
         run: |
           git config user.name "github-actions[bot]"
